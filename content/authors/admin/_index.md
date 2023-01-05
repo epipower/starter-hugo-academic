@@ -1,6 +1,5 @@
 ---
-title: Epipower
-role: Epilepsie Empowerment Deutschland e.V.
+avatar_filename: epi_power_icon_rz.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -47,7 +46,9 @@ superuser: true
 status:
   icon: ☕️
 last_name: Wu
+role: Epilepsie Empowerment Deutschland e.V.
 highlight_name: true
+title: Epipower
 first_name: Alice
 email: ""
 ---
