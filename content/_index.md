@@ -7,9 +7,9 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Hugo Academic Theme
+      title: Epilepsie Empowerment Deutschland e.V.
       image:
-        filename: hero-academic.png
+        filename: Epi_Power_Icon_RZ.png
       cta:
         label: '**Get Started**'
         url: https://wowchemy.com/templates/
@@ -32,8 +32,8 @@ sections:
         <script async defer src="https://buttons.github.io/buttons.js"></script>
     design:
       background:
-        gradient_end: '#1976d2'
-        gradient_start: '#004ba0'
+        gradient_end: 'rgb(53,62,124)'
+        gradient_start: 'rgb(29,35,67)' #'#004ba0'
         text_color_light: true
   - block: about.avatar
     id: about
