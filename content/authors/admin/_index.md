@@ -1,5 +1,5 @@
 ---
-avatar_filename: epi_power_icon_rz.png
+avatar_filename: epipower_wo_back.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
