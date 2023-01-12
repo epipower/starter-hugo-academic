@@ -10,7 +10,7 @@ sections:
       title: Epilepsie Empowerment Deutschland e.V.
       image:
         filename: Epi_Power_Icon_RZ.png
-        position: left
+        #position: left
       cta:
         label: '**Get Started**'
         url: https://wowchemy.com/templates/
