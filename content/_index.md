@@ -41,7 +41,7 @@ sections:
     id: blog
     content:
       title: Blog
-      subtitle: Weitere Artikel im [Archiv](https://epipower.netlify.app/blog)
+      subtitle: Weitere Artikel im [Archiv](https://epipower.netlify.app/post)
       text:
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
