@@ -23,7 +23,7 @@ sections:
       subtitle:
       text:
       items:
-          - name: Wir für dich
+        - name: Wir für dich
           description: Wir sind eine Gruppe junger Menschen, die alle Epilepsie betroffen sind. Wir kümmern uns um den Ausbau von digitalen Selbsthilfeangeboten und vernetzen Menschen mit Epilepsie. Darüberhinaus arbeiten wir mit anderen Organisationen auf nationaler und internationaler zusammen, sprechen mit Vertretern der Krankenkassen, der Pharmaindustrie oder dem Gesetzgeber. Wir vertreten also deine und unsere Interessen. Wenn du mehr erfahren willst, klicke dich gerne duch unseren Blog oder folge uns bei Instagram.
           icon: users
           icon_pack: fas
@@ -37,7 +37,6 @@ sections:
           icon_pack: fab
     design:
         columns: '2'
-        css_style:
   - block: collection
     id: blog
     content:
