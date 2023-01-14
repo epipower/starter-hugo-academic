@@ -7,19 +7,12 @@ sections:
     content:
         title:
         subtitle:
-        text: <img src="Epi_Power_blue_RZ_edit_small.png"/>
+        text: <img src="cutted.png"/>
     design:
-      columns: '2'
+      columns: '1'
       background:
         color: 'rgb(29,35,67)' #rgb(41,41,46)
         text_color_light: true
-  - block: about.avatar
-    id: about
-    content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      # Override your bio text from `authors/admin/_index.md`?
-      text:
   - block: collection
     id: posts
     content:
