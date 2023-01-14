@@ -40,7 +40,7 @@ sections:
   - block: collection
     id: blog
     content:
-      title: Blog
+      title: [Blog](https://epipower.netlify.app/blog)
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
