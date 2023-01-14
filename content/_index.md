@@ -24,15 +24,15 @@ sections:
       text:
       items:
         - name: Wir für dich
-          description: Wir sind eine Gruppe junger Menschen, die alle Epilepsie betroffen sind. Wir kümmern uns um den Ausbau von digitalen Selbsthilfeangeboten und vernetzen Menschen mit Epilepsie. Darüberhinaus arbeiten wir mit anderen Organisationen auf nationaler und internationaler zusammen, sprechen mit Vertretern der Krankenkassen, der Pharmaindustrie oder dem Gesetzgeber. Wir vertreten also deine und unsere Interessen. Wenn du mehr erfahren willst, klicke dich gerne duch unseren Blog oder folge uns bei Instagram.
+          description: Wir sind eine Gruppe junger Menschen, die alle von Epilepsie betroffen sind. Wir kümmern uns um den Ausbau von digitalen Selbsthilfeangeboten und vernetzen Menschen. Darüberhinaus arbeiten wir mit anderen Organisationen auf nationaler und internationaler zusammen, sprechen mit Vertretern der Krankenkassen, der Pharmaindustrie oder dem Gesetzgeber. Wir vertreten also deine und gleichzeitig unsere Interessen.
           icon: users
           icon_pack: fas
         - name: Zoom Epilepsie-Meeting
-          description: Jeden ersten Dienstag im Monat starten wir ein Zoom-Meeting für Menschen, die von Epilepsie betroffen sind. Nach einem Impulsvortag von Forschenden, Ärzten oder Patienten, tauschen sich die Teilnehmer anschließend zu verschiedenen Themen aus, spezifisch zur Epilepsie aber auch Privates. Es geht also ganz locker zu. Du hast Interesse? Dann melde dich einfach [hier](https://www.google.com) und du bekommst regelmäßig die Zugangsdaten per Mail.
+          description: Jeden ersten Dienstag im Monat starten wir ein Zoom-Meeting für Menschen, die von Epilepsie betroffen sind. Nach einem Impulsvortag über etwas Aktuelles aus der Epilepsie tauschen sich die Teilnehmer anschließend zu verschiedenen Themen aus, spezifisch zur Epilepsie aber auch Privates. Es geht also ganz locker zu. Du hast Interesse? Dann melde dich einfach [hier](https://www.google.com) und du bekommst regelmäßig die Zugangsdaten per Mail.
           icon: video
           icon_pack: fas
         - name: Slack Online-Forum
-          description:  Wie bewältigst du deinen Alltag mit deiner Epilepsie? Bist du zufrieden mit deiner Therapie? Kennst du andere Menschen, die von Epilepsie betroffen sind? Wir bieten dir eine Community zum Fragen stellen, Vernetzen und zum sich gegenseitig Austauschen. Akutell haben wir hierfür ein Online-Forum auf Slack erstellt. Schreib uns einfach hier, wenn du dabei sein möchtest und wir lassen dir einen Einladungslink zukommen. 
+          description:  Wie bewältigst du den Alltag mit deiner Epilepsie? Bist du zufrieden mit deiner Therapie? Kennst du andere Menschen, die von Epilepsie betroffen sind? Wir bieten dir eine Community zum Fragen stellen, Vernetzen und zum sich gegenseitig Austauschen. Akutell haben wir hierfür ein Online-Forum auf Slack erstellt. Klick einfach hier, wenn du dabei sein möchtest und wir lassen dir zeitnah einen Einladungslink zukommen. 
           icon: slack
           icon_pack: fab
     design:
@@ -68,25 +68,14 @@ sections:
     id: contact
     content:
       title: Kontakt
-      # email: info@epipower.de
+      email: info@epipower.de
       # Automatically link email and phone or display as text
       autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree: 
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: true
       contact_links:
         - icon: instagram
           icon_pack: fab
+          name: epipower.de
           link: https://www.instagram.com/epipower.de/
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
     design:
       columns: '2'
 ---
