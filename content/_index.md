@@ -7,7 +7,7 @@ sections:
     content:
         title:
         subtitle:
-        text: <img src="cutted.png"/>
+        text: <img src="Header_Epipower.png"/>
     design:
       columns: '2'
       background:
