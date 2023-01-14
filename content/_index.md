@@ -24,7 +24,6 @@ sections:
       items:
         - name: Zoom Epilepsie-Meeting
           description: Einmal im Monat treffen sich von Epilepsie betroffene  Menschen zum Zoom-Meeting um sich auzutauschen. Du möchtest über deine Erfahrungen mit der Krankheit sprechen oder einfach mal zuhören was andere über sich zu berichten haben? Mach mit Link 
-          {style="text-align: justify;"}
           icon: video
           icon_pack: fas
         - name: Slack Online-Forum
@@ -68,17 +67,17 @@ sections:
     id: contact
     content:
       title: Kontakt
-      email: info@epipower.de
+      # email: info@epipower.de
       # Automatically link email and phone or display as text
       autolink: true
       # Email form provider
       form:
         provider: netlify
-        formspree:
+        formspree: 
           id:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+          captcha: true
     design:
       columns: '2'
 ---
