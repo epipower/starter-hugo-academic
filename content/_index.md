@@ -13,6 +13,9 @@ sections:
       background:
         color: 'rgb(29,35,67)' #rgb(41,41,46)
         text_color_light: true
+      spacing:
+         # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ["20px", "0", "20px", "0"]
   - block: collection
     id: posts
     content:
