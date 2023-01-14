@@ -1,5 +1,5 @@
 ---
-avatar_filename: epipower_wo_back.png
+avatar_filename: Epi_Power_Icon_RZ.jpg
 social:
   - icon: envelope
     icon_pack: fas
