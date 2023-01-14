@@ -24,15 +24,15 @@ sections:
       items:
         - name: Zoom Epilepsie-Meeting
           description: Einmal im Monat treffen sich von Epilepsie betroffene  Menschen zum Zoom-Meeting um sich auzutauschen. Du möchtest über deine Erfahrungen mit der Krankheit sprechen oder einfach mal zuhören was andere über sich zu berichten haben? Mach mit Link
-          icon: chart-line
+          icon: video
           icon_pack: fas
         - name: Slack Online-Forum
           description: Disktuieren mit anderen über ..
           icon: slack
-          icon_pack: fas
+          icon_pack: fab
         - name: Patientenarbeit
           description: 10%
-          icon: users-medical
+          icon: users
           icon_pack: fas
     design:
         columns: '2'
