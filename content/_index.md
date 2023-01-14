@@ -37,11 +37,11 @@ sections:
   #       text_color_light: true
   - block: markdown
     content:
-        title: Epipower
-        subtitle: Epilepsie Empowerment Deutschland e.V.
-        text: Blala
-    #image:
-      #filename: Epi_Power_Icon_RZ.png
+        #title: Epipower
+        #subtitle: Epilepsie Empowerment Deutschland e.V.
+        #text: Blala
+      image:
+        filename: Epi_Power_Icon_RZ.png
     design:
       background:
         gradient_end: 'rgb(53,62,124)'
