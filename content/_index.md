@@ -41,7 +41,8 @@ sections:
     id: blog
     content:
       title: Blog
-      subtitle: ''
+      subtitle: '[Archiv] (https://epipower.netlify.app/blog)'
+      text:
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
@@ -59,7 +60,6 @@ sections:
       offset: 0
       # Page order: descending (desc) or ascending (asc) date.
       order: desc
-      text: Mehr Artikel
     design:
       # Choose a layout view
       view: compact
