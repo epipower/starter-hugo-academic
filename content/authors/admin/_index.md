@@ -1,9 +1,9 @@
 ---
-avatar_filename: Epi_Power_Icon_RZ.jpg
+avatar_filename: avatar.jpg
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: mailto:epipower.de
     display:
       header: true
   - icon: instagram
