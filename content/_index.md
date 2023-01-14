@@ -24,16 +24,15 @@ sections:
       text:
       items:
         - name: Zoom Epilepsie-Meeting
-          description: Einmal im Monat treffen sich von Epilepsie betroffene  Menschen zum Zoom-Meeting um sich auzutauschen. Du möchtest über deine Erfahrungen mit der Krankheit sprechen oder einfach mal zuhören was andere über sich zu berichten haben? Mach mit Link 
+          description: Jeden ersten Dienstag im Monat treffen sich von Epilepsie betroffene Menschen zum Zoom-Meeting. Nach einem spannenden Impulsvortag von Patienten, Forschenden oder Ärzten, tauschen sich die Teilnehmer zu zu allen möglichen Themen rund um die Epilepsie aus. Du hast Interesse? Dann melde dich einfach hier und du bekommst regelmäßig die Zugangsdaten übermittelt.
           icon: video
           icon_pack: fas
         - name: Slack Online-Forum
-          description: Disktuieren mit anderen über ..
+          description:  Welche Sportarten machst du trotz Epilepsie? Bist du zufrieden mit deiner Therapie? Kennst du andere Menschen, die von Epilepsie betroffen sind? Wir bieten eine Community zum Fragen stellen, Vernetzen und zum gegenseitigen Austausch. Akutell haben wir hierfür ein Online-Forum über Slack. Schreib uns einfach hier, wenn du dabei sein möchtest und wir lassen dir einen Einladungslink zukommen.
           icon: slack
           icon_pack: fab
-        - name: Von Patienten für Patienten 
-          description: Test
-          text: Vernetzen, Ausbau Digital Selbsthilfe, Diskussion mit Krankenkassen, Gesetzgeber Wir möchten Menschen mit Epilepsien und deren Angehörige vernetzen. Es gibt monatliche Online-Treffen und gelegentlich Präsenztreffen anstatt des traditionellen Modells einer lokalen Selbsthilfegruppe. Durch die Zusammenarbeit mit anderen Organisationen auf nationaler und internationaler Ebene kann ein größerer Austausch erfolgen sowie auch weitere Möglichkeiten des Einbringens in Organisationen.
+        - name: Von Betroffenen für Betroffene
+          description: Wir sind eine Gruppe junger Menschen, die von Epilepsie betroffen sind. Wir kümmern uns um den Ausbau von digitalen Selbsthilfeangeboten und vernetzen Menschen mit Epilepsie. Darüberhinaus arbeiten wir mit anderen Organisationen auf nationaler und internationaler zusammen, sprechen mit Vertretern der Krankenkassen, der Pharmaindustrie oder dem Gesetzgeber. Als Onorganisation von Betroffenen für Betroffene vertreten wir deine und unsere Interessen. Wenn du mehr erfahren willst, klicke dich gerne duch unseren Blog oder folge uns bei Instagram.
           icon: users
           icon_pack: fas
     design:
