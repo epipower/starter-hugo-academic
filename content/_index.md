@@ -31,8 +31,9 @@ sections:
           description: Disktuieren mit anderen über ..
           icon: slack
           icon_pack: fab
-        - name: Patientenarbeit
-          description: 10%
+        - name: Von Patienten für Patienten 
+          description: Test
+          text: Vernetzen, Ausbau Digital Selbsthilfe, Diskussion mit Krankenkassen, Gesetzgeber Wir möchten Menschen mit Epilepsien und deren Angehörige vernetzen. Es gibt monatliche Online-Treffen und gelegentlich Präsenztreffen anstatt des traditionellen Modells einer lokalen Selbsthilfegruppe. Durch die Zusammenarbeit mit anderen Organisationen auf nationaler und internationaler Ebene kann ein größerer Austausch erfolgen sowie auch weitere Möglichkeiten des Einbringens in Organisationen.
           icon: users
           icon_pack: fas
     design:
