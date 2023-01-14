@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Epipower Fonts"
+
+# Optional Google font URL
+google_fonts = "family=Titillium+Web:wght@300"
+
+# Font families
+heading_font = "Titillium Web"
+body_font = "Titillium Web"
+nav_font = "Titillium Web"
+mono_font = "Titillium Web"
