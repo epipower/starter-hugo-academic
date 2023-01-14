@@ -5,9 +5,9 @@ sections:
   - block: markdown
     id: home
     content:
-        title: Epipower
-        subtitle: Epilepsie Empowerment Deutschland e.V.
-        text: <img src="Epi_Power_Icon_RZ.png"/>
+        title:
+        subtitle:
+        text: <img src="Epi_Power_Icon_RZ.png"/> Epipower Epilepsie Empowerment Deutschland
     design:
       columns: '2'
       background:
