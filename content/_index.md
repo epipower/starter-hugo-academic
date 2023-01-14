@@ -7,7 +7,7 @@ sections:
     content:
         title:
         subtitle:
-        text: <img src="Epi_Power_Icon_RZ.png"/> Epipower Epilepsie Empowerment Deutschland
+        text: <img src="Epi_Power_blue_RZ.svg"/>
     design:
       columns: '2'
       background:
