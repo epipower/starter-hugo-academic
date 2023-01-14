@@ -2,7 +2,7 @@
 name = "Epipower Fonts"
 
 # Optional Google font URL
-google_fonts = "family=Titillium+Web:wght@300"
+google_fonts = "family=Titillium+Web:wght@300;700"
 
 # Font families
 heading_font = "Titillium Web"
