@@ -17,10 +17,11 @@ sections:
          # Customize the section spacing. Order is top, right, bottom, left.
         padding: ["20px", "0", "20px", "0"] #margin
   - block: features
+    id: empowerment
     content:
       title: Empowerment
       subtitle:
-      text: Digitale Selbsthilfe etc..
+      text:
       items:
         - name: Zoom Epilepsie-Meeting
           description: Einmal im Monat treffen sich von Epilepsie betroffene  Menschen zum Zoom-Meeting um sich auzutauschen. Du möchtest über deine Erfahrungen mit der Krankheit sprechen oder einfach mal zuhören was andere über sich zu berichten haben? Mach mit Link 
@@ -37,9 +38,9 @@ sections:
     design:
         columns: '2'
   - block: collection
-    id: posts
+    id: blog
     content:
-      title: Aktuelles
+      title: Blog
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -78,6 +79,14 @@ sections:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: true
+      contact_links:
+        - icon: instagram
+          icon_pack: fab
+          link: https://www.instagram.com/epipower.de/
+        - icon: video
+          icon_pack: fas
+          name: Zoom Me
+          link: 'https://zoom.com'
     design:
       columns: '2'
 ---
