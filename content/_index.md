@@ -15,25 +15,25 @@ sections:
         text_color_light: true
       spacing:
          # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ["20px", "0", "20px", "0"]
+        padding: ["20px", "0", "20px", "0"] #margin
   - block: features
     content:
       title: Empowerment
       subtitle:
       text: Digitale Selbsthilfe etc..
       items:
-        - name: Zoom-Epilepsie-Meeting
+        - name: Zoom Epilepsie-Meeting
           description: Einmal im Monat treffen sich von Epilepsie betroffene  Menschen zum Zoom-Meeting um sich auzutauschen. Du möchtest über deine Erfahrungen mit der Krankheit sprechen oder einfach mal zuhören was andere über sich zu berichten haben?
           icon: camera-web
-          icon_pack: fas
-        - name: Slack-Online-Forum
+          icon_pack: fab
+        - name: Slack Online-Forum
           description: Disktuieren mit anderen 
           icon: slack
           icon_pack: fab
         - name: Patientenarbeit
           description: 10%
           icon: users-medical
-          icon_pack: fas
+          icon_pack: fab
     design:
         columns: '2'
   - block: collection
