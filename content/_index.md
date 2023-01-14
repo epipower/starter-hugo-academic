@@ -28,11 +28,11 @@ sections:
           icon: users
           icon_pack: fas
         - name: Zoom Epilepsie-Meeting
-          description: Jeden ersten Dienstag im Monat starten wir ein Zoom-Meeting für von Epilepsie betroffene Menschen. Nach einem Impulsvortag von Forschenden, Ärzten oder Patienten, tauschen sich die Teilnehmer zu zu allen möglichen Themen rund um die Epilepsie aus. Du hast Interesse? Dann melde dich einfach hier und du bekommst regelmäßig die Zugangsdaten per Mail.
+          description: Jeden ersten Dienstag im Monat starten wir ein Zoom-Meeting für Menschen, die von Epilepsie betroffen sind. Nach einem Impulsvortag von Forschenden, Ärzten oder Patienten, tauschen sich die Teilnehmer anschließend zu verschiedenen Themen aus, spezifisch zur Epilepsie aber auch Privates. Es geht also ganz locker zu. Du hast Interesse? Dann melde dich einfach [hier](https://www.google.com) und du bekommst regelmäßig die Zugangsdaten per Mail.
           icon: video
           icon_pack: fas
         - name: Slack Online-Forum
-          description:  Welche Sportarten machst du trotz Epilepsie? Bist du zufrieden mit deiner Therapie? Kennst du andere Menschen, die von Epilepsie betroffen sind? Wir bieten dir eine Community zum Fragen stellen, Vernetzen und zum sich gegenseitigen austauschen. Akutell haben wir hierfür ein Online-Forum auf Slack erstellt. Schreib uns einfach hier, wenn du dabei sein möchtest und wir lassen dir einen Einladungslink zukommen.
+          description:  Wie bewältigst du deinen Alltag mit deiner Epilepsie? Bist du zufrieden mit deiner Therapie? Kennst du andere Menschen, die von Epilepsie betroffen sind? Wir bieten dir eine Community zum Fragen stellen, Vernetzen und zum sich gegenseitig Austauschen. Akutell haben wir hierfür ein Online-Forum auf Slack erstellt. Schreib uns einfach hier, wenn du dabei sein möchtest und wir lassen dir einen Einladungslink zukommen. 
           icon: slack
           icon_pack: fab
     design:
