@@ -76,6 +76,10 @@ sections:
           icon_pack: fab
           name: epipower.de
           link: https://www.instagram.com/epipower.de/
+        - icon: linkedin
+          icon_pack: fab
+          name: Epilepsie Empowerment Deutschland e.V.
+          link: https://www.linkedin.com/company/epilepsie-empowerment-deutschland-e-v/
     design:
       columns: '2'
 ---

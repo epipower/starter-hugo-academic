@@ -13,7 +13,9 @@ social:
       header: true
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/company/epilepsie-empowerment-deutschland-e-v/
+    display:
+      header: true
 superuser: true
 last_name: Epipower
 role: Epilepsie Empowerment Deutschland e.V.
@@ -22,5 +24,4 @@ title: Epipower
 first_name:
 email: ""
 ---
-Text über Epipower
 {style="text-align: justify;"}
