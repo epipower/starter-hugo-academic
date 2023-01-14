@@ -1,15 +1,15 @@
 ---
 title: Epipower
 type: landing
-
 sections:
   - block: markdown
-    id: logo
+    id: home
     content:
-        #title: Epipower
-        #subtitle: Epilepsie Empowerment Deutschland e.V.
-        #text: <img src="Epi_Power_Icon_RZ.png"/>
+        title: Epipower
+        subtitle: Epilepsie Empowerment Deutschland e.V.
+        text: <img src="Epi_Power_Icon_RZ.png"/>
     design:
+      columns: '2'
       background:
         color: 'rgb(29,35,67)'
         text_color_light: true
@@ -65,20 +65,7 @@ sections:
     content:
       title: Kontakt
       email: info@epipower.de
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
-      # Automatically link email and phone or display as text?
+      # Automatically link email and phone or display as text
       autolink: true
       # Email form provider
       form:
@@ -90,8 +77,4 @@ sections:
           captcha: false
     design:
       columns: '2'
-
-banner:
-  image: "Epi_Power_Icon_RZ.png"
-  caption: "Image credit: [**Geo**](https://github.com/gcushen/)"
 ---
