@@ -3,7 +3,7 @@ avatar_filename: avatar.jpg
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:epipower.de
+    link: mailto:info@epipower.de
     display:
       header: true
   - icon: instagram
