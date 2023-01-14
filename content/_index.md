@@ -9,7 +9,7 @@ sections:
         subtitle:
         text: <img src="cutted.png"/>
     design:
-      columns: '1'
+      columns: '2'
       background:
         color: 'rgb(29,35,67)' #rgb(41,41,46)
         text_color_light: true
