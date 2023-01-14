@@ -8,7 +8,7 @@ sections:
     content:
         #title: Epipower
         #subtitle: Epilepsie Empowerment Deutschland e.V.
-        text: {{<figure src="Epi_Power_Icon_RZ.png" resize_options="250x250" >}}
+        text: {{<figure src="Epi_Power_Icon_RZ.png">}}
     design:
       background:
         color: 'rgb(29,35,67)'
