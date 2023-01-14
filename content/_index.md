@@ -23,7 +23,8 @@ sections:
       text: Digitale Selbsthilfe etc..
       items:
         - name: Zoom Epilepsie-Meeting
-          description: <div style="text-align: justify"> Einmal im Monat treffen sich von Epilepsie betroffene  Menschen zum Zoom-Meeting um sich auzutauschen. Du möchtest über deine Erfahrungen mit der Krankheit sprechen oder einfach mal zuhören was andere über sich zu berichten haben? Mach mit Link </div>
+          description: Einmal im Monat treffen sich von Epilepsie betroffene  Menschen zum Zoom-Meeting um sich auzutauschen. Du möchtest über deine Erfahrungen mit der Krankheit sprechen oder einfach mal zuhören was andere über sich zu berichten haben? Mach mit Link 
+          {style="text-align: justify;"}
           icon: video
           icon_pack: fas
         - name: Slack Online-Forum
