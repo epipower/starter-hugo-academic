@@ -7,7 +7,7 @@ sections:
     content:
         title:
         subtitle:
-        text: <img src="Epi_Power_blue_RZ_edit.png"/>
+        text: <img src="Epi_Power_blue_RZ_edit_small.png"/>
     design:
       columns: '2'
       background:
