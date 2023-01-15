@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Archiv
 cms_exclude: true
 
 # View.

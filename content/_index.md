@@ -1,5 +1,5 @@
 ---
-title: Epipower
+title: Epilepsie Empowerment Deutschland e.V.
 type: landing
 sections:
   - block: markdown
@@ -41,7 +41,7 @@ sections:
     id: blog
     content:
       title: Blog
-      subtitle: Weitere Artikel im [Archiv](https://epipower.netlify.app/post)
+      subtitle: Weitere Artikel im [Archiv](/post)
       text:
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
