@@ -10,7 +10,7 @@ image:
   preview_only: false
   caption: "Bildnachweis: Sabrina "
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -51,9 +51,9 @@ image:
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -632,9 +632,9 @@ image:
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -652,7 +652,7 @@ image:
 	font-family:"Arial",sans-serif;
 	mso-ansi-language:#0007;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -662,18 +662,14 @@ Ich habe 2012 meinen Abschluss gemacht und bin von Paris zu meinem damaligen Fre
 
 Während vielen Jahren hatte ich einige Selbstvertrauensprobleme. Ich dachte immer, ich müsste bessere Leistungen erbringen, mich weniger beschweren als jede andere Person, weil ich froh sein sollte, einen Job zu haben. Sehr lange habe ich gedacht, ich sollte meinem guten Stern jeden Tag danken, dass ich eingestellt wurde.
 
-Lass mich dir eines sagen: Jetzt weiß ich, dass jedes Unternehmen Glück haben sollte, mich einzustellen. Klingt übermütig oder arrogant? Nein, ich kenne meinen Wert und ich lasse mich nicht mehr klein machen wegen meiner Krankheit. Nachdem ich zehn Jahre lang gedacht hatte, dass meine chronische Krankheit mich schwach und schwer einzustellen machte, weiß ich, dass meine Epilepsie mich stark, hartnäckig und ausdauernd gemacht hat, was großartige Qualitäten in meiner Branche sind. Muss ich manchmal Dinge anders machen als meine Kollegen? Ja, mein Gehirn arbeitet anders. Ich brauche Pausen, und manchmal brauche ich Power Naps. Einfach die Augen für 15 Minuten ohne Computer/Handy Licht schließen. Ich brauche meine min. acht Stunden Schlaf, meine Meditations-Zeiten und frische Luft. Aber wenn wir ehrlich sind, sind das gesunde Gewohnheiten, nicht nur für Menschen mit Epilepsie.
-
- 
+**Lass mich dir eines sagen:** Jetzt weiß ich, dass jedes Unternehmen Glück haben sollte, mich einzustellen. Klingt übermütig oder arrogant? Nein, ich kenne meinen Wert und ich lasse mich nicht mehr klein machen wegen meiner Krankheit. Nachdem ich zehn Jahre lang gedacht hatte, dass meine chronische Krankheit mich schwach und schwer einzustellen machte, weiß ich, dass meine Epilepsie mich stark, hartnäckig und ausdauernd gemacht hat, was großartige Qualitäten in meiner Branche sind. Muss ich manchmal Dinge anders machen als meine Kollegen? Ja, mein Gehirn arbeitet anders. Ich brauche Pausen, und manchmal brauche ich Power Naps. Einfach die Augen für 15 Minuten ohne Computer/Handy Licht schließen. Ich brauche meine min. acht Stunden Schlaf, meine Meditations-Zeiten und frische Luft. Aber wenn wir ehrlich sind, sind das gesunde Gewohnheiten, nicht nur für Menschen mit Epilepsie.
 
 Wenn ich in einem Meeting bin, muss ich alles aufschreiben, denn mein Kurz- und Langzeitgedächtnis ist wie ein Schweizer Käse, es hat viele Löcher. Es kann ziemlich peinlich sein, wenn ich einen schlechten Tag habe und mich wirklich nicht konzentrieren kann, weil es für einen normalen Menschen manchmal schwer zu verstehen ist, dass ich die Dinge in meinem Tempo machen muss. Es hat nichts mit Intelligenz zu tun, nur mit den vielen Medikamenten, die ich dreimal am Tag nehmen muss, die eine große Rolle auf meinen Geist & Körper spielen. Dann hilft Pause machen und später weitermachen.
 
- 
+Als ich jünger war, dachte ich, ich müsste meine Krankheit verbergen. Anfälle im Hinterhof haben, wenn ich eine Aura fühlte, fünf Minuten Nickerchen auf der Toilette machen, um meine Augen schließen zu können und wenn jemand fragte, ob es mir gut geht, immer eine gute Ausrede zu haben. Das ist nicht der richtige Weg. Wenn man in einer guten Firma ist, muss man darüber reden können. 
 
-Als ich jünger war, dachte ich, ich müsste meine Krankheit verbergen. Anfälle im Hinterhof haben, wenn ich eine Aura fühlte, fünf Minuten Nickerchen auf der Toilette machen, um meine Augen schließen zu können und wenn jemand fragte, ob es mir gut geht, immer eine gute Ausrede zu haben. Das ist nicht der richtige Weg. Wenn man in einer guten Firma ist, muss man darüber reden können. Du bist eine Bereicherung, vergiss es nie. Es ist doch nicht schlimm, wenn du dich 15 Minuten hinlegen musst, dein Yoga/Meditation machst oder was auch immer für dich funktioniert? Sogar Mitarbeiter ohne medizinische Probleme tun es. Wir müssen aufhören, uns zu überarbeiten, weil wir denken, dass wir unsere gesundheitlichen Mängel ausgleichen müssen. Es ist eine andere Art, das Leben zu leben und sobald wir es akzeptieren, wenn wir sehr offen damit leben, wird es zu unserer größten Stärke. Heute arbeite ich für ein großartiges Unternehmen, das sehr integrativ ist und ein großartiges Management- und HR-Team hat. Ich muss mich nie vor diesem Thema verstecken. Ich gehe nicht mehr mit hohem Fieber zur Arbeit, weil ich denke „Hallo, ich habe schon Epilepsie, ich kann nicht auch noch erkältet sein wie alle anderen.“ Äh… ja, das kannst Du, es ist normal und wenn es ansteckend ist, sei bitte nicht stolz darauf, zu arbeiten, ruh Dich einfach aus und werde gesund!
+**Du bist eine Bereicherung**, vergiss es nie. Es ist doch nicht schlimm, wenn du dich 15 Minuten hinlegen musst, dein Yoga/Meditation machst oder was auch immer für dich funktioniert? Sogar Mitarbeiter ohne medizinische Probleme tun es. Wir müssen aufhören, uns zu überarbeiten, weil wir denken, dass wir unsere gesundheitlichen Mängel ausgleichen müssen. Es ist eine andere Art, das Leben zu leben und sobald wir es akzeptieren, wenn wir sehr offen damit leben, wird es zu unserer größten Stärke. Heute arbeite ich für ein großartiges Unternehmen, das sehr integrativ ist und ein großartiges Management- und HR-Team hat. Ich muss mich nie vor diesem Thema verstecken. Ich gehe nicht mehr mit hohem Fieber zur Arbeit, weil ich denke „Hallo, ich habe schon Epilepsie, ich kann nicht auch noch erkältet sein wie alle anderen.“ Äh… ja, das kannst Du, es ist normal und wenn es ansteckend ist, sei bitte nicht stolz darauf, zu arbeiten, ruh Dich einfach aus und werde gesund!
 
- 
-
-Mein einziger Rat ist: Versuche herauszufinden, was Dir ein gutes Gefühl gibt, deine Routine/Rhythmus und finde einen Weg, es in deiner Arbeitswelt zu integrieren. Eine gute Kommunikation mit dem Management/der Personalabteilung ist primordial. Du wirst schlechte Tage haben, an denen Du sehr gestresst bist, aber versuche, Momente für Dein Wohlbefinden zu blockieren. Du kannst es sogar in deinen Kalender eintragen. Denke immer daran: Wenn du Dich großartig fühlst = großartiger Mitarbeiter / gute Arbeit = glücklicher Manager. Wenn du Dich schlecht fühlst, wirst Du nicht in der Lage sein, Leistung zu erbringen, kreativ zu sein oder was auch immer Deine Branche von Dir verlangt.
+**Mein einziger Rat ist:** Versuche herauszufinden, was Dir ein gutes Gefühl gibt, deine Routine/Rhythmus und finde einen Weg, es in deiner Arbeitswelt zu integrieren. Eine gute Kommunikation mit dem Management/der Personalabteilung ist primordial. Du wirst schlechte Tage haben, an denen Du sehr gestresst bist, aber versuche, Momente für Dein Wohlbefinden zu blockieren. Du kannst es sogar in deinen Kalender eintragen. Denke immer daran: Wenn du Dich großartig fühlst = großartiger Mitarbeiter / gute Arbeit = glücklicher Manager. Wenn du Dich schlecht fühlst, wirst Du nicht in der Lage sein, Leistung zu erbringen, kreativ zu sein oder was auch immer Deine Branche von Dir verlangt.
 
 <!--EndFragment-->
