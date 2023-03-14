@@ -52,11 +52,10 @@ Wir setzen auf unserer Webseite auf Grundlage des Art. 6 Abs. 1 S. 1 lit f DSGVO
 ### Hinweis für Onlinespenden
 Auf unserer Webseite bieten wir Ihnen u.a. die Möglichkeit an, uns online Spenden über PayPal zukommen zu lassen. Anbieter dieses Zahlungsdienstes ist die PayPal (Europe) S.á.r.l. et Cie, S.C.A., 22-24, Boulevard Royal, L-2449 Luxembourg (im Folgenden: PayPal). Wenn Sie über PayPal spenden, werden die von Ihnen eingegebenen Daten an PayPal übermittelt. Die Übermittlung Ihrer Daten an PayPal erfolgt auf Grundlage von Art. 6 Abs. 1 lit. a DSGVO (Einwilligung) und Art. 6 Abs. 1 lit. b DSGVO (Verarbeitung zur Erfüllung eines Vertrages). Sie haben die Möglichkeit, Ihre Einwilligung zur Datenverarbeitung jederzeit zu widerrufen. Ein Widerruf wirkt sich auf die Wirksamkeit von in der Vergangenheit liegenden Datenverarbeitungsvorgängen nicht aus. Weitere Informationen finden Sie in den Datenschutzerklärung von PayPal.
 
-## Aktualität und Änderung dieser Datenschutzerklärung
+### Aktualität und Änderung dieser Datenschutzerklärung
 Diese Datenschutzerklärung ist aktuell gültig und hat den Stand **14.03.2023***
 
 Durch die Weiterentwicklung unserer Webseite und Angebote darüber oder aufgrund geänderter gesetzlicher beziehungsweise behördlicher Vorgaben kann es notwendig werden, diese Datenschutzerklärung zu ändern. Die jeweils aktuelle Datenschutzerklärung kann jederzeit auf unserer Webseite abgerufen werden.
 
 ### Cookies
-
 <script id="CookieDeclaration" src="https://consent.cookiebot.com/fc36b5a5-d061-42bb-aacd-9916abd1e661/cd.js" type="text/javascript" async></script>
