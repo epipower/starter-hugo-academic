@@ -11,7 +11,7 @@ sections:
     design:
       columns: '2'
       background:
-        color: 'rgb(29,35,67)' #rgb(41,41,46)
+        color: 'rgb(41,41,86)' #'rgb(29,35,67)'
         text_color_light: true
       spacing:
          # Customize the section spacing. Order is top, right, bottom, left.
