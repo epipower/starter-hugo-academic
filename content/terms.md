@@ -7,8 +7,6 @@ commentable: false
 share: false
 ---
 
-# Impressum
-
 ## Epilepsie Empowerment Deutschland e.V. (Epipower) 
 
 Gemeinnütziger Verein<br> 
