@@ -7,7 +7,7 @@ commentable: false
 share: false
 ---
 
-## Epilepsie Empowerment Deutschland e.V. (Epipower) 
+### Epilepsie Empowerment Deutschland e.V. (Epipower) 
 
 Gemeinnütziger Verein<br> 
 Vereinssitz: Elmenhorst<br> 
