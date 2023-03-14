@@ -3,12 +3,12 @@ name = "Epipower Theme"
 
 [light]
   # Primary
-  primary = "rgb(29,35,67)" #background blue epipower logo (zuvor "#2962ff")
+  primary = "rgb(41,41,86)" #"rgb(29,35,67)" background blue epipower logo (zuvor "#2962ff")
 
   # Menu
   menu_primary = "rgb(255, 255, 255)" # "rgb(247, 250, 252)" #white but not the same odd or even
   menu_text = "#34495e" #light grey
-  menu_text_active = "rgb(29,35,67)" #background blue epipower logo (zuvor"#2962ff") evtl. etwas agressiver
+  menu_text_active = "rgb(41,41,86)" # "rgb(29,35,67)"background blue epipower logo (zuvor"#2962ff") evtl. etwas agressiver
   menu_title = "#2b2b2b"#dark grey
 
   # Home sections
