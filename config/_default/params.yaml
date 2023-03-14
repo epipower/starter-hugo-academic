@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: epipower_theme
-  font: epipower_theme.toml #minimal
+  font: epipowerfont #minimal
   font_size: L
 
 # SEO
