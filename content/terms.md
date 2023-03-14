@@ -11,10 +11,9 @@ share: false
 Gemeinnütziger Verein<br> 
 Vereinssitz: Elmenhorst<br> 
 Verwaltungssitz: Untere Turmgasse 5/1, 74206 Bad Wimpfen<br> 
-Inhaltlich Verantwortlicher gem. § 10 Abs. 2 MDStV: Sina Lang (Vorsitzende)<br> 
 Vereinsregister: Amtsgericht Lübeck VR 4631 HL<br> 
 Steuernummer: 30/299/85256<br> 
-Finanzamt Stormarn <br> 
+Finanzamt: Stormarn <br> 
 Umsatzsteuer-Identifikationsnummer gem. § 27a Umsatzsteuergesetz: beantragt<br> 
 
 ### Website
@@ -22,6 +21,7 @@ Index: [www.epipower.de](https://www.epipower.de)<br>
 Design: Nicolas Zabler<br> 
 Programmierung: Nicolas Zabler<br> 
 Inhaltliche Gestaltung: Leonie Wollscheid<br> 
+Inhaltlich Verantwortlicher gem. § 10 Abs. 2 MDStV: Sina Lang (Vorsitzende)<br> 
 
 ### Datenschutz
 Beachten Sie bitte die Hinweise zum Datenschutz in unseren [Datenschutzrichtlinien](https://www.epipower.de/privacy).
