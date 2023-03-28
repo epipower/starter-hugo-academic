@@ -1,5 +1,5 @@
 ---
-title: Dreiländertagung vom 15.-18.03.2023 in Berlin
+title: "Vor Ort: Dreiländertagung 2023 in Berlin"
 date: 2023-03-28T07:40:21.538Z
 draft: false
 featured: false
