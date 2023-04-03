@@ -123,6 +123,9 @@ sections:
       user_groups:
         - leaderboard
     design:
+      background:
+      color: "rgb(41,41,86)"
+      text_color: "#ffffff"
       show_interests: false
       show_role: true
       show_organizations: false
