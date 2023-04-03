@@ -1,7 +1,7 @@
 ---
 title: Paula
 role: Networking
-avatar_filename: image0-copy.jpeg
+avatar_filename: paula.jpg
 social: []
 superuser: false
 user_groups:
