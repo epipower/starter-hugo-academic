@@ -95,7 +95,7 @@ sections:
     id: team
     content: 
       title: Team
-      subtitle: " "
+      subtitle: <br>
       text: " "
       user_groups:
         - leaderboard
