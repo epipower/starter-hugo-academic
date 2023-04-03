@@ -68,14 +68,7 @@ sections:
     id: team
     content:
       title: Team
-      text:
-            {{ $page := .wcPage }}
-            {{ $block := .wcBlock }}
-            {{ $show_social := $block.Params.design.show_social | default false }}
-            {{ $show_interests := $block.Params.design.show_interests | default true }}
-            {{ $show_organizations := $block.Params.design.show_organizations | default false }}
-            {{ $show_role := $block.Params.design.show_role | default true }}
-            <div class="row justify-content-center people-widget">
+      text: <div class="row justify-content-center people-widget">
               {{ with $block.Title }}
               <div class="col-md-12 section-heading">
                 <h1>{{ . | markdownify | emojify }}</h1>
@@ -105,32 +98,39 @@ sections:
               {{ with site.GetPage (printf "/authors/%s" (path.Base .File.Dir)) }}
                 {{ $link = .RelPermalink }}
               {{ end }}
-                <div class="col-12 col-sm-auto people-person">
-                  {{ $src := "" }}
-                  {{ if site.Params.features.avatar.gravatar }}
-                    {{ $src = printf "https://s.gravatar.com/avatar/%s?s=150" (md5 .Params.email) }}
-                  {{ else if $avatar }}
-                    {{ $avatar_image := $avatar.Fill "270x270 Center" }}
-                    {{ $src = $avatar_image.RelPermalink }}
-                  {{ end }}
-                  {{ if $src }}
-                    {{ $avatar_shape := site.Params.features.avatar.shape | default "circle" }}
-                    {{with $link}}<a href="{{.}}">{{end}}<img width="270" height="270" loading="lazy" class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $src }}" alt="Avatar">{{if $link}}</a>{{end}}
-                  {{ end }}
+              <div class="col-12 col-sm-auto people-person">
+                {{ $src := "" }}
+                {{ if site.Params.features.avatar.gravatar }}
+                  {{ $src = printf "https://s.gravatar.com/avatar/%s?s=150" (md5 .Params.email) }}
+                {{ else if $avatar }}
+                  {{ $avatar_image := $avatar.Fill "270x270 Center" }}
+                  {{ $src = $avatar_image.RelPermalink }}
+                {{ end }}
+                {{ if $src }}
+                  {{ $avatar_shape := site.Params.features.avatar.shape | default "circle" }}
+                  {{with $link}}<a href="{{.}}">{{end}}<img width="270" height="270" loading="lazy" class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $src }}" alt="Avatar">{{if $link}}</a>{{end}}
+                {{ end }}
 
-                  <div class="portrait-title">
-                  <h2>{{with $link}}<a href="{{.}}">{{end}}{{ .Title }}{{if $link}}</a>{{end}}</h2>
-                  {{ if and $show_organizations .Params.organizations }}{{ range .Params.organizations }}<h3>{{ .name }}</h3>{{ end }}{{ end }}
-                  {{ if and $show_role .Params.role }}<h3>{{ .Params.role | markdownify | emojify }}</h3>{{ end }}
-                  {{ if $show_social }}{{ partial "social_links" . }}{{ end }}
-                  {{ if and $show_interests .Params.interests }}<p class="people-interests">{{ delimit .Params.interests ", " | markdownify | emojify }}</p>{{ end }}
-                  </div>
+                <div class="portrait-title">
+                <h2>{{with $link}}<a href="{{.}}">{{end}}{{ .Title }}{{if $link}}</a>{{end}}</h2>
+                {{ if and $show_organizations .Params.organizations }}{{ range .Params.organizations }}<h3>{{ .name }}</h3>{{ end }}{{ end }}
+                {{ if and $show_role .Params.role }}<h3>{{ .Params.role | markdownify | emojify }}</h3>{{ end }}
+                {{ if $show_social }}{{ partial "social_links" . }}{{ end }}
+                {{ if and $show_interests .Params.interests }}<p class="people-interests">{{ delimit .Params.interests ", " | markdownify | emojify }}</p>{{ end }}
                 </div>
-                {{ end }}
-                {{ end }}
               </div>
+              {{ end }}
+              {{ end }}
+            </div>
     design:
       columns: '1'
+      show_social: false
+      # Show user's interests? (true/false)
+      show_interests: true
+      # Show user's role?
+      show_role: true
+      # Show user's organizations/affiliations?
+      show_organizations: true
   - block: contact
     id: contact
     content:
