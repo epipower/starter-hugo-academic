@@ -41,7 +41,7 @@
     {{ $link = .RelPermalink }}
   {{ end }}
 
-  <div class="col-4 col-md-auto people-person">
+  <div class="col-md-auto people-person">
     {{ $src := "" }}
     {{ if site.Params.features.avatar.gravatar }}
       {{ $src = printf "https://s.gravatar.com/avatar/%s?s=150" (md5 .Params.email) }}
