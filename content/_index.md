@@ -41,6 +41,7 @@ sections:
     id: news
     content:
       title: News
+      subtitle: <br>
       #subtitle: " aus [Events](/event), [Projekte](/project) und [Blog](/post)"
       filters:
         folders:
