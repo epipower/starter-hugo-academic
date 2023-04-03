@@ -69,7 +69,7 @@ sections:
     content: 
       title: Team
       subtitle: " "
-      text:
+      text: " "
       user_groups:
         - leaderboard
     design:
