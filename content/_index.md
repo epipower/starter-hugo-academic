@@ -64,8 +64,16 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-  - block: ep_peoples_block
+  - block: ./v1/people
     id: team
+    content: 
+      title: Team
+      user_groups:
+        - leaderboard
+    design:
+      show_interests: false
+      show_role: true
+      show_social: true
   - block: contact
     id: contact
     content:
