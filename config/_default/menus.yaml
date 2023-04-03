@@ -10,21 +10,24 @@ main:
     url: '#news'
     identifier: news
     weight: 20
-  - name: Projekte
-    url: '/project'
-    parent: news
-    weight: 10
-  - name: Events
-    url: '/event'
-    parent: news
-    weight: 20
-  - name: Blog
-    url: '/post'
-    parent: news
-    weight: 30
   - name: Team
     url: '#team'
     weight: 30
   - name: Kontakt
     url: '#contact'
     weight: 40
+  - name: Mehr
+    identifier: more
+    weight: 50
+  - name: Projekte
+    url: '/project'
+    parent: more
+    weight: 10
+  - name: Events
+    url: '/event'
+    parent: more
+    weight: 20
+  - name: Blog
+    url: '/post'
+    parent: more
+    weight: 30
