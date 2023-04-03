@@ -84,7 +84,6 @@ sections:
     id: blog
     content:
       title: Team
-      subtitle:
       text: {{/* Initialise */}}
             {{ $page := .wcPage }}
             {{ $block := .wcBlock }}
