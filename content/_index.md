@@ -64,6 +64,22 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
+  - block: people
+    id: team
+    content:
+        title: team
+        subtitle:
+        text:
+        user_groups:
+          - leaderboard
+    design:
+      # columns: '2'
+      # background:
+      #   color: 'rgb(41,41,86)' #'rgb(29,35,67)'
+      #   text_color_light: true
+      # spacing:
+      #   # Customize the section spacing. Order is top, right, bottom, left.
+      #   padding: ["20px", "0", "20px", "0"] #margin
   - block: contact
     id: contact
     content:
