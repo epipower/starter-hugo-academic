@@ -68,7 +68,7 @@ sections:
     id: blog
     content:
       title: Blog
-      subtitle: "[Beitrag einreichen](https://mailto:info@epipower.de)"
+      subtitle: "[Beitrag einreichen](mailto:info@epipower.de)"
       text:
       # Choose how many pages you would like to display (0 = all pages)
       count: 3

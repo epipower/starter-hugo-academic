@@ -15,7 +15,7 @@ date: 2023-04-04T16:30:13.685Z
 date_end: 2023-04-04T19:30:11.510Z
 all_day: false
 event: ZOOM Online Austauschtreffen
-event_url: https://mailto:info@epipower.de
+event_url: mailto:info@epipower.de
 publishDate: 2023-04-03T15:27:57.149Z
 draft: false
 featured: false
