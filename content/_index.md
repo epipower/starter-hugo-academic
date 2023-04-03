@@ -68,12 +68,13 @@ sections:
     id: team
     content: 
       title: Team
+      subtitle:  
       user_groups:
         - leaderboard
     design:
       show_interests: false
       show_role: true
-      show_organizations: true
+      show_organizations: false
       show_social: true
   - block: contact
     id: contact
