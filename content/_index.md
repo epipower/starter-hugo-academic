@@ -68,8 +68,8 @@ sections:
     id: team
     content: 
       title: Team
-      subtitle: 
-      text: 
+      subtitle: " "
+      text:
       user_groups:
         - leaderboard
     design:
