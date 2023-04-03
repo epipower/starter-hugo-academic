@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Events
 cms_exclude: true
 
 # View.
