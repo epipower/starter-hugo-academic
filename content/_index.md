@@ -65,7 +65,7 @@ sections:
       view: compact
       columns: '2'
   - block: markdown
-    id: blog
+    id: team
     content:
       title: Team
       text: {{/* Initialise */}}
@@ -130,6 +130,7 @@ sections:
                 {{ end }}
               </div>
     design:
+      columns: '1'
   - block: contact
     id: contact
     content:
