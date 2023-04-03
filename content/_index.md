@@ -125,7 +125,7 @@ sections:
     design:
       background:
         color: "rgb(41,41,86)"
-        text_color: "#ffffff"
+        text_color_light: true
       show_interests: false
       show_role: true
       show_organizations: false

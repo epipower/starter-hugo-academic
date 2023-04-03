@@ -15,11 +15,12 @@ name = "Epipower Theme"
   home_section_odd = "rgb(255, 255, 255)"
   home_section_even = "rgb(247, 247, 247)"
 
-#[dark]
-#  primary = "rgb(29,35,67)"
-#  link = "#bbdefb"
-#  link_hover = "#bbdefb"
-#  background = "rgb(29,35,67)"
-#  home_section_odd = "rgb(29,35,67)"
-#  home_section_even = "rgb(29,35,67)"
-#  menu_primary = "rgb(29,35,67)"
+[dark]
+  primary = "rgb(29,35,67)"
+  link = "#bbdefb"
+  link_hover = "#bbdefb"
+  background = "rgb(29,35,67)"
+  home_section_odd = "rgb(29,35,67)"
+  home_section_even = "rgb(29,35,67)"
+  menu_primary = "rgb(29,35,67)"
+  menu_text = "#34495e" #light grey 
