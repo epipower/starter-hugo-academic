@@ -68,7 +68,7 @@ sections:
     id: team
     content:
       title: Team
-      text: {{/* Initialise */}}
+      text:
             {{ $page := .wcPage }}
             {{ $block := .wcBlock }}
             {{ $show_social := $block.Params.design.show_social | default false }}
