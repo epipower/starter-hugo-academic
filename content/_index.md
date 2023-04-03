@@ -41,14 +41,14 @@ sections:
     id: events
     content:
       title: Events
-      subtitle: "[Alle Events](/post)"
+      subtitle:
       text:
       # Choose how many pages you would like to display (0 = all pages)
       count: 3
       # Filter on criteria
       filters:
         folders:
-          - events
+          - event
         author: ""
         category: ""
         tag: ""
@@ -68,7 +68,7 @@ sections:
     id: blog
     content:
       title: Blog
-      subtitle: "[Alle Beiträge](/post)"
+      subtitle: "[Beitrag einreichen](https://mailto:info@epipower.de)"
       text:
       # Choose how many pages you would like to display (0 = all pages)
       count: 3
