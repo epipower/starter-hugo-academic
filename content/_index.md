@@ -40,8 +40,8 @@ sections:
   - block: portfolio
     id: news
     content:
-      title: Aktuelles
-      subtitle: "[Events](/event), [Projekte](/project) und [Blog](/post)"
+      title: News
+      #subtitle: " aus [Events](/event), [Projekte](/project) und [Blog](/post)"
       filters:
         folders:
           - event

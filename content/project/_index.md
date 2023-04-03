@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Projekte
 cms_exclude: true
 
 # View.
