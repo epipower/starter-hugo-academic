@@ -44,9 +44,9 @@
   <div class="col-12 col-sm-auto people-person">
     {{ $src := "" }}
     {{if $avatar }}
-      <h2><a href={{$avatar_image.RelPermalink}}></a></h2>
       {{ $avatar_image := $avatar.Fill "270x270 Center" }}
       {{ $src = $avatar_image.RelPermalink }}
+      <h2>{{with $src}}<a href="{{.}}">{{end}}</a></h2>
     {{ end }}
     {{ if $src}}
       {{ $avatar_shape := site.Params.features.avatar.shape | default "circle" }} 
