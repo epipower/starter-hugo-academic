@@ -16,15 +16,6 @@ sections:
       spacing:
          # Customize the section spacing. Order is top, right, bottom, left.
         padding: ["20px", "0", "20px", "0"] #margin
-  - block: portfolio
-    id: Aktuelles
-    content:
-      title: Aktuelles
-      filters:
-        folders:
-          - event
-          - post
-          - project
   - block: features
     id: empowerment
     content:
@@ -46,6 +37,16 @@ sections:
           icon_pack: fab
     design:
         columns: '2'
+  - block: portfolio
+    id: news
+    content:
+      title: Aktuelles
+      subtitle: "[Events](/event), [Projekte](/project) und [Blog](/post)"
+      filters:
+        folders:
+          - event
+          - post
+          - project
     # - block: collection
     #   id: events
     #   content:
