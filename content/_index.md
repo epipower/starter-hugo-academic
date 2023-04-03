@@ -64,6 +64,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
+  - block: ep_peoples_block
   - block: contact
     id: contact
     content:
