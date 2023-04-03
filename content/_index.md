@@ -41,7 +41,7 @@ sections:
     id: blog
     content:
       title: Blog
-      subtitle: [Alle Beiträge](/post)
+      subtitle: "[Alle Beiträge](/post)"
       text:
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
