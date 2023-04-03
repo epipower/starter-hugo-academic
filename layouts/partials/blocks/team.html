@@ -4,6 +4,7 @@
 {{/* Initialise */}}
 {{ $page := .wcPage }}
 {{ $block := .wcBlock }}
+{{ $columns := $block.design.columns | default "1" }}
 {{ $show_social := $block.design.show_social | default false }}
 {{ $show_interests := $block.design.show_interests | default true }}
 {{ $show_organizations := $block.design.show_organizations | default false }}
