@@ -41,7 +41,7 @@ sections:
     id: blog
     content:
       title: Blog
-      subtitle: Weitere Artikel im [Archiv](/post)
+      subtitle: [Alle Beiträge](/post)
       text:
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
@@ -68,7 +68,8 @@ sections:
     id: team
     content: 
       title: Team
-      subtitle:  
+      subtitle: 
+      text: 
       user_groups:
         - leaderboard
     design:
