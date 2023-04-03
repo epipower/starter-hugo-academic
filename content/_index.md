@@ -16,6 +16,15 @@ sections:
       spacing:
          # Customize the section spacing. Order is top, right, bottom, left.
         padding: ["20px", "0", "20px", "0"] #margin
+  - block: portfolio
+    id: Aktuelles
+    content:
+      title: Aktuelles
+      filters:
+        folders:
+          - event
+          - post
+          - project
   - block: features
     id: empowerment
     content:
@@ -67,8 +76,16 @@ sections:
   - block: portfolio
     id: projects
     content:
-      Title: Projekte
-      
+      title: Projekte
+      filters:
+        folders:
+          - project
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+      view: showcase
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: false
   - block: collection
     id: blog
     content:
