@@ -64,7 +64,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-  - block: ./v1/people
+  - block: v1/people
     id: team
     content: 
       title: Team
