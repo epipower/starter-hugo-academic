@@ -66,8 +66,8 @@ sections:
       columns: '2'
   - block: team
     id: team
-    title: Team
     content: 
+      title: Team
       user_groups:
         - leaderboard
     design:
