@@ -10,17 +10,17 @@ abstract: Jeden 1. Dienstag im Monat ab 18.30 Uhr stellen wir Zoom als eine
   haben zudem eine sehr lockere Atmosphäre und jeder kann kommen und gehen, wann
   er dazu Lust hat. Um mitzumachen ist allerdings eine Anmeldung vorher
   notwendig.
-location: ZOOM (Link nach Mailanfrage)
+location: ZOOM
 date: 2023-04-04T16:30:13.685Z
 date_end: 2023-04-04T19:30:11.510Z
 all_day: false
-event: ZOOM Online Austauschtreffen
+event: ZOOM Online Austauschtreffen 04.04.2023
 event_url: mailto:info@epipower.de
 publishDate: 2023-04-03T15:27:57.149Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: video-conference-5363856_960_720.png
   focal_point: Smart
   preview_only: false
 ---
