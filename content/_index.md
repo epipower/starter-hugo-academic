@@ -64,15 +64,16 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-  - block: v1/people
+  - block: team
     id: team
+    title: Team
     content: 
-      title: Team
       user_groups:
         - leaderboard
     design:
       show_interests: false
       show_role: true
+      show_organizations: true
       show_social: true
   - block: contact
     id: contact
