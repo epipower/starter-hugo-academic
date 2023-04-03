@@ -65,6 +65,7 @@ sections:
       view: compact
       columns: '2'
   - block: ep_peoples_block
+    id: team
   - block: contact
     id: contact
     content:
