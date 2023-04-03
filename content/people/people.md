@@ -11,6 +11,7 @@ weight: 68
 
 title: Team
 subtitle:
+active: true 
 
 content:
   # Choose which groups/teams of users to display.
