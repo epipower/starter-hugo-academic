@@ -5,9 +5,9 @@ abstract: Jeden 1. Dienstag im Monat ab 18.30 Uhr stellen wir Zoom als Plattform
   Altersgruppen sind dazu eingeladen. In der Regel gibt es einen Impulsvortrag
   zu einem zu ausgewählten Thema der Epilepsie, bspw. über neue Möglichkeiten
   der Behandlung oder Fortschritte in der Diagnostik. Im Anschluss wechseln die
-  Teilnehmer in themenspezifischen Breakoutsessions, um über alle verschiedenen
+  Teilnehmer in themenspezifische Breakoutsessions, um über alle verschiedenen
   Themen rund um Epilepsie, aber auch Privates zu diskutieren. Wir haben eine
-  sehr lockere Atmosphäre und jeder kann kommen und gehen, wann er Lust hat. Um
+  sehr lockere Atmosphäre und jeder kann kommen und gehen, wie und wann er Lust hat. Um
   mitzumachen ist allerdings zuvor eine Anmeldung per E-Mail notwendig.
 location: ZOOM
 date: 2023-04-04T18:30:13.685Z
