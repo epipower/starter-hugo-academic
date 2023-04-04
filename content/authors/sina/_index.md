@@ -1,6 +1,6 @@
 ---
 title: Sina
-role: Mitgliederbetreuung
+role: Networking
 avatar_filename: avatar
 social: []
 superuser: false
