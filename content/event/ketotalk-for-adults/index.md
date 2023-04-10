@@ -13,9 +13,7 @@ location: Online-Event
 date: 2023-04-25T16:00:58.608Z
 date_end: 2023-04-25T17:30:00.000Z
 all_day: false
-links:
-  - url: https://www.ketocal.de/news-events/kontaktformular-online-events/
-    name: Anmeldung
+links: []
 event: Ketotalk - For Adults
 event_url: mailto:info@epipower.de
 publishDate: 2023-04-10T16:43:58.640Z
