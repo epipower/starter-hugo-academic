@@ -16,7 +16,7 @@ date_end: 2023-04-25T19:30:00.000Z
 all_day: false
 links: []
 event: Ketotalk - For Adults
-event_url: mailto:info@epipower.de
+event_url: mailto:info-keto@nutricia-metabolics.de
 publishDate: 2023-04-10T16:43:58.640Z
 draft: false
 featured: false
