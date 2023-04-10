@@ -6,12 +6,13 @@ abstract: >-
   Ernährungstherapie an die Experten richten und sich mit anderen austauschen. 
 
 
-  Anmeldeschluss: 21.04.2023
-
   Anmeldung unter: https://www.ketocal.de/news-events/kontaktformular-online-events/
+
+
+  Anmeldeschluss: 21.04.2023
 location: Online-Event
-date: 2023-04-25T16:00:58.608Z
-date_end: 2023-04-25T17:30:00.000Z
+date: 2023-04-25T18:00:58.608Z
+date_end: 2023-04-25T19:30:00.000Z
 all_day: false
 links: []
 event: Ketotalk - For Adults
