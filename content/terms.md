@@ -16,7 +16,7 @@ Steuernummer: 30/299/85256<br>
 Finanzamt: Stormarn <br> 
 Umsatzsteuer-Identifikationsnummer gem. § 27a Umsatzsteuergesetz: beantragt<br> 
 Postfach:<br> 
-Epilepsie Empowement Deutschland<br> 
+Epilepsie Empowerment Deutschland<br> 
 Kaiserstraße 217<br> 
 76133 Karlsruhe<br> 
 

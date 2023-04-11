@@ -14,7 +14,7 @@ Vereinssitz: Elmenhorst<br>
 Verwaltungssitz: Untere Turmgasse 5/1, 74206 Bad Wimpfen<br> 
 Kontakt: info@epipower.de<br> 
 Postfach:<br> 
-Epilepsie Empowement Deutschland<br> 
+Epilepsie Empowerment Deutschland<br> 
 Kaiserstraße 217<br> 
 76133 Karlsruhe<br> 
 
