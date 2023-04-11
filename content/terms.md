@@ -15,10 +15,8 @@ Vereinsregister: Amtsgericht Lübeck VR 4631 HL<br>
 Steuernummer: 30/299/85256<br> 
 Finanzamt: Stormarn <br> 
 Umsatzsteuer-Identifikationsnummer gem. § 27a Umsatzsteuergesetz: beantragt<br> 
-Postfach:<br> 
-Epilepsie Empowerment Deutschland<br> 
-Kaiserstraße 217<br> 
-76133 Karlsruhe<br> 
+Postfach: Kaiserstraße 217, 76133 Karlsruhe<br> 
+
 
 ### Website
 Index: [www.epipower.de](https://www.epipower.de)<br> 
