@@ -147,6 +147,13 @@ sections:
           icon_pack: fab
           name: Epilepsie Empowerment Deutschland e.V.
           link: https://www.linkedin.com/company/epilepsie-empowerment-deutschland-e-v/
+      text: |-
+        Postfach:
+        Epilepsie Empowerment Deutschland e.V.
+      address:
+        street: Kaiserstraße 217
+        city: Karlsruhe
+        postcode: '76133'
     design:
       columns: '2'
 ---
