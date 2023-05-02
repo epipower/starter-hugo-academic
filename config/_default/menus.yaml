@@ -16,18 +16,16 @@ main:
   - name: Kontakt
     url: '#contact'
     weight: 40
-  - name: Mehr
-    identifier: more
-    weight: 50
   - name: Projekte
     url: '/project'
-    parent: more
-    weight: 10
+    weight: 50
   - name: Events
     url: '/event'
-    parent: more
-    weight: 20
+    weight: 60
   - name: Blog
     url: '/post'
-    parent: more
-    weight: 30
+    weight: 70
+  - name: Mitglied werden
+    url: https://easyverein.com/public/Epipower/applicationform/6424
+    weight: 80
+
