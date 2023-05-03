@@ -16,7 +16,7 @@ location: ZOOM
 date: 2023-07-04T18:30:28.681Z
 date_end: 2023-07-04T20:30:11.510Z
 all_day: false
-event: ZOOM Online Austauschtreffen 02.05.2023
+event: ZOOM Online Austauschtreffen 04.07.2023
 event_url: mailto:info@epipower.de
 publishDate: 2023-05-03T15:52:28.698Z
 draft: false
