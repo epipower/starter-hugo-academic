@@ -7,7 +7,7 @@ abstract: >
   in einer Breakoutsession zur Verfügung stellen.
 
 
-  Prof. Dr. Surges ist Direktor der Klinik und Poliklinik für Epileptologie und beschäftigt sich auch mit dem Bereich "Klinische Epilepsieforschung."
+  Prof. Dr. Rainer Surges ist Direktor der Klinik und Poliklinik für Epileptologie und beschäftigt sich auch mit dem Bereich "Klinische Epilepsieforschung."
 
 
 
