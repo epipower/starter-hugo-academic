@@ -10,22 +10,55 @@ main:
     url: '#news'
     identifier: news
     weight: 20
+  - name: Projekte
+    parent: News
+    url: '/project'
+    weight: 10
+  - name: Events
+    parent: News
+    url: '/event'
+    weight: 20
+  - name: Blog
+    parent: News
+    url: '/post'
+    weight: 30
   - name: Team
     url: '#team'
     weight: 30
   - name: Kontakt
     url: '#contact'
     weight: 40
-  - name: Projekte
-    url: '/project'
+  - name: Verein
+    url: /
     weight: 50
-  - name: Events
-    url: '/event'
-    weight: 60
-  - name: Blog
-    url: '/post'
-    weight: 70
   - name: Mitglied werden
+    parent: Verein
     url: https://easyverein.com/public/Epipower/applicationform/6424
-    weight: 80
+    weight: 10
+  - name: Satzung
+    parent: Verein
+    url: /
+    weight: 20
 
+
+
+  # - name: Projekte
+  #   url: '/project'
+  #   weight: 50
+  # - name: Events
+  #   url: '/event'
+  #   weight: 60
+  # - name: Blog
+  #   url: '/post'
+  #   weight: 70
+# main:
+#   - name: Home
+#     url: /
+#     weight: 10
+#   - name: Tags
+#     identifier: tags
+#     weight: 20
+#   - name: Academic
+#     parent: tags
+#     url: tags/academic/
+#     weight: 10
