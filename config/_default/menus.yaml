@@ -37,8 +37,8 @@ main:
     url: https://easyverein.com/public/Epipower/applicationform/6424
     weight: 10
   - name: Satzung
-    parent: Verein
-    url: /
+    parent: verein
+    url: uploads/Satzung_Epipower_080623.pdf
     weight: 20
 
 
