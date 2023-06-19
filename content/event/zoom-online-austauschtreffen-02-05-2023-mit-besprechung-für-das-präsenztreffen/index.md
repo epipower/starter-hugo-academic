@@ -30,7 +30,7 @@ publishDate: 2023-04-19T17:35:11.186Z
 draft: false
 featured: false
 image:
-  filename: video-conference-5363856_960_720.png
+  filename: e01dd07a-f7a6-4efe-819e-09e09f6cbdad.png
   focal_point: Smart
   preview_only: false
 ---
