@@ -17,7 +17,7 @@ date_end: 2023-08-01T20:30:11.510Z
 all_day: false
 event: ZOOM Online Austauschtreffen 01.08.2023
 event_url: mailto:info@epipower.de
-publishDate: 2023-05-17T15:52:28.698Z
+publishDate: 2023-07-11T15:52:28.698Z
 draft: false
 featured: false
 image:
