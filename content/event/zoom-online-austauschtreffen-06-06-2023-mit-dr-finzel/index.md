@@ -23,7 +23,7 @@ publishDate: 2023-05-03T16:10:42.280Z
 draft: false
 featured: false
 image:
-  filename: 06061.png
+  filename: 3c5772af-c77d-4983-a907-bfacc00f25aa.png
   focal_point: Smart
   preview_only: false
 ---
