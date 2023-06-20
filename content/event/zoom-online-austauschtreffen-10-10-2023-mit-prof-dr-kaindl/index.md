@@ -19,11 +19,11 @@ date_end: 2023-10-10T20:30:11.510Z
 all_day: false
 event: ZOOM Online Austauschtreffen 10.10.2023
 event_url: mailto:info@epipower.de
-publishDate: 2023-07-17T13:58:28.589Z
+publishDate: 2023-06-20T05:58:04.776Z
 draft: false
 featured: false
 image:
-  filename: ""
+  filename: 97ed835a-391a-4965-83f4-6f001c29fd77.png
   focal_point: Smart
   preview_only: false
 ---
