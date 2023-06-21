@@ -21,7 +21,7 @@ publishDate: 2023-06-20T05:57:17.482Z
 draft: false
 featured: false
 image:
-  filename: d8afcd9f-1399-45d4-b374-cfb8dc421085.png
+  filename: e21d2980-a9b4-4659-8fe8-a1714bda17df.png
   focal_point: Smart
   preview_only: false
 ---
