@@ -26,4 +26,5 @@ image:
   filename: c9a11945-7ead-477e-be17-ce2d227051a2.png
   focal_point: Smart
   preview_only: false
+  caption: "Bildnachweis: Rainer Surges"
 ---
