@@ -26,4 +26,5 @@ image:
   filename: 39cad1f6-9280-43de-ba29-2ccb8efc2f32.png
   focal_point: Smart
   preview_only: false
+  caption: "Bildnachweis: Angela Kaindl"
 ---
