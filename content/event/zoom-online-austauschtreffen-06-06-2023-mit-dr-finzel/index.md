@@ -26,4 +26,5 @@ image:
   filename: 3c5772af-c77d-4983-a907-bfacc00f25aa.png
   focal_point: Smart
   preview_only: false
+  caption: "Bildnachweis: Martin Finzel"
 ---
