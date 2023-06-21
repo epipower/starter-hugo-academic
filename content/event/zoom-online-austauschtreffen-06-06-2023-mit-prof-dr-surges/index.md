@@ -24,4 +24,5 @@ image:
   filename: e21d2980-a9b4-4659-8fe8-a1714bda17df.png
   focal_point: Smart
   preview_only: false
+  caption: "Bildnachweis: Theresa Eberhart"
 ---
