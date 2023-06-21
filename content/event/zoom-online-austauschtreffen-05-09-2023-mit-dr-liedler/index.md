@@ -27,4 +27,5 @@ image:
   filename: 020b4fd3-3624-480a-a229-39ce9fc0c71d.png
   focal_point: Smart
   preview_only: false
+  caption: "Bildnachweis: Angela Liedler"
 ---
