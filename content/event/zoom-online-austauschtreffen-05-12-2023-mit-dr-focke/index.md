@@ -19,12 +19,12 @@ date_end: 2023-12-05T21:30:11.510Z
 all_day: false
 event: ZOOM Online Austauschtreffen 05.12.2023
 event_url: mailto:info@epipower.de
-publishDate: 2023-06-29T11:34:56.856Z
+publishDate: 2023-06-23T21:46:40.977Z
 draft: false
 featured: false
 image:
-  filename: ""
+  filename: 52c18059-6cf4-4f22-acad-7eb574da1dfe.png
   focal_point: Smart
   preview_only: false
-  caption: "Bildnachweis: "
+  caption: "Bildnachweis: Unimedizin Göttingen"
 ---
