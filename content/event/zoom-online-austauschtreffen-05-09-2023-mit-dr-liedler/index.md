@@ -16,7 +16,7 @@ abstract: >-
   |Unbezahlte Werbung
 location: ZOOM
 date: 2023-09-05T18:30:45.425Z
-date_end: 2023-09-05T20:30:11.510Z
+date_end: 2023-09-05T20:00:37.209Z
 all_day: false
 event: ZOOM Online Austauschtreffen 05.09.2023
 event_url: mailto:info@epipower.de
