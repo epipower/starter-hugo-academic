@@ -23,8 +23,8 @@ publishDate: 2023-06-23T21:46:40.977Z
 draft: false
 featured: false
 image:
-  filename: 52c18059-6cf4-4f22-acad-7eb574da1dfe.png
+  filename: 8f51dc90-4946-4851-a8d4-3ef5a5eed4af.png
   focal_point: Smart
   preview_only: false
-  caption: "Bildnachweis: Unimedizin Göttingen"
+  caption: "Bildnachweis: Niels Focke"
 ---
