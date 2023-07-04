@@ -1,7 +1,7 @@
 ---
 title: Fokale Cortexstimulation
 subtitle: ein neues Behandlungsverfahren
-date: 2023-06-02T14:52:46.811Z
+date: 2023-07-04T12:12:05.890Z
 summary: Für Patienten, die unter medikamentöser Behandlung nicht anfallsfrei
   sind, gibt es eine neue Behandlungsoption – die
   „**F**okale **C**ortex**s**timulation“, abgekürzt FCS. In diesem Artikel
@@ -25,6 +25,8 @@ Im April wurden die Ergebnisse zweier klinischer Studien veröffentlicht, bei de
 **Wie kann man sich das Gerät vorstellen?**\
 Das Gerät besteht aus einem Stimulator, der im Brustbereich unter der Haut eingepflanzt wird, und aus einer Elektrode, die unter der Kopfhaut über der Hirnregion angebracht wird, von welcher die epileptischen Anfälle ausgehen. Die Elektrode ist sehr dünn und kann von außen nicht gesehen, sowie ertastet werden. Sie hat eine spezielle Elektrodenanordnung, die es ermöglicht, dass die elektrischen Ströme von außen durch den Schädel hindurch wirksam werden können. Der Stimulator ist mit der Elektrode durch ein Kabel, welches unter der Haut liegt, verbunden und liefert die nötige elektrische Energie (siehe Abbildung).
 
+![Abbildung: EASEE System](screenshot-2023-06-02-at-16.51.28.png)
+
 **Beinhaltet die Einpflanzung der Elektrode Risiken?**\
 Die Einpflanzung erfolgt unter Narkose und wird nicht bewusst erlebt. An der Stelle, wo die Haut geöffnet wird, kann es in den nachfolgenden Tagen zu einem Kribbelgefühl oder Taubheitsgefühl kommen, die im Verlauf der ersten Woche in aller Regel nachlassen. Grundsätzlich kann es an der Stelle, wo die Elektrode implantiert wurde, zu einer kleinen Blutung oder Infektion kommen. Es ist davon auszugehen, dass die FCS aktuell das am wenigsten riskante Stimulationsverfahren bei fokalen Epilepsien ist. Insbesondere im Vergleich zu Verfahren einer direkten Hirnreizung über in den Schädel implantierte Elektroden, deren Einpflanzung in seltenen Fällen intrakranielle Gefäße schädigen und im schlimmsten Fall zu einer Hirnblutung führen kann. Die elektrische Stimulation selbst wurde bislang von allen Patienten gut vertragen.
 
@@ -36,5 +38,3 @@ Die Medikation wird auch unter der Stimulationsbehandlung weiterhin eingenommen.
 
 **Wer kann die Fokale Cortexstimulation verordnen?**\
 Als zugelassenes Behandlungsverfahren kann die FCS im Prinzip von jedem Neurologen verschrieben und kann in jedem Krankenhaus eingesetzt werden. Gerade in der Anfangsphase der Einführung werden jedoch hauptsächlich Epilepsiezentren die Indikation stellen.
-
-![](screenshot-2023-06-02-at-16.51.28.png)
