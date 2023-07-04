@@ -48,7 +48,7 @@ sections:
           - event
           - post
           - project
-      count: 6
+    count: 6
     sort_by: 'Date'
     # - block: collection
     #   id: events
