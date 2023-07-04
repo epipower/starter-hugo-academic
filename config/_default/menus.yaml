@@ -16,8 +16,6 @@ main:
   - name: Kontakt
     url: '#contact'
     weight: 40
-  - name: Projekte
-    url: '/project'
     weight: 50
   - name: Events
     url: '/event'
@@ -40,7 +38,8 @@ main:
 
 
 
-
+  # - name: Projekte
+  #   url: '/project'
 
   #     - name: Projekte
   #   parent: news
