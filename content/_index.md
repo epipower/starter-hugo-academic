@@ -43,13 +43,12 @@ sections:
       title: News
       subtitle: <br>
       #subtitle: " aus [Events](/event), [Projekte](/project) und [Blog](/post)"
+      count: 5
       filters:
         folders:
           - event
           - post
           - project
-    count: 6
-    sort_by: 'Date'
     # - block: collection
     #   id: events
     #   content:
