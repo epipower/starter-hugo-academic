@@ -147,9 +147,9 @@ sections:
       sort_ascending: false
     design:
       # Choose a listing view
-      view: masonry
+      view: showcase
       # Choose single or dual column layout
-      columns: '1'
+      columns: '2'
   - block: team
     id: team
     content: 
