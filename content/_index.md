@@ -147,7 +147,7 @@ sections:
       sort_ascending: false
     design:
       # Choose a listing view
-      view: showcase
+      view: mansory
       # Choose single or dual column layout
       columns: '2'
   - block: team
