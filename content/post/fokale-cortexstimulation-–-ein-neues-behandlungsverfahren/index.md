@@ -12,7 +12,7 @@ featured: false
 image:
   filename: website-blogbeitrag-2.png
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
 Für Patienten, die unter medikamentöser Behandlung nicht anfallsfrei sind, gibt es eine neue Behandlungsoption – die „**F**okale **C**ortex**s**timulation“, abgekürzt FCS. In diesem Artikel beantwortet *Prof. Dr. med. Andreas Schulze-Bonhage*, ärztlicher Leiter des Epilepsiezentrums Freiburg, kurz die wichtigsten Fragen zu diesem Thema. 
 
