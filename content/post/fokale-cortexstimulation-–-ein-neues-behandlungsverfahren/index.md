@@ -38,3 +38,5 @@ Die Medikation wird auch unter der Stimulationsbehandlung weiterhin eingenommen.
 
 **Wer kann die Fokale Cortexstimulation verordnen?**\
 Als zugelassenes Behandlungsverfahren kann die FCS im Prinzip von jedem Neurologen verschrieben und kann in jedem Krankenhaus eingesetzt werden. Gerade in der Anfangsphase der Einführung werden jedoch hauptsächlich Epilepsiezentren die Indikation stellen.
+
+\|Unbezahlte Werbung
