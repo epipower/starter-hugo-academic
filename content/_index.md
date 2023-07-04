@@ -37,18 +37,18 @@ sections:
           icon_pack: fab
     design:
         columns: '2'
-  # - block: portfolio
-  #   id: news
-  #   content:
-  #     title: News
-  #     subtitle: <br>
-  #     #subtitle: " aus [Events](/event), [Projekte](/project) und [Blog](/post)"
-  #     count: 5
-  #     filters:
-  #       folders:
-  #         - event
-  #         - post
-  #         - project
+  - block: portfolio
+    id: news
+    content:
+      title: News
+      subtitle: <br>
+      #subtitle: " aus [Events](/event), [Projekte](/project) und [Blog](/post)"
+      count: 5
+      filters:
+        folders:
+          - event
+          - post
+          - project
     # - block: collection
     #   id: events
     #   content:
@@ -116,40 +116,40 @@ sections:
     #     # Choose a layout view
     #     view: compact
     #     columns: '2'
-  - block: collection
-    id: news
-    content:
-      title: News
-      # subtitle: ''
-      # text: 'Check out my recent blog posts below!'
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        # The folders to display content from
-        folders:
-          - event
-          - post
-          - project
-        author: ""
-        category: ""
-        tag: ""
-        publication_type: ""
-        featured_only: false
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: True
-      # Choose how many pages you would like to offset by
-      # Useful if you wish to show the first item in the Featured widget
-      offset: 0
-      # Field to sort by, such as Date or Title
-      sort_by: 'Date'
-      sort_ascending: false
-    design:
-      # Choose a listing view
-      view: mansory
-      # Choose single or dual column layout
-      columns: '2'
+    # - block: collection
+    #   id: news
+    #   content:
+    #     title: News
+    #     # subtitle: ''
+    #     # text: 'Check out my recent blog posts below!'
+    #     # Choose how many pages you would like to display (0 = all pages)
+    #     count: 5
+    #     # Filter on criteria
+    #     filters:
+    #       # The folders to display content from
+    #       folders:
+    #         - event
+    #         - post
+    #         - project
+    #       author: ""
+    #       category: ""
+    #       tag: ""
+    #       publication_type: ""
+    #       featured_only: false
+    #       exclude_featured: false
+    #       exclude_future: false
+    #       exclude_past: True
+    #     # Choose how many pages you would like to offset by
+    #     # Useful if you wish to show the first item in the Featured widget
+    #     offset: 0
+    #     # Field to sort by, such as Date or Title
+    #     sort_by: 'Date'
+    #     sort_ascending: false
+    #   design:
+    #     # Choose a listing view
+    #     view: mansory
+    #     # Choose single or dual column layout
+    #     columns: '2'
   - block: team
     id: team
     content: 
