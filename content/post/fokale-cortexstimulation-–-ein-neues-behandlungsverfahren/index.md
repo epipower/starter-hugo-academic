@@ -9,7 +9,7 @@ summary: Für Patienten, die unter medikamentöser Behandlung nicht anfallsfrei
 draft: true
 featured: false
 image:
-  filename: featured
+  filename: website-blogbeitrag.png
   focal_point: Smart
   preview_only: false
 ---
