@@ -147,7 +147,7 @@ sections:
       sort_ascending: false
     design:
       # Choose a listing view
-      view: compact
+      view: masonry
       # Choose single or dual column layout
       columns: '1'
   - block: team
