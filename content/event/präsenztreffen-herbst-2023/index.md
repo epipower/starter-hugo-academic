@@ -12,6 +12,7 @@ abstract: >-
 
   Ort: Göttingen
 
+
   Mindestalter: 18 Jahre
 
 
