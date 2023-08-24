@@ -13,9 +13,9 @@ abstract: >-
   Wir stellen Zoom als Plattform zum gemeinsamen Austausch zur Verfügung. Die Teilnehmer können in themenspezifische Breakoutsessions, um über alle verschiedenen Themen rund um Epilepsie, aber auch Privates zu diskutieren. Wir haben eine sehr lockere Atmosphäre und jeder kann kommen und gehen, wie und wann er Lust hat. 
 
 
-  Anmeldung über unsere Website: 
+  Anmeldung über das folgende Formular:
 
-  LINK
+  https://bitly.ws/T2z5
 
 
   Hier sind alle Termine für 2024:
@@ -45,12 +45,12 @@ abstract: >-
   03.12
 
 
-  Unsere Webinare mit anschließender Austauschrunde finden Sie hier:
+  Unsere Webinare mit anschließender Austauschrunde finden Sie auch unter Events. 
 
-  LINK
+  Diese werden einzeln aufgeführt.
 location: ZOOM
-date: 2024-01-09T17:30:43.909Z
-date_end: 2024-12-03T21:00:11.510Z
+date: 2024-01-01T10:59:31.583Z
+date_end: 2024-12-31T21:00:11.510Z
 all_day: false
 event: "ZOOM Online Austauschtreffen "
 event_url: mailto:info@epipower.de
