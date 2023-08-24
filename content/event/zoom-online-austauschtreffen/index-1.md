@@ -49,7 +49,7 @@ abstract: >-
 
   Diese werden einzeln aufgeführt.
 location: ZOOM
-date: 2024-12-31T12:10:00.000Z
+date: 2023-12-31T12:10:00.000Z
 date_end: 2024-12-31T21:00:11.510Z
 all_day: true
 event: "ZOOM Online Austauschtreffen "
