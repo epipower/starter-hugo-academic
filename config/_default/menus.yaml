@@ -34,6 +34,11 @@ main:
     parent: verein
     url: uploads/Satzung_Epipower_080623.pdf
     weight: 20
+  - name: Finanzierung
+    parent: verein
+    url: '/verein/finanzierung'
+    weight: 30
+
 
 
 
