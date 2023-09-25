@@ -15,13 +15,16 @@ abstract: >
   Die Anmeldung erfolgt über folgenden Link:
 
   https://forms.gle/N33rKDxsBs3wyQz47 
+
+
+  Bei Problemen mit der Anmeldung schicken Sie gerne eine Mail.
 location: ZOOM
 date: 2023-11-13T17:30:05.364Z
 date_end: 2023-11-13T19:00:11.510Z
 all_day: false
 event: "Webinar: Frauen und Epilepsie"
 event_url: mailto:info@epipower.de
-publishDate: 2023-09-17T07:00:05.386Z
+publishDate: 2023-09-25T23:24:59.316Z
 draft: false
 featured: false
 image:
