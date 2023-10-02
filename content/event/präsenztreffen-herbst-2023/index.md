@@ -33,10 +33,7 @@ abstract: >-
   Es gilt das Prinzip: "Wer zuerst kommt, malt zuerst."
 
 
-  Weitere Infos und die Anmeldung findet Ihr unter dem Link:
-
-
-  https://forms.gle/NQwkczwwNrjkA5HPA
+  Anmeldefrist abgelaufen.
 location: Göttingen
 date: 2023-10-20T16:00:37.865Z
 date_end: 2023-10-22T11:00:37.209Z
