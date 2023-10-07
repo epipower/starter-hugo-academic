@@ -9,7 +9,11 @@ abstract: >-
   Prof. Dr. Angela M. Kaindl ist Klinikdirektorin und SPZ-Leiterin an der Charité - Universitätsmedizin Berlin. 
 
 
-  Jeden 1. Dienstag im Monat ab 18.30 Uhr stellen wir Zoom als Plattform zum gemeinsamen Austausch zur Verfügung. Epilepsiebetroffene aller Altersgruppen sind dazu eingeladen. In der Regel gibt es einen Impulsvortrag zu einem zu ausgewählten Thema der Epilepsie, bspw. über neue Möglichkeiten der Behandlung oder Fortschritte in der Diagnostik. Im Anschluss wechseln die Teilnehmer in themenspezifische Breakoutsessions, um über alle verschiedenen Themen rund um Epilepsie, aber auch Privates zu diskutieren. Wir haben eine sehr lockere Atmosphäre und jeder kann kommen und gehen, wie und wann er Lust hat. Um mitzumachen ist allerdings zuvor eine Anmeldung per E-Mail an info@epipower.de notwendig.
+  Jeden 1. Dienstag im Monat ab 18.30 Uhr stellen wir Zoom als Plattform zum gemeinsamen Austausch zur Verfügung. Epilepsiebetroffene aller Altersgruppen sind dazu eingeladen. In der Regel gibt es einen Impulsvortrag zu einem zu ausgewählten Thema der Epilepsie, bspw. über neue Möglichkeiten der Behandlung oder Fortschritte in der Diagnostik. Im Anschluss wechseln die Teilnehmer in themenspezifische Breakoutsessions, um über alle verschiedenen Themen rund um Epilepsie, aber auch Privates zu diskutieren. Wir haben eine sehr lockere Atmosphäre und jeder kann kommen und gehen, wie und wann er Lust hat. 
+
+  Um mitzumachen ist allerdings zuvor eine Anmeldung per über das folgende Formular notwendig:
+
+  https://forms.gle/W6qvVxmY6vf8a7bH8 
 
 
   |Unbezahlte Werbung
