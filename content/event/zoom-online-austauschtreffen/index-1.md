@@ -1,7 +1,7 @@
 ---
-title: "ZOOM Online Austauschtreffen "
+title: "Januar: Online Austauschtreffen "
 abstract: >-
-  Wann? Jeden 1. Dienstag im Monat ab 18.30 Uhr 
+  Wann? Jeden 1. Dienstag im Monat ab 18.30 Uhr bis ca. 21.30 Uhr
 
 
   Wo? Online über Zoom
@@ -10,51 +10,24 @@ abstract: >-
   Wer? Alle Epilepsiebetroffenen (auch Angehörige) aller Altersgruppen
 
 
-  Wir stellen Zoom als Plattform zum gemeinsamen Austausch zur Verfügung. Die Teilnehmer können in themenspezifische Breakoutsessions, um über alle verschiedenen Themen rund um Epilepsie, aber auch Privates zu diskutieren. Wir haben eine sehr lockere Atmosphäre und jeder kann kommen und gehen, wie und wann er Lust hat. 
+  Wir stellen Zoom als Plattform zum gemeinsamen Austausch zur Verfügung. Die Teilnehmer können in themenspezifische Breakoutsessions, um über alle verschiedenen Themen rund um Epilepsie, aber auch Privates zu diskutieren. Wir haben eine sehr lockere Atmosphäre und jeder kann kommen und gehen, wie es persönlich am angenehmsten ist.
 
 
-  Anmeldung über das folgende Formular:
+  Einmalige Anmeldung für die Austauschtreffen über das folgende Formular:
 
   https://bitly.ws/T2z5
 
 
-  Hier sind alle Termine für 2024:
-
-  09.01
-
-  06.02
-
-  05.03
-
-  09.04
-
-  07.05
-
-  04.06
-
-  02.07
-
-  06.08
-
-  03.09
-
-  01.10
-
-  05.11
-
-  03.12
-
-
   Unsere Webinare mit anschließender Austauschrunde finden Sie auch unter Events. 
 
-  Diese werden einzeln aufgeführt.
+  Diese werden einzeln aufgeführt und jedes Webinar benötigt eine extra Anmeldung.
 location: ZOOM
-date: 2023-12-31T12:10:00.000Z
-date_end: 2023-12-31T21:00:11.510Z
+date: 2024-01-09T17:30:00.000Z
+date_end: 2024-01-09T20:30:11.510Z
 all_day: true
 event: "ZOOM Online Austauschtreffen "
 event_url: mailto:info@epipower.de
-publishDate: 2023-08-24T10:05:54.159Z
+publishDate: 2023-10-07T08:26:11.776Z
 draft: false
 featured: false
 image:
