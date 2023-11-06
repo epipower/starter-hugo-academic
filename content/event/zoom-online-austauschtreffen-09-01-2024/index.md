@@ -30,4 +30,6 @@ event_url: mailto:info@epipower.de
 publishDate: 2023-11-06T09:45:03.181Z
 draft: false
 featured: false
+image:
+  filename: featured.jpg
 ---
