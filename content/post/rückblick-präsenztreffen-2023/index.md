@@ -4,7 +4,7 @@ date: 2023-11-09T16:15:39.051Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: 413053ea-8ccb-4cf4-a308-889189324ff0.png
   focal_point: Smart
   preview_only: false
 ---
