@@ -12,12 +12,7 @@ abstract: >
   Es ist jeder herzlich eingeladen. Patienten, Angehörige, medizinisches Fachpersonal, Interessierte, etc.
 
 
-  Die Anmeldung erfolgt über folgenden Link:
-
-  https://forms.gle/N33rKDxsBs3wyQz47 
-
-
-  Die Anmeldung schließt am 12.11.2023.
+  Anmeldung geschlossen. 
 
 
   Bei Problemen mit der Anmeldung schicken Sie gerne eine Mail.
