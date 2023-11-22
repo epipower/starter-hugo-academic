@@ -14,7 +14,6 @@ Verwaltungssitz: Untere Turmgasse 5/1, 74206 Bad Wimpfen<br>
 Vereinsregister: Amtsgericht Lübeck VR 4631 HL<br> 
 Steuernummer: 30/299/85256<br> 
 Finanzamt: Stormarn <br> 
-Umsatzsteuer-Identifikationsnummer gem. § 27a Umsatzsteuergesetz: beantragt<br> 
 Postfach: Kaiserstraße 217, 76133 Karlsruhe<br> 
 
 
