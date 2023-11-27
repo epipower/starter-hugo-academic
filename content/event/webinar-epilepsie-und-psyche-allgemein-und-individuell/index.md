@@ -31,5 +31,5 @@ image:
   filename: 37ee761c-4ecc-4f37-87b4-4e80be4c7005.png
   focal_point: Smart
   preview_only: false
-  caption: "Bildnachweis: Bettina Schmitz"
+  caption: "Bildnachweis: Theresa Eberhart"
 ---
