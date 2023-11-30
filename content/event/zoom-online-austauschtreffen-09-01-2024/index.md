@@ -22,8 +22,8 @@ abstract: >-
 
   Diese werden einzeln aufgeführt und jedes Webinar benötigt eine extra Anmeldung.
 location: ZOOM
-date: 2024-01-09T17:30:00.000Z
-date_end: 2024-01-09T20:30:11.510Z
+date: 2024-01-09T18:30:00.000Z
+date_end: 2024-01-09T21:30:11.510Z
 all_day: false
 event: "Januar: ZOOM Online Austauschtreffen "
 event_url: mailto:info@epipower.de
