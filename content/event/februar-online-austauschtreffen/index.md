@@ -29,5 +29,5 @@ publishDate: 2023-12-03T08:57:40.406Z
 draft: false
 featured: false
 image:
-  filename: featured.jpg
+  filename: 22ad0047-dd70-4563-83b3-d5be6ad47e21.png
 ---
