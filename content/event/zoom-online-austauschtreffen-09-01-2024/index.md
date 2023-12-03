@@ -16,6 +16,9 @@ abstract: >
   Einmalige Anmeldung für die Austauschtreffen über das folgende Formular:
 
   https://bitly.ws/T2z5
+
+
+  Aufgrund von Feiertagen etc. findet das Treffen manchmal auch am 2. Dienstag statt. Das kann aber den jeweiligen Treffen unter Events entnommen werden.
 location: ZOOM
 date: 2024-01-09T18:30:00.000Z
 date_end: 2024-01-09T21:30:11.510Z
@@ -26,5 +29,5 @@ publishDate: 2023-11-06T09:45:03.181Z
 draft: false
 featured: false
 image:
-  filename: featured.jpg
+  filename: 22ad0047-dd70-4563-83b3-d5be6ad47e21.png
 ---
