@@ -1,6 +1,6 @@
 ---
 title: "Januar: Online Austauschtreffen "
-abstract: >-
+abstract: >
   Wann? Jeden 1. Dienstag im Monat ab 18.30 Uhr bis ca. 21.30 Uhr
 
 
@@ -16,11 +16,6 @@ abstract: >-
   Einmalige Anmeldung für die Austauschtreffen über das folgende Formular:
 
   https://bitly.ws/T2z5
-
-
-  Unsere Webinare mit anschließender Austauschrunde finden Sie auch unter Events. 
-
-  Diese werden einzeln aufgeführt und jedes Webinar benötigt eine extra Anmeldung.
 location: ZOOM
 date: 2024-01-09T18:30:00.000Z
 date_end: 2024-01-09T21:30:11.510Z
