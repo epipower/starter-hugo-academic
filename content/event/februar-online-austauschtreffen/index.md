@@ -1,9 +1,7 @@
 ---
 title: "Februar: Online Austauschtreffen "
-abstract: >
+abstract: >-
   Wann? Jeden 1. Dienstag im Monat ab 18.30 Uhr bis ca. 21.30 Uhr 
-
-  (bis auf wenige Ausnahmen, s. unter Events)
 
 
   Wo? Online über Zoom
@@ -18,6 +16,9 @@ abstract: >
   Einmalige Anmeldung für die Austauschtreffen über das folgende Formular:
 
   https://bitly.ws/T2z5
+
+
+  Aufgrund von Feiertagen etc. findet das Treffen manchmal auch am 2. Dienstag statt. Das kann aber den jeweiligen Treffen unter Events entnommen werden.
 location: ZOOM
 date: 2024-02-06T17:30:40.389Z
 date_end: 2024-02-06T20:30:11.510Z
