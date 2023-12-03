@@ -25,7 +25,7 @@ date_end: 2024-06-04T20:30:11.510Z
 all_day: false
 event: "Juni: ZOOM Online Austauschtreffen "
 event_url: mailto:info@epipower.de
-publishDate: 2023-12-03T09:31:35.174Z
+publishDate: 2024-03-03T09:31:35.174Z
 draft: false
 featured: false
 image:
