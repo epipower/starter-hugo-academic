@@ -9,6 +9,9 @@ abstract: >-
   Im September geht es dann wieder weiter mit den Webinaren. 
 
 
+  Bis dahin wünschen wir Ihnen eine tolle Sommerzeit.
+
+
   Die monatlichen Online Austauschtreffen finden trotzdem statt.
 location: ZOOM
 date: 2024-07-01T06:30:34.850Z
