@@ -24,7 +24,7 @@ date_end: 2023-11-13T19:00:11.510Z
 all_day: false
 event: "Webinar: Epilepsie und Psyche"
 event_url: mailto:info@epipower.de
-publishDate: 2023-12-04T07:59:10.483Z
+publishDate: 2023-12-04T11:17:59.987Z
 draft: false
 featured: false
 image:
