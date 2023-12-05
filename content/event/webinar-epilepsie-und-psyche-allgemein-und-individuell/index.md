@@ -6,7 +6,7 @@ abstract: >
   individuelle psychische Gesundheit bei Epilepsie gehen.
 
 
-  Die Sozialarbeiterinnen Fr. Eberhart und Fr. Weiland von der Diakonie München und Oberbayern - Innere Mission München e.V. (EpilepsieBeratung) werden dazu etwas erzählen. Danach bleibt noch etwas Zeit für Fragen sowie für einen kurzen Austausch.
+  Die Sozialarbeiterin Fr. Eberhart und Psychologin Fr. Weiland von der Diakonie München und Oberbayern - Innere Mission München e.V. (EpilepsieBeratung) werden dazu etwas erzählen. Danach bleibt noch etwas Zeit für Fragen sowie für einen kurzen Austausch.
 
 
   Es ist jeder herzlich eingeladen. Patienten, Angehörige, medizinisches Fachpersonal, Interessierte, etc.
@@ -28,7 +28,7 @@ publishDate: 2023-12-04T11:17:59.987Z
 draft: false
 featured: false
 image:
-  filename: 37ee761c-4ecc-4f37-87b4-4e80be4c7005.png
+  filename: aff1ff08-822d-4cdb-8e26-f7c43b6b94df.png
   focal_point: Smart
   preview_only: false
   caption: "Bildnachweis: Theresa Eberhart"
