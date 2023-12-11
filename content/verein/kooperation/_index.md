@@ -17,7 +17,7 @@ sections:
   - block: collection
     id: section-1
     content:
-      subtitle: Auf dieser Seite findet Ihr unsere verschiedenen Kooperationspartner
+      text: Auf dieser Seite findet Ihr unsere verschiedenen Kooperationspartner
       # Display content from the `content/post/` folder
       filters:
         folders:
