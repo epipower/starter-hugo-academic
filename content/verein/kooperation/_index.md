@@ -1,7 +1,6 @@
 ---
 title: Kooperationen
 date: "2018-06-28T00:00:00Z"
-type: landing
 
 # # Optional header image (relative to `assets/media/` folder).
 # header:
@@ -9,12 +8,6 @@ type: landing
 #   image: ""
 
 sections:
-  - block: markdown
-    id: intro
-    content:
-      title:
-      subtitle:
-      text: Auf dieser Seite findet Ihr unsere verschiedenen Kooperationspartner
   - block: collection
     id: cooperations
     content:
@@ -30,3 +23,5 @@ sections:
       # For the Showcase view, do you want to flip alternate rows?
       flip_alt_rows: false
 ---
+
+Auf dieser Seite findet Ihr unsere verschiedenen Kooperationspartner
