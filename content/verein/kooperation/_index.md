@@ -30,6 +30,5 @@ sections:
 ---
 
 Auf dieser Seite findet Ihr unsere verschiedenen Kooperationspartner<br />
-<br />
 
 
