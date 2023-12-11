@@ -38,6 +38,11 @@ main:
     parent: verein
     url: '/verein/finanzierung'
     weight: 30
+  - name: Kooperationen
+    parent: verein
+    url: '/verein/kooperation'
+    weight: 40
+  
 
 
 
