@@ -3,23 +3,21 @@ title: Kooperationen
 date: "2018-06-28T00:00:00Z"
 type: landing
 
-reading_time: false  # Show estimated reading time?
-share: false  # Show social sharing links?
-profile: false  # Show author profile?
-comments: false  # Show comments?
-
-# Optional header image (relative to `assets/media/` folder).
-header:
-  caption: ""
-  image: ""
+# # Optional header image (relative to `assets/media/` folder).
+# header:
+#   caption: ""
+#   image: ""
 
 sections:
+  - block: markdown
+    id: intro
+    content:
+      title:
+      subtitle:
+      text: Auf dieser Seite findet Ihr unsere verschiedenen Kooperationspartner
   - block: collection
     id: cooperations
     content:
-      title: ""
-      subtitle: ""
-      text: Auf dieser Seite findet Ihr unsere verschiedenen Kooperationspartner
       # Display content from the folder `/verein/kooperation`
       filters:
         folders:
