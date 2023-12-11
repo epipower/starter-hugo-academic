@@ -13,14 +13,12 @@ header:
   image: ""
 
 sections:
-  - block: markdown
-    id: section-1
-    content:
-      text: Auf dieser Seite findet Ihr unsere verschiedenen Kooperationspartner
-  # A section to display blog posts
   - block: collection
     id: section-2
     content:
+      title: ""
+      subtitle: ""
+      text: Auf dieser Seite findet Ihr unsere verschiedenen Kooperationspartner
       # Display content from the `content/post/` folder
       filters:
         folders:
