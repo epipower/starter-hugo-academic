@@ -4,9 +4,8 @@ date: "2018-06-28T00:00:00Z"
 
 # # Optional header image (relative to `assets/media/` folder).
 header:
-  caption: ""
+  caption: "Auf dieser Seite findet Ihr unsere verschiedenen Kooperationspartner"
   image: ""
-  text: Auf dieser Seite findet Ihr unsere verschiedenen Kooperationspartner 
 
 sections:
   - block: collection
