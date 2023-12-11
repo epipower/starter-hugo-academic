@@ -3,17 +3,18 @@ title: Kooperationen
 date: "2018-06-28T00:00:00Z"
 
 # # Optional header image (relative to `assets/media/` folder).
-# header:
-#   caption: ""
-#   image: ""
+header:
+  caption: ""
+  image: ""
+  text: Auf dieser Seite findet Ihr unsere verschiedenen Kooperationspartner 
 
 sections:
   - block: collection
     id: cooperations
     content:
-      title: Section 1
-      subtitle: A subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      # title: Section 1
+      # subtitle: A subtitle
+      # text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
       filters:
         folders:
           - verein/kooperation
@@ -29,4 +30,3 @@ sections:
         padding: ['20px', '0', '20px', '0']
 ---
 
-Auf dieser Seite findet Ihr unsere verschiedenen Kooperationspartner 
