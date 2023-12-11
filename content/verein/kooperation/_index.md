@@ -3,9 +3,9 @@ title: Kooperationen
 date: "2018-06-28T00:00:00Z"
 
 # # Optional header image (relative to `assets/media/` folder).
-header:
-  caption: "Auf dieser Seite findet Ihr unsere verschiedenen Kooperationspartner"
-  image: ""
+# header:
+#   caption: ""
+#   image: ""
 
 sections:
   - block: collection
@@ -29,3 +29,5 @@ sections:
         padding: ['20px', '0', '20px', '0']
 ---
 
+Auf dieser Seite findet Ihr unsere verschiedenen Kooperationspartner
+<br>
