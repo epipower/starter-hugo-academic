@@ -15,6 +15,9 @@ Vereinsregister: Amtsgericht Lübeck VR 4631 HL<br>
 Steuernummer: 30/299/85256<br> 
 Finanzamt: Stormarn <br> 
 Postfach: Kaiserstraße 217, 76133 Karlsruhe<br> 
+Vorsitzende: Sina Lang, Karoline Hartmann, Lynna Held<br>
+Schriftführerin: Leonie Wolllscheid<br>
+Kassenwartin: Janina Haase<br>
 
 
 ### Website
