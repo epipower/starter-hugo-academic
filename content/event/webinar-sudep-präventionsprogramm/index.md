@@ -24,7 +24,7 @@ date_end: 2023-11-13T19:00:11.510Z
 all_day: false
 event: "Webinar: SUDEP Präventionsprogramm"
 event_url: mailto:info@epipower.de
-publishDate: 2024-01-03T08:00:30.152Z
+publishDate: 2024-01-06T08:12:28.167Z
 draft: false
 featured: false
 image:
