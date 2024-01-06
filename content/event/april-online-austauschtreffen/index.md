@@ -20,7 +20,7 @@ abstract: >-
 
   Aufgrund von Feiertagen etc. findet das Treffen manchmal auch am 2. Dienstag statt. Das kann aber den jeweiligen Treffen unter Events entnommen werden.
 location: ZOOM
-date: 2024-04-09T16:30:10.821Z
+date: 2024-04-09T18:30:10.821Z
 date_end: 2024-03-05T21:30:11.510Z
 all_day: false
 event: "April: ZOOM Online Austauschtreffen "
