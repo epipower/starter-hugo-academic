@@ -1,6 +1,6 @@
 ---
 title: "Webinar: Epilepsie und Psyche - allgemein und individuell"
-abstract: >
+abstract: >+
   Am 24.01.2024 um 18:30 findet über die Plattform "Zoom" ein Webinar zum Thema
   "Epilepsie und Psyche" statt. Dabei soll es vor allem um die allgemeine und
   individuelle psychische Gesundheit bei Epilepsie gehen.
@@ -12,12 +12,8 @@ abstract: >
   Es ist jeder herzlich eingeladen. Patienten, Angehörige, medizinisches Fachpersonal, Interessierte, etc.
 
 
-  Anmeldung unter folgendem Link (keine Google Anmeldung notwendig)
+  Anmeldung geschlossen.
 
-  https://bitly.ws/33xDg 
-
-
-  Bei Problemen mit der Anmeldung schicken Sie gerne eine Mail.
 location: ZOOM
 date: 2024-01-24T18:30:05.811Z
 date_end: 2023-11-13T20:00:11.510Z
