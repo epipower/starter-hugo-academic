@@ -24,7 +24,7 @@ date_end: 2024-03-19T19:00:11.510Z
 all_day: false
 event: "Webinar: Neuromodulation"
 event_url: mailto:info@epipower.de
-publishDate: 2024-02-05T08:00:06.688Z
+publishDate: 2024-02-06T10:27:58.898Z
 draft: false
 featured: false
 image:
