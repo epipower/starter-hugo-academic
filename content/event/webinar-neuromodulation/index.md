@@ -14,7 +14,6 @@ abstract: >
 
   Anmeldung unter folgendem Link:
 
-  https://bitly.ws/3bKRw
 
 
   Bei Problemen mit der Anmeldung schicken Sie gerne eine Mail.
