@@ -8,6 +8,7 @@ image:
   filename: img_2206.jpg
   focal_point: Smart
   preview_only: false
+  caption: "Bildnachweis: Lara"
 ---
 <!--\[if gte mso 9]><xml>
  <w:WordDocument>
