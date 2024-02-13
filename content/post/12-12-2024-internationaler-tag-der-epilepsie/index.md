@@ -10,7 +10,7 @@ image:
   preview_only: false
   caption: "Bildnachweis: Lara"
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -51,9 +51,9 @@ image:
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -632,9 +632,9 @@ image:
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -658,7 +658,7 @@ image:
 	mso-font-kerning:1.5pt;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -672,7 +672,7 @@ Dieser Mangel an Wissen führt zu sozialer Stigmatisierung und Ausgrenzung und d
 
 Deshalb soll an diesem #EpilepsyDay der Wissensstand über Epilepsie in allen Bereichen der Gesellschaft verbessert werden, indem Menschen mit Epilepsie und diejenigen, die sie betreuen, Erfahrungen, vor allem Ihre Reise, teilen.
 
-**Lara hat uns dafür von Ihrer Reise erzählt:**
+**Lara hat uns dafür von ihrer Reise erzählt:**
 
 Hey, ich bin Lara Helena, 24 Jahre alt und habe seit meinem 11. Lebensjahr Epilepsie. Die ersten Symptome bekam ich in einem Sommerurlaub 2010. Diagnostiziert wurde die Epilepsie erst ein Jahr später. Ich hatte insgesamt drei große Anfälle und viele kleine Absencen Anfälle. Die drei großen waren aufgrund von Krankheit & Schlaflosigkeit und den anderen kann ich mir nicht erklären da er im normalen Alltag war. Außerdem hatte ich auch verschiedene Medikamente eingenommen. Vor meiner Jugendweihe 2014 hatte ich meinen letzten großen Anfall und wurde danach nochmals medikamentös umgestellt. Seit April 2014, also bald 10 Jahre, bin ich anfallsfrei. Klar, habe ich auch mit den Nebenwirkungen (z. B. Gewichtszunahme) zu kämpfen, aber es geht mir gut. Ich kann am „normalen“ Leben sehr gut teilnehmen. Ich kann auf Partys gehen ohne, dass es mir am nächsten Tag total schlecht geht. Ich hatte es auch in meiner Schulzeit nicht einfach. Doch ich habe es geschafft. Ich fahre Auto, habe eine Ausbildung zur Kauffrau für Büromanagement gemacht und arbeite heute in einem KH an der Rezeption und Aufnahme.
 
@@ -680,13 +680,9 @@ Hey, ich bin Lara Helena, 24 Jahre alt und habe seit meinem 11. Lebensjahr Epile
 
 Egal wie schwer es aussehen mag, jeder kann es schaffen!
 
- 
-
 Zum International Epilepsy Day könnt Ihr hier mehr lesen:
 
 <https://internationalepilepsyday.org>
-
- 
 
 \|Anzeige: Unbezahlte Werbung
 
