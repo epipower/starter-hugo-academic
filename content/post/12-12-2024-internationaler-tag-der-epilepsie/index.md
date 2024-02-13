@@ -1,6 +1,6 @@
 ---
-title: "12.12.2024: Internationaler Tag der Epilepsie"
-subtitle: Laras Reise
+title: "Internationaler Tag der Epilepsie: Laras Reise"
+subtitle: ""
 date: 2024-02-13T16:51:29.526Z
 draft: false
 featured: false
