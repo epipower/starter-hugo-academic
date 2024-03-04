@@ -29,5 +29,5 @@ publishDate: 2024-03-03T09:31:35.174Z
 draft: false
 featured: false
 image:
-  filename: 22ad0047-dd70-4563-83b3-d5be6ad47e21.png
+  filename: d35802d5-048b-482e-907b-ef3ac2612a9d.png
 ---
