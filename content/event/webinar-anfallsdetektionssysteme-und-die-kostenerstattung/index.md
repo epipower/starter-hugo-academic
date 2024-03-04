@@ -21,8 +21,8 @@ abstract: >
 
   Bei Problemen mit der Anmeldung schicken Sie gerne eine Mail.
 location: ZOOM
-date: 2024-04-17T16:30:43.714Z
-date_end: 2024-04-17T18:00:11.510Z
+date: 2024-04-17T18:30:43.714Z
+date_end: 2024-04-17T20:00:11.510Z
 all_day: false
 event: "Webinar: Anfallsdetektionssysteme"
 event_url: mailto:info@epipower.de
