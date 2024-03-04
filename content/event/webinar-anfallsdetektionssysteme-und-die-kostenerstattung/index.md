@@ -1,7 +1,7 @@
 ---
 title: "Webinar: Anfallsdetektionssysteme und die Kostenerstattung"
 abstract: >
-  Am 19.04.2024 um 18:30 findet über die Plattform "Zoom" ein Webinar zum Thema
+  Am 17.04.2024 um 18:30 findet über die Plattform "Zoom" ein Webinar zum Thema
   "Anfallsdetektionssysteme" statt. Dabei geht es vor allem um die Erstattung
   von der Krankenkasse solcher Systeme.
 
