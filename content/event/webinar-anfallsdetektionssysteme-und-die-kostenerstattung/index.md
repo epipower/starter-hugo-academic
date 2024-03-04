@@ -21,16 +21,16 @@ abstract: >
 
   Bei Problemen mit der Anmeldung schicken Sie gerne eine Mail.
 location: ZOOM
-date: 2024-04-19T16:30:43.714Z
-date_end: 2024-04-19T18:00:11.510Z
+date: 2024-04-17T16:30:43.714Z
+date_end: 2024-04-17T18:00:11.510Z
 all_day: false
 event: "Webinar: Anfallsdetektionssysteme"
 event_url: mailto:info@epipower.de
-publishDate: 2024-03-06T13:04:43.720Z
+publishDate: 2024-03-04T18:19:16.249Z
 draft: false
 featured: false
 image:
-  filename: deddd031-fb2f-4107-a2bc-4262801d9418.png
+  filename: db0769e8-0094-4446-bc5a-7d710358d4ac.png
   focal_point: Smart
   preview_only: false
   caption: "Bildnachweis: Birgit-Elisabeth Langen"
