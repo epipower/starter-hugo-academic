@@ -1,6 +1,6 @@
 ---
 title: "Achtung: Ausfall! Webinar: Neuromodulation"
-abstract: Das Seminar fällt leider aus.
+abstract: Das Webinar fällt leider aus.
 location: ZOOM
 date: 2024-03-19T18:30:06.673Z
 date_end: 2024-03-19T20:00:11.510Z
