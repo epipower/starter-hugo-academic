@@ -5,7 +5,7 @@ abstract: >
   "Ketogene Diät" statt. 
 
 
-  Dr. Frank Brandholz, Abteilungsarzt Klinische Epileptologie Kleinwachau, wird dieses Webinar halten.
+  Dr. Frank Brandhoff, Abteilungsarzt Klinische Epileptologie Kleinwachau, wird dieses Webinar halten.
 
 
   Es ist jeder herzlich eingeladen. Patienten, Angehörige, medizinisches Fachpersonal, Interessierte, etc.
