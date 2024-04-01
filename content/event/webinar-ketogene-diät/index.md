@@ -1,32 +1,23 @@
 ---
 title: "Webinar: Ketogene Diät"
-abstract: >-2
-   Webinar im Mai
-
-  🖥️ Thema: Ketogene Diät
-
-
-  👤 Vortragende: 
-
-  1. Dr. Frank Brandhoff, Abteilungsarzt Klinische Epileptologie Kleinwachau
-
-  2. Mandy Alex, Diätassistentin Kleinwachau
+abstract: >-
+  Am 15.05.2024 um 18:30 findet über die Plattform “Zoom” ein Webinar zum Thema
+  “Ketogene Diät” statt. 
 
 
-
-  📅 Datum: 15.05.2024
-
-
-  ⏰ Beginn: 18:30 Uhr bis ca. 20:00 Uhr (Vortrag + kurzer Austausch danach)
+  Dr. Frank Brandhoff, Abteilungsarzt Klinische Epileptologie Kleinwachau, und Mandy Alex, Diätassistentin Kleinwachau, werden dieses Webinar halten.
 
 
-  🔏 Anmeldung über den Link in der Bio oder auf unserer Website unter „Events“.
+  Es ist jeder herzlich eingeladen. Patienten, Angehörige, medizinisches Fachpersonal, Interessierte, etc.
 
 
-  🎥 Aus Datenschutzgründen kann das Webinar nicht aufgezeichnet werden. Ggf. wird im Nachhinein die Präsentation der Vortragenden zur Verfügung gestellt.
+  Anmeldung unter folgendem Link:
 
 
-  |Anzeige: Unbezahlte Werbung 
+  https://bitly.ws/3haU9
+
+
+  Bei Problemen mit der Anmeldung schicken Sie gerne eine Mail.
 location: ZOOM
 date: 2024-05-15T16:30:32.647Z
 date_end: 2024-05-15T18:00:11.510Z
