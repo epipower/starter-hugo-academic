@@ -19,8 +19,8 @@ abstract: >-
 
   Bei Problemen mit der Anmeldung schicken Sie gerne eine Mail.
 location: ZOOM
-date: 2024-05-15T16:30:32.647Z
-date_end: 2024-05-15T18:00:11.510Z
+date: 2024-05-15T18:30:32.647Z
+date_end: 2024-05-15T20:00:11.510Z
 all_day: false
 event: "Webinar: Ketogene Diät"
 event_url: mailto:info@epipower.de
