@@ -18,7 +18,19 @@ abstract: >-
   https://bitly.ws/T2z5
 
 
-  Aufgrund von Feiertagen etc. findet das Treffen manchmal auch am 2. Dienstag statt. Das kann aber den jeweiligen Treffen unter Events entnommen werden.
+  Aufgrund von Feiertagen etc. findet das Treffen manchmal auch am 2. Dienstag statt. 
+
+  Hier sind die restlichen Daten für das Jahr 2024:
+
+  06.08
+
+  03.09
+
+  01.10
+
+  05.11
+
+  03.12
 location: ZOOM
 date: 2024-07-02T18:30:31.809Z
 date_end: 2024-07-02T21:30:11.510Z
