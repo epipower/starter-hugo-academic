@@ -20,8 +20,8 @@ abstract: >-
 
   Aufgrund von Feiertagen etc. findet das Treffen manchmal auch am 2. Dienstag statt. Das kann aber den jeweiligen Treffen unter Events entnommen werden.
 location: ZOOM
-date: 2024-09-03T04:30:15.570Z
-date_end: 2024-09-03T20:30:11.510Z
+date: 2024-09-03T06:30:15.570Z
+date_end: 2024-09-03T21:30:11.510Z
 all_day: false
 event: "September: ZOOM Online Austauschtreffen "
 event_url: mailto:info@epipower.de
