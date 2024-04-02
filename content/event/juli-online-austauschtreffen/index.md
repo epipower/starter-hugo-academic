@@ -20,15 +20,21 @@ abstract: >-
 
   Aufgrund von Feiertagen etc. findet das Treffen manchmal auch am 2. Dienstag statt. 
 
+
   Hier sind die restlichen Daten für das Jahr 2024:
+
 
   06.08
 
+
   03.09
+
 
   01.10
 
+
   05.11
+
 
   03.12
 location: ZOOM
