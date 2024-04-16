@@ -12,10 +12,7 @@ abstract: >
   Es ist jeder herzlich eingeladen. Patienten, Angehörige, medizinisches Fachpersonal, Interessierte, etc.
 
 
-  Anmeldung unter folgendem Link:
-
-
-  https://bitly.ws/3eCiy
+  Anmeldung geschlossen.
 
 
 
