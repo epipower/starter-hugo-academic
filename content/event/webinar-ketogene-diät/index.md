@@ -14,7 +14,7 @@ abstract: >-
   Anmeldung unter folgendem Link:
 
 
-  https://bitly.ws/3haU9
+  https://www.survio.com/survey/d/G6I5Y8U9A8P9H3E9P
 
 
   Bei Problemen mit der Anmeldung schicken Sie gerne eine Mail.
