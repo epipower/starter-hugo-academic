@@ -30,6 +30,6 @@ Zudem gibt es an den meisten Hochschulen **Behindertenbeauftragte,** an welche d
 
 Darüber hinaus kann dich eine **Assistenz** während des Studiums in verschiedenen Bereichen ebenfalls unterstützen. Zum Beispiel kann sie/ er Mitschriften anfertigen sowie bei der Nach- und Vorbereitung des Lehrstoffs behilflich sein.
 
-In unserem Verein haben einige studiert oder befinden sich noch im Studium. Deshalb sind wir offen für Fragen und man kann sich auch gegenseitig Tipps geben. 
+##### In unserem Verein haben einige studiert oder befinden sich noch im Studium. Deshalb sind wir offen für Fragen und man kann sich auch gegenseitig Tipps geben. 
 
-###  Paulas Botschaft für Euch: Wenn Du gerne studieren möchtest, dann beginne damit und zweifle nicht an Dir und deiner Epilepsie!
+### Paulas Botschaft für Euch: Wenn Du gerne studieren möchtest, dann beginne damit und zweifle nicht an Dir und deiner Epilepsie!
