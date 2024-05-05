@@ -10,7 +10,7 @@ image:
   preview_only: false
   caption: Sinnbild
 ---
-I﻿n diesem Blog-Beitrag erzählt uns Paula etwas über das Studieren mit Epilepsie. Paula hat ist selbst betroffen und hat ihr Studium erfolgreich gemeistert.
+## I﻿n diesem Blog-Beitrag erzählt uns Paula etwas über das Studieren mit Epilepsie. Paula hat ist selbst betroffen und hat ihr Studium erfolgreich gemeistert.
 
 Du hast deine (Fach-) Hochschulreife in der Tasche und überlegst, ein Studium in Betracht zu ziehen, trotz deiner Epilepsie? Du fragst dich, ob man dies trotz Epilepsie meistern kann? Maßgebend sollten dein Wille und dein Mut größer sein als der Zweifel und die Angst davor, dass du das überhaupt schaffst!
 
@@ -30,8 +30,6 @@ Zudem gibt es an den meisten Hochschulen **Behindertenbeauftragte,** an welche d
 
 Darüber hinaus kann dich eine **Assistenz** während des Studiums in verschiedenen Bereichen ebenfalls unterstützen. Zum Beispiel kann sie/ er Mitschriften anfertigen sowie bei der Nach- und Vorbereitung des Lehrstoffs behilflich sein.
 
-
-
 In unserem Verein haben einige studiert oder befinden sich noch im Studium. Deshalb sind wir offen für Fragen und man kann sich auch gegenseitig Tipps geben. 
 
- Paulas Botschaft für Euch: Wenn Du gerne studieren möchtest, dann beginne damit und zweifle nicht an Dir und deiner Epilepsie!
+###  Paulas Botschaft für Euch: Wenn Du gerne studieren möchtest, dann beginne damit und zweifle nicht an Dir und deiner Epilepsie!
