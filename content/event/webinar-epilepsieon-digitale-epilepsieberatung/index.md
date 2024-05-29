@@ -24,7 +24,7 @@ abstract: >
   Bei Problemen mit der Anmeldung schicken Sie gerne eine Mail.
 location: ZOOM
 date: 2024-06-10T18:30:09.351Z
-date_end: 2024-04-17T19:00:11.510Z
+date_end: 2024-04-17T20:00:11.510Z
 all_day: false
 event: "Webinar: epilepsieON"
 event_url: mailto:info@epipower.de
