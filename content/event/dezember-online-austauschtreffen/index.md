@@ -15,12 +15,10 @@ abstract: >-
 
   Einmalige Anmeldung für die Austauschtreffen über das folgende Formular:
 
-  https://www.survio.com/survey/d/Y6B5H2S6N8E9E2Y6P
+  https://zoom.us/meeting/register/tJIsc-Gqpz4pGdZmew5nfzAYk34dNUFvicp9
 
 
-  Aufgrund von Feiertagen etc. findet das Treffen manchmal auch am 2. Dienstag statt. 
-
-  Hier sind die Daten für das Jahr 2025:
+  Die Daten für das nächste Jahr finden sich alle nach der Registrierung bei Zoom.
 location: ZOOM
 date: 2024-12-03T19:30:44.890Z
 date_end: 2024-12-03T22:30:11.510Z
