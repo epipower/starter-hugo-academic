@@ -18,16 +18,7 @@ abstract: >-
   https://zoom.us/meeting/register/tJIsc-Gqpz4pGdZmew5nfzAYk34dNUFvicp9
 
 
-  Aufgrund von Feiertagen etc. findet das Treffen manchmal auch am 2. Dienstag statt. 
-
-
-  Hier sind die restlichen Daten für das Jahr 2024:
-
-
-  05.11
-
-
-  03.12
+  Die Daten für das Jahr sind nach der Registrierung einsehbar.
 location: ZOOM
 date: 2024-10-01T18:30:55.079Z
 date_end: 2024-10-01T21:30:11.510Z
