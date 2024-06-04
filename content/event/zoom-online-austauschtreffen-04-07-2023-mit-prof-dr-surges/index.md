@@ -1,6 +1,6 @@
 ---
 title: ZOOM Online Austauschtreffen 04.07.2023 mit Prof. Dr. Surges
-abstract: >
+abstract: >-
   In unserem Austauschtreffen am 04.07 wird Prof. Dr. med Rainer Surges von der
   Uniklinik Bonn einen kurzen Vortrag zum Thema SUDEP (Sudden unexpected death
   in epilepsy) halten. Anschließend können Fragen gestellt werden und Prof. Dr.
@@ -12,7 +12,7 @@ abstract: >
 
 
 
-  Jeden 1. Dienstag im Monat ab 18.30 Uhr stellen wir Zoom als Plattform zum gemeinsamen Austausch zur Verfügung. Epilepsiebetroffene aller Altersgruppen sind dazu eingeladen. In der Regel gibt es einen Impulsvortrag zu einem zu ausgewählten Thema der Epilepsie, bspw. über neue Möglichkeiten der Behandlung oder Fortschritte in der Diagnostik. Im Anschluss wechseln die Teilnehmer in themenspezifische Breakoutsessions, um über alle verschiedenen Themen rund um Epilepsie, aber auch Privates zu diskutieren. Wir haben eine sehr lockere Atmosphäre und jeder kann kommen und gehen, wie und wann er Lust hat. Um mitzumachen ist allerdings zuvor eine Anmeldung per E-Mail notwendig.
+  Jeden 1. Dienstag im Monat ab 18.30 Uhr stellen wir Zoom als Plattform zum gemeinsamen Austausch zur Verfügung. Epilepsiebetroffene aller Altersgruppen sind dazu eingeladen. In der Regel gibt es einen Impulsvortrag zu einem zu ausgewählten Thema der Epilepsie, bspw. über neue Möglichkeiten der Behandlung oder Fortschritte in der Diagnostik. Im Anschluss wechseln die Teilnehmer in themenspezifische Breakoutsessions, um über alle verschiedenen Themen rund um Epilepsie, aber auch Privates zu diskutieren. Wir haben eine sehr lockere Atmosphäre und jeder kann kommen und gehen, wie und wann er Lust hat. 
 location: ZOOM
 date: 2023-07-04T18:30:53.582Z
 date_end: 2023-07-04T22:00:11.510Z
