@@ -15,7 +15,7 @@ abstract: >-
 
   Einmalige Anmeldung für die Austauschtreffen über das folgende Formular:
 
-  https://www.survio.com/survey/d/Y6B5H2S6N8E9E2Y6P
+  https://zoom.us/meeting/register/tJIsc-Gqpz4pGdZmew5nfzAYk34dNUFvicp9 
 
 
   Aufgrund von Feiertagen etc. findet das Treffen manchmal auch am 2. Dienstag statt. 
