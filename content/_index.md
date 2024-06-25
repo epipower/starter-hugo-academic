@@ -31,9 +31,9 @@ sections:
           description: <div align="justify"> Jeden ersten Dienstag im Monat starten wir ein Zoom-Meeting für Menschen, die von Epilepsie betroffen sind. Nach einem Impulsvortag über etwas Aktuelles aus der Epilepsie tauschen sich die Teilnehmer anschließend zu verschiedenen Themen aus, spezifisch zur Epilepsie aber auch Privates. Es geht also ganz locker zu. Du hast Interesse? Dann melde dich einfach <a href="mailto:info@epipower.de">hier</a> und du bekommst regelmäßig die Zugangsdaten per Mail.</div>
           icon: video
           icon_pack: fas
-        - name: Slack Online Community
-          description: <div align="justify"> Wie bewältigst du den Alltag mit deiner Epilepsie? Bist du zufrieden mit deiner Therapie? Kennst du andere Menschen, die von Epilepsie betroffen sind? Wir bieten dir eine Community zum Fragen stellen, Vernetzen und zum sich gegenseitig Austauschen. Akutell haben wir hierfür ein Online-Forum auf Slack erstellt. Melde dich einfach <a href="mailto:info@epipower.de">hier</a>, wenn du dabei sein möchtest und wir lassen dir zeitnah einen Einladungslink zukommen. </div>
-          icon: slack
+        - name: Discord Online Community
+          description: <div align="justify"> Wie bewältigst du den Alltag mit deiner Epilepsie? Bist du zufrieden mit deiner Therapie? Kennst du andere Menschen, die von Epilepsie betroffen sind? Wir bieten dir eine Community zum Fragen stellen, Vernetzen und zum sich gegenseitig Austauschen. Dafür nutzen wir einen Discord Server. Melde Dich bei uns per <a href="mailto:info@epipower.de">Mail</a> oder Instagram, falls Du Interesse hast.</div>
+          icon: discord
           icon_pack: fab
     design:
         columns: '2'
