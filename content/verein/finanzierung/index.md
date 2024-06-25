@@ -36,8 +36,8 @@ Wichtig zu wissen:<br>
 Die Förderer (Krankenkassen, GKV, Pharmaunternehmen etc.) haben keinerlei Einfluss auf den Inhalt und die Ergebnisse von Projekten, Dokumenten und dem Vereinsgeschehen. Auf dem § 20 SGB V basiert die Selbsthilfeförderung der Krankenkassen, welche sich in Pauschalförderung (GKV) und die kassenindividuelle Förderung (projektbezogen) unterteilt.
 
 #### 2023
-Pauschalförderung: 1.140,00 €
-Projektbezogene Förderung: 6.600,00 €
+- Pauschalförderung: 1.140,00 €
+- Projektbezogene Förderung: 6.600,00 €
 
 durch:
 - GKV-Selbsthilfeförderung Schleswig Holstein: 1.140,00 €
