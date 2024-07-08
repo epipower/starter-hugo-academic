@@ -58,5 +58,8 @@ Diese Datenschutzerklärung ist aktuell gültig und hat den Stand **14.03.2023**
 
 Durch die Weiterentwicklung unserer Webseite und Angebote darüber oder aufgrund geänderter gesetzlicher beziehungsweise behördlicher Vorgaben kann es notwendig werden, diese Datenschutzerklärung zu ändern. Die jeweils aktuelle Datenschutzerklärung kann jederzeit auf unserer Webseite abgerufen werden.
 
+### Cookies
+<div class="ccm-cookie-declaration" data-lang="de_DE">Bitte aktivieren Sie Javascript, um die Liste aller deklarierten Cookies und ähnlicher Techniken zu sehen.</div>
+
 <!-- ### Cookies
 <script id="CookieDeclaration" src="https://consent.cookiebot.com/fc36b5a5-d061-42bb-aacd-9916abd1e661/cd.js" type="text/javascript" async></script> -->
