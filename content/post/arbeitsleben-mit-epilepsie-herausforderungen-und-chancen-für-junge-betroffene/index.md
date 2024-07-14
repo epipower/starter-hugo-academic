@@ -33,10 +33,4 @@ Ein Zitat aus dem Englischen übersetzt: „Menschen mit Epilepsie, ihre Betreue
 
 Das klingt interessant und Ihr wollt mitwirken? Meldet Euch bei uns!
 
-Außerdem benötigen wir Eure Unterstützung bei dem folgenden Fragenbogen:
-
-https://www.survio.com/survey/d/Y8L7N7H5K6R1M5Y5D 
-
-N﻿ehmt teil und teilt die Umfrage fleißig!
-
 \|Gefördert durch die KKH Kaufmännische Krankenkasse; diese hat keinen Einfluss auf die Inhalte
