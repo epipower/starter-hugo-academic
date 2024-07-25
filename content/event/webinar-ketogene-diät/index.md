@@ -1,6 +1,6 @@
 ---
 title: "Webinar: Ketogene Ernährungstherapie"
-abstract: >-
+abstract: >+
   Am 15.05.2024 um 18:30 findet über die Plattform “Zoom” ein Webinar zum Thema
   “Ketogene Ernährungstherapie - Epipower meets KetoTalkForAdults” statt. 
 
@@ -19,8 +19,6 @@ abstract: >-
 
   Bei Problemen mit der Anmeldung schicken Sie gerne eine Mail.
 
-
-  Gesponsert durch Nutricia Deutschland.
 location: ZOOM
 date: 2024-05-15T18:30:32.647Z
 date_end: 2024-05-15T20:00:11.510Z
