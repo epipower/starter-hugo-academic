@@ -31,6 +31,8 @@ abstract: >-
 
   - Vereine, Organisationen
 
+  - Krankenhäuser, Epilepsiezentren
+
   - Betroffene, Angehörige, Interessierte
 
 
