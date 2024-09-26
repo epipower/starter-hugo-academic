@@ -1,7 +1,20 @@
 ---
 title: Kennlerntreffen von Epipower
 abstract: >-
-  Wir laden Sie und Euch zu einem Kennlerntreffen ein. 
+  Wir laden Sie zu einem Kennlerntreffen ein. 
+
+
+  Wir wollen damit folgende Zielgruppen erreichen:
+
+  - Medizinisches Fachpersonal
+
+  - Sozialdienste, Beratungsstellen
+
+  - Vereine, Organisationen
+
+  - Krankenhäuser, Epilepsiezentren
+
+  - Betroffene, Angehörige, Interessierte
 
 
   Bei dem Treffen geht es um Folgendes:
@@ -21,19 +34,6 @@ abstract: >-
   - Austausch & Ideen von Ihnen/Euch
 
   - Fragerunde
-
-
-  Wir wollen damit folgende Zielgruppen erreichen:
-
-  - Medizinisches Fachpersonal
-
-  - Sozialdienste, Beratungsstellen
-
-  - Vereine, Organisationen
-
-  - Krankenhäuser, Epilepsiezentren
-
-  - Betroffene, Angehörige, Interessierte
 
 
   Es findet am 26.11.2024 um 18:30 Uhr über Zoom statt. Je nach Teilnehmeranzahl und Interesse/Fragen dauert es ca. 30-60 Minuten. 
