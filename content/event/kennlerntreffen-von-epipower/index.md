@@ -60,7 +60,7 @@ publishDate: 2024-09-26T09:32:07.107Z
 draft: false
 featured: false
 image:
-  filename: einladung-2.png
+  filename: einladung-3.png
   focal_point: Smart
   preview_only: false
   caption: ""
