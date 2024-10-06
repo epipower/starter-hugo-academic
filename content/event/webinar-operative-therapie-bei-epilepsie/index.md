@@ -31,5 +31,5 @@ image:
   filename: webinar-austausch-5.png
   focal_point: Smart
   preview_only: false
-  caption: "Bildnachweis: "
+  caption: "Bildnachweis: Dr. Andrea Spyrantis"
 ---
