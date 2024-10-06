@@ -15,13 +15,12 @@ abstract: >-
 
   Einmalige Anmeldung für die Austauschtreffen über das folgende Formular:
 
-  https://zoom.us/meeting/register/tJIsc-Gqpz4pGdZmew5nfzAYk34dNUFvicp9
 
 
   Die Daten für das Jahr sind nach der Registrierung einsehbar.
 location: ZOOM
-date: 2024-11-05T17:30:51.751Z
-date_end: 2024-11-05T20:30:11.510Z
+date: 2024-11-05T16:30:51.751Z
+date_end: 2024-11-05T19:30:11.510Z
 all_day: false
 event: "November: ZOOM Online Austauschtreffen "
 event_url: mailto:info@epipower.de
