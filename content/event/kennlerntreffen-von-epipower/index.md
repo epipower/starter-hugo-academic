@@ -56,7 +56,7 @@ date_end: 2024-11-26T17:00:11.510Z
 all_day: false
 event: Kennlerntreffen von Epipower
 event_url: mailto:info@epipower.de
-publishDate: 2024-09-26T09:32:07.107Z
+publishDate: 2024-10-06T17:28:17.286Z
 draft: false
 featured: false
 image:
