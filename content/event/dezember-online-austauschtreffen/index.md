@@ -21,8 +21,8 @@ abstract: >-
 
   Die Daten für das nächste Jahr finden sich alle nach der Registrierung bei Zoom.
 location: ZOOM
-date: 2024-12-03T19:30:44.890Z
-date_end: 2024-12-03T22:30:11.510Z
+date: 2024-12-03T18:30:44.890Z
+date_end: 2024-12-03T21:30:11.510Z
 all_day: false
 event: "Dezember: ZOOM Online Austauschtreffen "
 event_url: mailto:info@epipower.de
