@@ -51,8 +51,8 @@ abstract: >-
 
   Wir freuen uns auf den Abend!
 location: ZOOM
-date: 2024-11-26T16:30:07.102Z
-date_end: 2024-11-26T17:00:11.510Z
+date: 2024-11-26T18:30:07.102Z
+date_end: 2024-11-26T19:30:11.510Z
 all_day: false
 event: Kennlerntreffen von Epipower
 event_url: mailto:info@epipower.de
