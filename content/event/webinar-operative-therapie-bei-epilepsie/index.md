@@ -19,8 +19,8 @@ abstract: >
 
   Bei Problemen mit der Anmeldung schicken Sie gerne eine Mail.
 location: ZOOM
-date: 2024-11-20T17:30:14.556Z
-date_end: 2024-11-20T19:00:11.510Z
+date: 2024-11-20T18:30:14.556Z
+date_end: 2024-11-20T20:00:11.510Z
 all_day: false
 event: "Webinar: Operative Therapie bei Epilepsie"
 event_url: mailto:info@epipower.de
