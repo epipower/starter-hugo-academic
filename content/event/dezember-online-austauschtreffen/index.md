@@ -15,7 +15,6 @@ abstract: >-
 
   Einmalige Anmeldung für die Austauschtreffen über das folgende Formular:
 
-
   https://zoom.us/meeting/register/tJcqfu6tpzwqGtbQlfDq86UGrElPWfePiRjU
 
 
