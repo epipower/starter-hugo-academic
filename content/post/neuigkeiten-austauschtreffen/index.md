@@ -8,34 +8,14 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-💡Neuigkeiten zu unseren Austauschtreffen
+Neuigkeiten zu unseren Austauschtreffe⃣n. Ab dem neuen Jahr werden wir unsere Austauschtreffen etwas anders gestalten.
 
-1️⃣ Ab dem neuen Jahr werden wir unsere Austauschtreffen etwas anders gestalten.
+Jeden 1. Dienstag im Monat belassen wir es beim Austausch, aber ohne Input-Vortrag, damit mehr Zeit zum Reden bleibt. (18:30 - 21:30 Uhr)
 
-Jeden 1. Dienstag im Monat belassen wir es beim Austausch, aber ohne Input-Vortrag, damit mehr Zeit zum Reden bleibt. 
+Einmal im Monat gibt es ein Webinar mit anschließendem Austausch/Raum für Diskussion. Dafür benötigt man keine Anmeldung für das Austauschtreffen, sondern man kann sich monatlich über unsere Website unter Events dafür anmelden. Damit sind die Webinare von Austauschtreffen entkoppelt. Da liegt der Fokus vor allem auf dem Vortrag (ca. 45-60 min). 
 
-(18:30 - 21:30 Uhr)
-
-
-
-❕ Einmal im Monat gibt es ein Webinar mit anschließendem Austausch/Raum für Diskussion. Dafür benötigt man keine Anmeldung für das Austauschtreffen, sondern man kann sich monatlich über unsere Website unter Events dafür anmelden. Damit sind die Webinare von Austauschtreffen entkoppelt.
-
-Da liegt der Fokus vor allem auf dem Vortrag (ca. 45-60 min). 
-
-(18:30 - 20:00 Uhr)
-
-
-
-⏰ Die Daten für die Austauschtreffen für das ganze Jahr findet Ihr im Highlight „Events & Termine.“ 
-
-
-
-📝 Für Infos zu unserem normalen Austauschtreffen, schaut gerne im Feed.
+Die Daten für die Austauschtreffen findet Ihr unter Events.
 
 Anmeldung zum normalen Austauschtreffen:
 
-Link in Bio oder auf der Website unter Events. 
-
-
-
-❓Ihr habt Fragen? Schreibt uns eine DM oder per Mail.
+https://zoom.us/meeting/register/tJcqfu6tpzwqGtbQlfDq86UGrElPWfePiRjU
