@@ -21,12 +21,12 @@ abstract: >-
 
   Die Daten für das Jahr sind nach der Registrierung einsehbar.
 location: ZOOM
-date: 2024-06-04T18:30:35.158Z
-date_end: 2024-06-04T21:30:11.510Z
+date: 2025-06-03T16:30:35.158Z
+date_end: 2025-06-03T19:30:11.510Z
 all_day: false
 event: "Juni: ZOOM Online Austauschtreffen "
 event_url: mailto:info@epipower.de
-publishDate: 2024-03-03T09:31:35.174Z
+publishDate: 2025-04-01T08:31:35.174Z
 draft: false
 featured: false
 image:
