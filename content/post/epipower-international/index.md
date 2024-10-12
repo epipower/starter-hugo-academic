@@ -1,6 +1,7 @@
 ---
 title: Epipower international
-subtitle: ""
+subtitle: Leonie, aus dem Vorstand, gibt uns Einblicke in das International
+  Bureau for Epilepsy (IBE) und erzählt über ihre Verbundenheit damit.
 date: 2024-10-12T13:22:05.709Z
 draft: false
 featured: false
@@ -10,13 +11,9 @@ image:
   preview_only: false
   caption: ""
 ---
-Leonie, aus dem Vorstand, gibt uns Einblicke in das International Bureau for Epilepsy (IBE) und erzählt über ihre Verbundenheit damit.  
-
-Über das IBE:
+ **Über das IBE:**
 
 Das Internationale Büro für Epilepsie (IBE) wurde 1961 als Organisation von „Laien“ und Fachleuten gegründet, die sich für die medizinischen und nichtmedizinischen Aspekte der Epilepsie interessieren. Das IBE befasst sich mit sozialen Problemen wie Bildung, Beschäftigung, Versicherung, Führerscheinbeschränkungen und öffentlichem Bewusstsein.
-
-
 
 Als Dachverband bestehen die IBE-Sektionen aus nationalen Epilepsieverbänden, die sich hauptsächlich mit den sozialen Aspekten der Epilepsie befassen und ihrerseits Menschen mit Epilepsie, deren Familien und Betreuer unterstützen.
 
@@ -47,8 +44,6 @@ Durch diesen Austausch war sie auch beim ICHOM Epilepsy Set of Patient-Centered 
 Letztes Jahr wurde sie als Speakerin für den International Epilepsy Congress in Dublin angefragt und eingeladen. 
 
 Auch für das Jahr 2025 gibt es bereits eine Einladung zum IEC in Lissabon. 
-
-
 
 Im September 2024 fand die erste IBE-Europe Chapter Convention statt, an der Leonie auch teilgenommen hat. Dort wurde mit anderen Chaptern aus Europa diskutiert sowie Erfahrungen und Sichtweisen ausgetauscht.
 
