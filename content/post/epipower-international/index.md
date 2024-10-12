@@ -17,12 +17,13 @@ Das Internationale Büro für Epilepsie (IBE) wurde 1961 als Organisation von �
 
 Als Dachverband bestehen die IBE-Sektionen aus nationalen Epilepsieverbänden, die sich hauptsächlich mit den sozialen Aspekten der Epilepsie befassen und ihrerseits Menschen mit Epilepsie, deren Familien und Betreuer unterstützen.
 
-Um der regionalen Vielfalt Rechnung zu tragen, sind die IBE-Sektionen in sieben regionale Strukturen gegliedert, die sich an den regionalen Grenzen der WHO orientieren: Afrika, Östlicher Mittelmeerraum, Europa, Lateinamerika, Nordamerika, Südostasien und Westpazifik.
-
+Um der regionalen Vielfalt Rechnung zu tragen, sind die IBE-Sektionen in sieben regionale Strukturen gegliedert, die sich an den regionalen Grenzen der WHO orientieren: Afrika, Östlicher Mittelmeerraum, Europa, Lateinamerika, Nordamerika, Südostasien und Westpazifik.\
 \
 Es gibt viele Initiativen, Kampagnen, wie z.B. International Epilepsy Day, E-Learning, Youth Team, Konzile, Projekte, Awards, GENS etc. 
 
 Mehr zum IBE: [https://www.ibe-epilepsy.org](https://www.ibe-epilepsy.org/about/ibe-chapters/)
+
+[](https://www.ibe-epilepsy.org/about/ibe-chapters/)
 
 🔺 Über ein Projekt im Jahr 2019 ist Leonie in Kontakt mit dem IBE gekommen und hat an weiterführenden Meetings teilgenommen. 
 
