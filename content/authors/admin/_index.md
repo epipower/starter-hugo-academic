@@ -11,11 +11,6 @@ social:
     link: https://www.instagram.com/epipower.de/
     display:
       header: true
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/company/epilepsie-empowerment-deutschland-e-v/
-    display:
-      header: true
 superuser: true
 last_name: Epipower
 role: Epilepsie Empowerment Deutschland e.V.
