@@ -1,6 +1,6 @@
 ---
 title: Paula
-role: 1. Beisitzerin
+role: Erste Beisitzerin
 avatar_filename: paula.jpg
 social: []
 superuser: false

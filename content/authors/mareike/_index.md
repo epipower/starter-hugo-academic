@@ -1,6 +1,6 @@
 ---
 title: Mareike
-role: 2. Beisitzerin
+role: Zweite Beisitzerin
 avatar_filename: avatar
 social: []
 superuser: false
