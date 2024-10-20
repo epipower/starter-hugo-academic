@@ -1,6 +1,6 @@
 ---
 title: Mareike
-role: Projekte
+role: 2. Beisitzerin
 avatar_filename: avatar
 social: []
 superuser: false

@@ -1,6 +1,6 @@
 ---
 title: Paula
-role: Networking
+role: 1. Beisitzerin
 avatar_filename: paula.jpg
 social: []
 superuser: false

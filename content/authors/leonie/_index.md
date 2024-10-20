@@ -1,6 +1,6 @@
 ---
 title: Leonie
-role: Social Media
+role: Schriftführerin
 avatar_filename: avatar
 social: []
 superuser: false

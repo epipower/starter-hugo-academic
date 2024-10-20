@@ -1,6 +1,6 @@
 ---
 title: Nico
-role: Website
+role: Kassenprüfer
 avatar_filename: img_0744.jpg
 social: []
 superuser: false

@@ -1,6 +1,6 @@
 ---
 title: Karo
-role: Mitgliederbetreuung
+role: Vorsitzende
 avatar_filename: avatar
 social: []
 superuser: false

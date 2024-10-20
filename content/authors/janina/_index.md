@@ -1,6 +1,6 @@
 ---
 title: Janina
-role: Finanzen
+role: Kassenwartin
 avatar_filename: avatar
 social: []
 superuser: false
