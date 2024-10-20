@@ -178,10 +178,6 @@ sections:
           icon_pack: fab
           name: epipower.de
           link: https://www.instagram.com/epipower.de/
-        - icon: linkedin
-          icon_pack: fab
-          name: Epilepsie Empowerment Deutschland e.V.
-          link: https://www.linkedin.com/company/epilepsie-empowerment-deutschland-e-v/
       address:
         street: Postfach Kaiserstraße 217
         city: Karlsruhe
