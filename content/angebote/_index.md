@@ -26,38 +26,10 @@ Discord ist eine Plattform zur Kommunikation. Dort können sich Betroffene und A
 Es gibt verschiedene „Channel“, wo über verschiedene Themen gesprochen wird und Erfahrungen ausgetauscht werden können.
 Ebenfalls kann dort über Veranstaltungen und Ähnliches informiert werden.
 Wer sich für das Austauschtreffen angemeldet hat, braucht keine extra Anmeldung für Discord.
-Wer nur bei Discord dabei sein möchte, kann das nachstehende Formular ausfüllen und es wird der Einladungslink per Mail verschickt.
+Wer nur bei Discord dabei sein möchte, kann folgendes [Formular](https://www.survio.com/survey/d/Z9K5S9D8X4M5U4C5E) ausfüllen und es wird der Einladungslink per Mail verschickt.
 
 ## Webinare
 
 Wir versuchen monatlich Webinare zu veranstalten. Die Webinare werden von medizinischem Fachpersonal, Sozialarbeitern, Forschern, Psychologen usw. durchgeführt.
 Die Zielgruppe sind nicht nur Patienten, wir wollen auch andere Personengruppen, wie Ärzte, Krankenhäuser, etc. erreichen.
-Die Termine mit jeweiligen Themen und Vortragenden für die Webinare sind unter „Events“ zu finden.
-
-## Peer-to-Peer Beratung
-
-Bei der Peer-to-Peer (engl. xx) Beratung können sich Betroffene mit Fragen an unsere Peers wenden.
-Peers zeichnen sich durch eigene Erfahrungen aus und haben teilweise Weiterbildungen, um die eigenen Ressourcen in einer Beratung gut zu nutzen.
-Folgende Peers von uns stehen zu einem Gespräch zur Verfügung:
-⁃ Name
-⁃ Name
-⁃ Name
-⁃ Name
-Zur Anmeldung zu einer Beratung [hier](...) klicken.
-Wichtige Information: Dies ersetzt kein Arztgespräch oder eine medizinische Beratung.
-
-## Projekte
-
-Als Verein führen wir Projekte durch, um unsere Ziele zu erfüllen.
-
-### 2024:
-
-#### Arbeitsleben mit Epilepsie - Chancen & Herausforderungen für junge Betroffene
-Ziel und Beschreibung
-
-### 2023:
-
-#### Projektname
-Ziel und Beschreibung
-
-## Podcast
+Die Termine mit jeweiligen Themen und Vortragenden für die Webinare sind unter [Events](https://epipower.de/event/) zu finden.
