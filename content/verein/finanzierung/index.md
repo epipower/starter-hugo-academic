@@ -14,7 +14,7 @@ header:
 ---
 
 ## Ihre Spende hilft!
-Sie möchten unsere Arbeit für Menschen mit Epilepsie, sowie ihre Angehöirgen unterstützen<br> 
+Sie möchten unsere Arbeit für Menschen mit Epilepsie, sowie ihre Angehöirgen unterstützen?<br> 
 Dann spenden Sie jetzt!
 
 ### Bankverbindung
