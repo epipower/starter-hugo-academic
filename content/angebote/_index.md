@@ -10,13 +10,13 @@ date: "2018-06-28T00:00:00Z"
 
 Hier befinden sich unsere Angebote und Aktionen, die sich an alle Menschen mit Epilepsie, Angehörige, medizinisches Fachpersonal, Institutionen, Interessierte usw. richten.
 Dazu gehören Austauschtreffen über Zoom, Austausch über Discord, spannende Webinare Peer-to-Peer Beratung, Projekte und einen Podcast.
-Hier können Sie vielfältige Angebote genießen und die Gemeinschaft unseres Vereins intensiv erleben. Schauen Sie regelmäßig vorbei.<br>
+Hier können Sie vielfältige Angebote genießen und die Gemeinschaft unseres Vereins intensiv erleben. Schauen Sie regelmäßig vorbei.<br><br>
 Alle Angebote sind kostenlos!
 
 ## Austauschtreffen
 
 Die Austauschtreffen finden am ersten Dienstag des Monats über Zoom statt. Manchmal müssen, aufgrund von Feiertagen, die Treffen auf den zweiten Dienstag verschoben werden.
-Die anstehenden Termine sind unter „Events“ zu finden.
+Die anstehenden Termine sind unter [Events](https://epipower.de/event/) zu finden.
 Mit der Registrierung erhält man auch einen Einladungslink zu unserem Discord-Server.
 Zur Registrierung für die Austauschtreffen [hier](https://zoom.us/meeting/register/tJcqfu6tpzwqGtbQlfDq86UGrElPWfePiRjU) klicken.
 
