@@ -16,7 +16,7 @@ Alle Angebote sind kostenlos!
 ## Austauschtreffen
 
 Die Austauschtreffen finden am ersten Dienstag des Monats über Zoom statt. Manchmal müssen, aufgrund von Feiertagen, die Treffen auf den zweiten Dienstag verschoben werden.
-Die anstehenden Termine sind unter [**Events**](https://epipower.de/event/) zu finden.
+Die anstehenden Termine sind unter [**Events**](/event) zu finden.
 Mit der Registrierung erhält man auch einen Einladungslink zu unserem Discord-Server.
 Zur Registrierung für die Austauschtreffen [**hier**](https://zoom.us/meeting/register/tJcqfu6tpzwqGtbQlfDq86UGrElPWfePiRjU) klicken.
 
