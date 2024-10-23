@@ -32,4 +32,4 @@ Wer nur bei Discord dabei sein möchte, kann folgendes [**Formular**](https://ww
 
 Wir versuchen monatlich Webinare zu veranstalten. Die Webinare werden von medizinischem Fachpersonal, Sozialarbeitern, Forschern, Psychologen usw. durchgeführt.
 Die Zielgruppe sind nicht nur Patienten, wir wollen auch andere Personengruppen, wie Ärzte, Krankenhäuser, etc. erreichen.
-Die Termine mit jeweiligen Themen und Vortragenden für die Webinare sind unter [**Events**](https://epipower.de/event/) zu finden.
+Die Termine mit jeweiligen Themen und Vortragenden für die Webinare sind unter [**Events**](/event) zu finden.
