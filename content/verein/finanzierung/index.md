@@ -8,22 +8,16 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 
 # Optional header image (relative to `assets/media/` folder).
-header:
-  caption: ""
-  image: ""
+# header:
+#   caption: ""
+#   image: ""
 ---
 
 ## Ihre Spende hilft!
 Sie möchten unsere Arbeit für Menschen mit Epilepsie, sowie ihre Angehöirgen unterstützen?<br> 
 Dann spenden Sie jetzt!
 
-### Bankverbindung
-Epilepsie Empowerment Deutschland e.V. (Epipower)<br> 
-VR-Bank Altenburger Land eG<br> 
-IBAN: DE97 8306 5408 0005 3002 23<br> 
-BIC (SWIFT): GENODEF1SLR<br> 
-
-Da wir kein Lastschrifteinzugsverfahren haben, bitten wir Sie um Einrichtung eines persönlichen Dauerauftrages.
+<div><link href="https://plugin.whydonate.com/wdplugin-style.css" rel="stylesheet" type="text/css"><div id="share-widget-unterstutzen-sie-epilepsie-empowerment-deutschland-ev" class="share-widget" data-slug="unterstutzen-sie-epilepsie-empowerment-deutschland-ev" data-lang="de" data-success_url="" data-fail_url="" data-card="hide" data-form_mode="donation-widget"></div><script src="https://plugin.whydonate.com/wp_styling.js" type="text/javascript"></script></div>
 
 Wir sind als gemeinnützig anerkannt. Ab einem Spendenbetrag von 25€ können wir eine Spendenquittung ausstellen. Bitte melden Sie sich hierfür bei [**info@epipower.de**](mailto:info@epipower.de).
 
