@@ -17,7 +17,7 @@ comments: false  # Show comments?
 Sie möchten unsere Arbeit für Menschen mit Epilepsie, sowie ihre Angehöirgen unterstützen? 
 Dann spenden Sie jetzt!
 
-<div style="display: flex; justify-content: center;">
+<div style="text-align: center;">
     <link href="https://plugin.whydonate.com/wdplugin-style.css" rel="stylesheet" type="text/css">
     <div id="share-widget-unterstutzen-sie-epilepsie-empowerment-deutschland-ev" class="share-widget" 
         data-slug="unterstutzen-sie-epilepsie-empowerment-deutschland-ev" 
