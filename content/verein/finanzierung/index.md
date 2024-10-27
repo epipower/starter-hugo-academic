@@ -14,7 +14,7 @@ comments: false  # Show comments?
 ---
 
 ## Ihre Spende hilft!
-Sie möchten unsere Arbeit für Menschen mit Epilepsie, sowie ihre Angehöirgen unterstützen? 
+Sie möchten unsere Arbeit für Menschen mit Epilepsie, sowie ihre Angehörigen unterstützen? 
 Dann spenden Sie jetzt!
 
 <div style="text-align: center;">
@@ -33,7 +33,7 @@ Dann spenden Sie jetzt!
 Wir sind als gemeinnützig anerkannt. Ab einem Spendenbetrag von 25€ können wir eine Spendenquittung ausstellen. Bitte melden Sie sich hierfür bei [**info@epipower.de**](mailto:info@epipower.de).
 
 ### Förderung durch Industrie
-Die Förderer (Pharmaunternehmen, etc.) haben keinerlei Einfluss auf den Inhalt und die Ergebnisse von Projekten, Dokumenten und dem Vereinsgeschehen. Durch eine Förderung von Pharmaunternehmen gelten die „Grundsätze zur Wahrung von Neutralität und Unabhängigkeit des Antragstellers zum Umgang mit Wirtschaftsunternehmen bei gleichzeitiger Förderung durch die Krankenkassen und/oder ihrer Verbände nach § 20h SGB V.“ Damit wir unsere verschiedenen Aktivitäten finanzieren zu können, erhalten wir auch Zuwendungen der pharmazeutischen Industrie.
+Die Förderer (Pharmaunternehmen, etc.) haben keinerlei Einfluss auf den Inhalt und die Ergebnisse von Projekten, Dokumenten und das Vereinsgeschehen. Durch eine Förderung von Pharmaunternehmen gelten die „Grundsätze zur Wahrung von Neutralität und Unabhängigkeit des Antragstellers zum Umgang mit Wirtschaftsunternehmen bei gleichzeitiger Förderung durch die Krankenkassen und/oder ihrer Verbände nach § 20h SGB V.“ Damit wir unsere verschiedenen Aktivitäten finanzieren können, erhalten wir auch Zuwendungen der pharmazeutischen Industrie.
 
 #### 2024
 - Desitin Arzneimittel GmbH 

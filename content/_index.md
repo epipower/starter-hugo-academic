@@ -28,11 +28,11 @@ sections:
           icon: users
           icon_pack: fas
         - name: Zoom Online Austauschtreffen
-          description: <div align="justify"> Jeden ersten Dienstag im Monat starten wir ein Zoom-Meeting für Menschen, die von Epilepsie betroffen sind. Nach einem Impulsvortag über etwas Aktuelles aus der Epilepsie tauschen sich die Teilnehmer anschließend zu verschiedenen Themen aus, spezifisch zur Epilepsie aber auch Privates. Es geht also ganz locker zu. Du hast Interesse? Dann melde dich einfach <a href="mailto:info@epipower.de">hier</a> und du bekommst regelmäßig die Zugangsdaten per Mail.</div>
+          description: <div align="justify"> Jeden ersten Dienstag im Monat starten wir ein Zoom-Meeting für Menschen, die von Epilepsie betroffen sind. Die Teilnehmer können in themenspezifische Breakoutsessions, um über alle verschiedenen Themen rund um Epilepsie, aber auch Privates zu diskutieren. Wir haben eine sehr lockere Atmosphäre und jeder kann kommen und gehen, wie es persönlich am angenehmsten ist. Dann melde dich einfach <a href="mailto:info@epipower.de" style="font-weight: bold;">hier</a> und du bekommst regelmäßig die Zugangsdaten per Mail.</div>
           icon: video
           icon_pack: fas
         - name: Discord Online Community
-          description: <div align="justify"> Wie bewältigst du den Alltag mit deiner Epilepsie? Bist du zufrieden mit deiner Therapie? Kennst du andere Menschen, die von Epilepsie betroffen sind? Wir bieten dir eine Community zum Fragen stellen, Vernetzen und zum sich gegenseitig Austauschen. Dafür nutzen wir einen Discord Server. Melde Dich bei uns per <a href="mailto:info@epipower.de">Mail</a> oder Instagram, falls Du Interesse hast.</div>
+          description: <div align="justify"> Wie bewältigst du den Alltag mit deiner Epilepsie? Bist du zufrieden mit deiner Therapie? Kennst du andere Menschen, die von Epilepsie betroffen sind? Wir bieten dir eine Community zum Fragen stellen, Vernetzen und zum sich gegenseitig Austauschen. Dafür nutzen wir einen Discord Server. Durch Ausfüllen des folgenden <a href="https://www.survio.com/survey/d/Z9K5S9D8X4M5U4C5E">Formulars</a>, erhälst du einen Einladungslink per Mail.</div>
           icon: discord
           icon_pack: fab
     design:
