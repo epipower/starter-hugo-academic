@@ -42,15 +42,11 @@ sections:
     content:
       title: News
       subtitle: <br>
-      #subtitle: " aus [Events](/event), [Projekte](/project) und [Blog](/post)"
+      count: 5
       filters:
         folders:
           - event
           - post
-          - project
-    pagination:
-      enable: true
-      per_page: 5
     # - block: collection
     #   id: events
     #   content:
