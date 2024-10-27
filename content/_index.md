@@ -42,7 +42,6 @@ sections:
     content:
       title: News
       subtitle: <br>
-      count: 5
       filters:
         folders:
           - event
