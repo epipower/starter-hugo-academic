@@ -28,7 +28,7 @@ sections:
           icon: users
           icon_pack: fas
         - name: Zoom Online Austauschtreffen
-          description: <div align="justify"> Jeden ersten Dienstag im Monat starten wir ein Zoom-Meeting für Menschen, die von Epilepsie betroffen sind. Die Teilnehmer können in themenspezifische Breakoutsessions, um über alle verschiedenen Themen rund um Epilepsie, aber auch Privates zu diskutieren. Wir haben eine sehr lockere Atmosphäre und jeder kann kommen und gehen, wie es persönlich am angenehmsten ist. Dann melde dich einfach <a href="mailto:info@epipower.de" style="font-weight: bold;">hier</a> und du bekommst regelmäßig die Zugangsdaten per Mail.</div>
+          description: <div align="justify"> Jeden ersten Dienstag im Monat starten wir ein Zoom-Meeting für Menschen, die von Epilepsie betroffen sind. Die Teilnehmer können in themenspezifische Breakoutsessions, um über alle verschiedenen Themen rund um Epilepsie, aber auch Privates zu diskutieren. Wir haben eine sehr lockere Atmosphäre und jeder kann kommen und gehen, wie es persönlich am angenehmsten ist. Dann melde dich einfach <a href="mailto:info@epipower.de">hier</a> und du bekommst regelmäßig die Zugangsdaten per Mail.</div>
           icon: video
           icon_pack: fas
         - name: Discord Online Community

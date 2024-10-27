@@ -29,6 +29,6 @@ sections:
         padding: ['20px', '0', '20px', '0']
 ---
 
-Auf dieser Seite findet Ihr unsere verschiedenen Kooperationspartner<br /> 
+Auf dieser Seite finden Sie unsere verschiedenen Kooperationspartner<br /> 
 <br />
  
