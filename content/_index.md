@@ -28,11 +28,11 @@ sections:
           icon: users
           icon_pack: fas
         - name: Zoom Online Austauschtreffen
-          description: <div align="justify"> Jeden ersten Dienstag im Monat starten wir ein Zoom-Meeting für Menschen, die von Epilepsie betroffen sind. Die Teilnehmer können sich in themenspezifischen Breakoutsessions über alle verschiedenen Themen rund um Epilepsie, aber auch Privates austauschen. Wir haben eine sehr lockere Atmosphäre und jeder kann kommen und gehen, wie es persönlich am angenehmsten ist. Über folgendes <a href="https://zoom.us/meeting/register/tJcqfu6tpzwqGtbQlfDq86UGrElPWfePiRjU">Formular</a> kannst du dich anmelden.</div>
+          description: <div align="justify"> Jeden ersten Dienstag im Monat starten wir ein Zoom-Meeting für Menschen, die von Epilepsie betroffen sind. Die Teilnehmer können sich in themenspezifischen Breakoutsessions über alle verschiedenen Themen rund um Epilepsie, aber auch Privates austauschen. Wir haben eine sehr lockere Atmosphäre und jeder kann kommen und gehen, wie es persönlich am angenehmsten ist. Über folgendes <a href="https://zoom.us/meeting/register/tJcqfu6tpzwqGtbQlfDq86UGrElPWfePiRjU"><b>Formular</a> kannst du dich anmelden.</div>
           icon: video
           icon_pack: fas
         - name: Discord Online Community
-          description: <div align="justify"> Wie bewältigst du den Alltag mit deiner Epilepsie? Bist du zufrieden mit deiner Therapie? Kennst du andere Menschen, die von Epilepsie betroffen sind? Wir bieten dir eine Community zum Fragen stellen, Vernetzen und zum sich gegenseitig Austauschen. Dafür nutzen wir einen Discord Server. Bei Ausfüllen des folgenden <a href="https://www.survio.com/survey/d/Z9K5S9D8X4M5U4C5E">Formulars</a> erhälst du einen Einladungslink per Mail.</div>
+          description: <div align="justify"> Wie bewältigst du den Alltag mit deiner Epilepsie? Bist du zufrieden mit deiner Therapie? Kennst du andere Menschen, die von Epilepsie betroffen sind? Wir bieten dir eine Community zum Fragen stellen, Vernetzen und zum sich gegenseitig Austauschen. Dafür nutzen wir einen Discord Server. Bei Ausfüllen des folgenden <a href="https://www.survio.com/survey/d/Z9K5S9D8X4M5U4C5E"><b>Formulars</a> erhälst du einen Einladungslink per Mail.</div>
           icon: discord
           icon_pack: fab
     design:
