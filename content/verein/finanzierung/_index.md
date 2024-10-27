@@ -32,24 +32,3 @@ Dann spenden Sie jetzt!
 </div>
 
 Wir sind als gemeinnützig anerkannt. Ab einem Spendenbetrag von 25€ können wir eine Spendenquittung ausstellen. Bitte melden Sie sich hierfür bei [**info@epipower.de**](mailto:info@epipower.de).
-
-### Förderung durch Industrie
-Die Förderer (Pharmaunternehmen, etc.) haben keinerlei Einfluss auf den Inhalt und die Ergebnisse von Projekten, Dokumenten und das Vereinsgeschehen. Durch eine Förderung von Pharmaunternehmen gelten die „Grundsätze zur Wahrung von Neutralität und Unabhängigkeit des Antragstellers zum Umgang mit Wirtschaftsunternehmen bei gleichzeitiger Förderung durch die Krankenkassen und/oder ihrer Verbände nach § 20h SGB V.“ Damit wir unsere verschiedenen Aktivitäten finanzieren können, erhalten wir auch Zuwendungen der pharmazeutischen Industrie.
-
-#### 2024
-- Desitin Arzneimittel GmbH 
-
-### Krankenkassenförderung
-Die Förderer (Krankenkassen, GKV, etc.) haben keinerlei Einfluss auf den Inhalt und die Ergebnisse von Projekten, Dokumenten und dem Vereinsgeschehen. Auf dem § 20 SGB V basiert die Selbsthilfeförderung der Krankenkassen, welche sich in Pauschalförderung (GKV) und die kassenindividuelle Förderung (projektbezogen) unterteilt.
-
-#### 2024
-- GKV-Selbsthilfeförderung Schleswig Holstein
-- KKH Kaufmännische Krankenkasse
-
-#### 2023
-- Pauschalförderung: 1.140,00 €
-- Projektbezogene Förderung: 6.600,00 €
-
-durch:
-- GKV-Selbsthilfeförderung Schleswig Holstein: 1.140,00 €
-- KKH Kaufmännische Krankenkasse: 6.600,00 €
