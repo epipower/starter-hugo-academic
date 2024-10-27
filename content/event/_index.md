@@ -8,10 +8,10 @@ cms_exclude: true
 #   3 = Card
 view: 2
 
-# Optional header image (relative to `static/media/` folder).
-#header:
-#  caption: ''
-#  image: ''
+# # Optional header image (relative to `assets/media/` folder).
+# header:
+#   caption: ""
+#   image: ""
 
 # - type: landing
 # - sections:
