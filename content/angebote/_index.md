@@ -1,6 +1,6 @@
 ---
 title: Angebote
-date: "2018-06-28T00:00:00Z"
+cms_exclude: true
 
 # # Optional header image (relative to `assets/media/` folder).
 # header:
