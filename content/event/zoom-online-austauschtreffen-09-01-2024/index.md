@@ -25,7 +25,7 @@ date_end: 2025-01-07T21:30:11.510Z
 all_day: false
 event: "Januar: ZOOM Online Austauschtreffen "
 event_url: mailto:info@epipower.de
-publishDate: 2024-11-04T07:45:03.181Z
+publishDate: 2024-11-03T19:59:04.917Z
 draft: false
 featured: false
 image:
