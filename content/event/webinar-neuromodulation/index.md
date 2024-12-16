@@ -5,7 +5,7 @@ abstract: >
   "Neuromodulation" statt. Dabei geht es vor allem um die Vagusnervstimulation. 
 
 
-  Vom Universitätsklinikum Schleswig-Holstein werden Dr. med. Dipl.-Psych. Nils G. Markgraf, Oberarzt der Klinik fur Neurologie und Prof.in Dr. Ann-Kristin Helmers, Oberärztin und Neurochirurgin den Vortrag halten. 
+  Vom Universitätsklinikum Schleswig-Holstein werden Dr. med. Dipl.-Psych. Nils G. Margraf, Oberarzt der Klinik fur Neurologie und Prof.in Dr. Ann-Kristin Helmers, Oberärztin und Neurochirurgin den Vortrag halten. 
 
 
 
@@ -33,5 +33,5 @@ image:
   filename: webinar-austausch-2.png
   focal_point: Smart
   preview_only: false
-  caption: "Bildnachweis: Nils Markgraf"
+  caption: "Bildnachweis: Nils Margraf"
 ---
