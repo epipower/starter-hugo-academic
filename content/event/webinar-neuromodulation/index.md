@@ -21,8 +21,8 @@ abstract: >
 
   Bei Problemen mit der Anmeldung schicken Sie gerne eine Mail.
 location: ZOOM
-date: 2025-01-23T17:30:59.875Z
-date_end: 2025-01-23T19:00:11.510Z
+date: 2025-01-23T18:30:59.875Z
+date_end: 2025-01-23T20:00:11.510Z
 all_day: false
 event: "Webinar: Neuromodulation"
 event_url: mailto:info@epipower.de
