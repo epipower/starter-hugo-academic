@@ -19,12 +19,12 @@ abstract: >
 
   Bei Problemen mit der Anmeldung schicken Sie gerne eine Mail.
 location: ZOOM
-date: 2024-12-18T17:30:59.694Z
-date_end: 2024-12-18T19:00:11.510Z
+date: 2024-12-18T18:30:59.694Z
+date_end: 2024-12-18T20:00:11.510Z
 all_day: false
 event: "Webinar: Autoimmunbedingte Anfälle und Epilepsien"
 event_url: mailto:info@epipower.de
-publishDate: 2024-11-11T08:00:59.710Z
+publishDate: 2024-11-04T08:03:00.993Z
 draft: false
 featured: false
 image:
