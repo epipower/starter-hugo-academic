@@ -39,3 +39,26 @@ Wer nur bei Discord dabei sein möchte, kann folgendes [**Formular**](https://ww
 Wir versuchen monatlich Webinare zu veranstalten. Die Webinare werden von medizinischem Fachpersonal, Sozialarbeitern, Forschern, Psychologen usw. durchgeführt.
 Die Zielgruppe sind nicht nur Patienten, wir wollen auch andere Personengruppen, wie Ärzte, Krankenhäuser, etc. erreichen.
 Die Termine mit jeweiligen Themen und Vortragenden für die Webinare sind unter [**Events**](/event) zu finden.
+
+## Peer-to-Peer Beratung
+
+Peer-to-Peer-Beratung bezeichnet eine Form der Unterstützung, bei der Personen mit ähnlichen Erfahrungen oder im gleichen sozialen Kontext einander beraten und unterstützen.
+Im Gegensatz zu traditionellen Beratungsmethoden, bei denen Experten oder Fachkräfte in einer Hierarchie mit höherem Wissen agieren, basiert Peer-to-Peer-Beratung auf Gleichwertigkeit und gegenseitigem Austausch.
+
+Die "Peers" sind dabei Personen, die sich in einer ähnlichen Lebenssituation befinden, vergleichbare Herausforderungen erlebt haben oder über ein ähnliches Fachwissen verfügen.
+
+Wir bieten die Beratung für den Bereich Epilepsie an.
+
+Unsere Peers, die zur Beratung zur Verfügung stehen, sind durch Selbstbetroffenheit und Erfahrung qualifiziert.
+
+Die Vorteile einer Peer-to-Peer-Beratung liegen oft darin, dass sie weniger formell ist und eine hohe emotionale Unterstützung bieten kann, da die Peers aus eigener Erfahrung sprechen und oft besser nachvollziehen können, was der andere durchmacht.
+Es fördert das Gefühl der Gemeinschaft und des Verständnisses, da die Beratung auf einer gleichwertigen Ebene stattfindet.
+
+In Kürze könnt Ihr über einen Link hier Termine für die Beratung buchen.
+
+Wichtige Information: Eine Peer-to-Peer-Beratung kann niemals den medizinischen Rat oder die Behandlung durch qualifizierte Fachkräfte ersetzen.
+Sie dient in der Regel als eine ergänzende Unterstützung, bei der Menschen mit ähnlichen Erfahrungen einander beraten, motivieren oder emotional unterstützen. 
+
+Es ist wichtig zu betonen, dass medizinische Diagnosen, Behandlungen und Therapien nur von ärztlichem Fachpersonal durchgeführt werden sollten.
+Peer-to-Peer-Beratung kann nicht die Kompetenz und das Fachwissen eines Arztes, Psychologen oder anderen Gesundheitsexperten ersetzen.
+Sie kann jedoch den Zugang zu Informationen erleichtern, das Gefühl von Isolation verringern und dazu beitragen, die eigene Situation besser zu verstehen und zu bewältigen.
