@@ -36,8 +36,8 @@ Wir sind als gemeinnützig anerkannt. Ab einem Spendenbetrag von 25€ können w
 ### Förderung durch Industrie
 Die Förderer (Pharmaunternehmen, etc.) haben keinerlei Einfluss auf den Inhalt und die Ergebnisse von Projekten, Dokumenten und das Vereinsgeschehen. Durch eine Förderung von Pharmaunternehmen gelten die „Grundsätze zur Wahrung von Neutralität und Unabhängigkeit des Antragstellers zum Umgang mit Wirtschaftsunternehmen bei gleichzeitiger Förderung durch die Krankenkassen und/oder ihrer Verbände nach § 20h SGB V.“ Damit wir unsere verschiedenen Aktivitäten finanzieren können, erhalten wir auch Zuwendungen der pharmazeutischen Industrie.
 
-#### 2024
-- Desitin Arzneimittel GmbH 
+- [**Selbstauskunft Finanzen 2023**](/uploads/Selbstauskunft_Finanzen_2023.pdf)
+- [**Selbstauskunft Finanzen 2024**](/uploads/Selbstauskunft_Finanzen_2024.pdf)
 
 ### Krankenkassenförderung
 Die Förderer (Krankenkassen, GKV, etc.) haben keinerlei Einfluss auf den Inhalt und die Ergebnisse von Projekten, Dokumenten und dem Vereinsgeschehen. Auf dem § 20 SGB V basiert die Selbsthilfeförderung der Krankenkassen, welche sich in Pauschalförderung (GKV) und die kassenindividuelle Förderung (projektbezogen) unterteilt.
