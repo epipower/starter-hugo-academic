@@ -42,14 +42,4 @@ Die Förderer (Pharmaunternehmen, etc.) haben keinerlei Einfluss auf den Inhalt 
 ### Krankenkassenförderung
 Die Förderer (Krankenkassen, GKV, etc.) haben keinerlei Einfluss auf den Inhalt und die Ergebnisse von Projekten, Dokumenten und dem Vereinsgeschehen. Auf dem § 20 SGB V basiert die Selbsthilfeförderung der Krankenkassen, welche sich in Pauschalförderung (GKV) und die kassenindividuelle Förderung (projektbezogen) unterteilt.
 
-#### 2024
-- GKV-Selbsthilfeförderung Schleswig Holstein
-- KKH Kaufmännische Krankenkasse
-
-#### 2023
-- Pauschalförderung: 1.140,00 €
-- Projektbezogene Förderung: 6.600,00 €
-
-durch:
-- GKV-Selbsthilfeförderung Schleswig Holstein: 1.140,00 €
-- KKH Kaufmännische Krankenkasse: 6.600,00 €
+- [**Förderung durch Krankenkassen**](uploads/Förderung durch Krankenkassen.pdf)
