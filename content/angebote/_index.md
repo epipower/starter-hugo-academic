@@ -15,7 +15,7 @@ view: 2
 ---
 
 Hier befinden sich unsere Angebote und Aktionen, die sich an alle Menschen mit Epilepsie, Angehörige, medizinisches Fachpersonal, Institutionen, Interessierte usw. richten.
-Dazu gehören Austauschtreffen über Zoom, Austausch über Discord, spannende Webinare, Peer-to-Peer Beratung, Projekte und ein Podcast.
+Dazu gehören Austauschtreffen über Zoom, Austausch über Discord, spannende Webinare, Peer-to-Peer Beratung und Projekte.
 Hier können Sie vielfältige Angebote genießen und die Gemeinschaft unseres Vereins intensiv erleben. Schauen Sie regelmäßig vorbei.<br><br>
 Alle Angebote sind kostenlos!
 
