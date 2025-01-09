@@ -32,8 +32,8 @@ abstract: >-
 
   https://www.survio.com/survey/d/L2Q7B6W5M0K9Y1U0T
 location: Hannover
-date: 2025-01-09T15:04:58.016Z
-date_end: 2025-04-01T20:30:11.510Z
+date: 2025-04-06T07:00:58.016Z
+date_end: 2025-04-06T17:30:11.510Z
 all_day: false
 event: Epipower x Marathon
 event_url: mailto:info@epipower.de
