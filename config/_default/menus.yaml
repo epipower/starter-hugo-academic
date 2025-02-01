@@ -10,25 +10,22 @@ main:
     url: '#news'
     identifier: news
     weight: 20
-  - name: Team
-    url: '#team'
+  - name: Kooperationen
+    url: '/kooperation'
     weight: 30
-  - name: Kontakt
-    url: '#contact'
-    weight: 40
   - name: Angebote
     url: '/angebote'
-    weight: 50
+    weight: 40
   - name: Events
     url: '/event'
-    weight: 60
+    weight: 50
   - name: Blog
     url: '/post'
-    weight: 70
+    weight: 60
   - name: Verein
     url: /
     identifier: verein
-    weight: 80
+    weight: 70
   - name: Mitglied werden
     parent: verein
     url: https://easyverein.com/public/Epipower/applicationform/6424
@@ -41,10 +38,14 @@ main:
     parent: verein
     url: '/verein/finanzierung'
     weight: 30
-  - name: Kooperationen
+  - name: Team
     parent: verein
-    url: '/verein/kooperation'
+    url: '#team'
     weight: 40
+  - name: Kontakt
+    parent: verein
+    url: '#contact'
+    weight: 50
   
 
 
