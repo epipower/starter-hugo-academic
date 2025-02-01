@@ -1,32 +1,40 @@
 ---
 title: "Webinar: Neuromodulation"
-abstract: >
-  Am 23.01.2025 um 18:30 findet über die Plattform "Zoom" ein Webinar zum Thema
-  "Neuromodulation" statt. Dabei geht es vor allem um die Vagusnervstimulation. 
+abstract: >-
+  Webinar im Februar
 
 
-  Vom Universitätsklinikum Schleswig-Holstein werden Dr. med. Dipl.-Psych. Nils G. Margraf, Oberarzt der Klinik fur Neurologie und Prof.in Dr. Ann-Kristin Helmers, Oberärztin und Neurochirurgin den Vortrag halten. 
+  Thema: Neuromodulation - Vagusnervstimulation 
 
 
+  Vortragende:
 
-  Es ist jeder herzlich eingeladen. Patienten, Angehörige, medizinisches Fachpersonal, Interessierte, etc.
+  1. ﻿﻿﻿PD Dr. med. Dipl.-Psych. Nils G. Margraf, Oberarzt der Klinik fur Neurologie, Universitätsklinikum Schleswig-Holstein
+
+  2. ﻿﻿﻿Dr. Isabel Lübbing, 
+
+  Oberärztin der Klinik für
+
+  Neurochirurgie
+
+  Universitätsklinikum Schleswig-Holstein
 
 
-  Zur Anmeldung:
+  24.02.2025
+
+  18:30 Uhr bis ca. 20:00 Uhr
 
 
-  https://zoom.us/meeting/register/tJwofuyprDopGtzeBA6uhMvJ2CbKubFCpRmg 
+  Anmeldung:
 
-
-
-  Bei Problemen mit der Anmeldung schicken Sie gerne eine Mail.
+  https://zoom.us/meeting/register/txeeuQ1MTBiK8z0KbjcQ3A
 location: ZOOM
-date: 2025-01-23T18:30:59.875Z
-date_end: 2025-01-23T20:00:11.510Z
+date: 2025-02-24T18:30:59.875Z
+date_end: 2025-02-24T20:00:11.510Z
 all_day: false
 event: "Webinar: Neuromodulation"
 event_url: mailto:info@epipower.de
-publishDate: 2024-12-16T14:31:59.881Z
+publishDate: 2025-01-27T16:54:35.832Z
 draft: false
 featured: false
 image:
