@@ -50,7 +50,7 @@ sections:
       archive:
         enable: false
     design:
-      view: publications
+      view: showcase
       columns: '1'
       #flip_alt_rows: false
 
@@ -155,8 +155,8 @@ sections:
     #     view: mansory
     #     # Choose single or dual column layout
     #     columns: '2'
-  - block: team
-    id: team
+  - block: people
+    id: people
     content: 
       title: Team
       subtitle: <br>
