@@ -49,7 +49,7 @@ sections:
           - post
       archive:
         enable: true
-        #text: siehe alle 
+        text: ALLE EVENTS 
         link: event/
     design:
       view: showcase
