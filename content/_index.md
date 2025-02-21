@@ -49,7 +49,7 @@ sections:
           - post
     design:
       view: showcase
-      columns: '4'
+      #columns: '4'
       #flip_alt_rows: false
 
    #   design:
