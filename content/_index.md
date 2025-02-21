@@ -48,7 +48,9 @@ sections:
           - event
           - post
       archive:
-        enable: false
+        enable: true
+        #text: siehe alle 
+        link: event/
     design:
       view: showcase
       columns: '1'
