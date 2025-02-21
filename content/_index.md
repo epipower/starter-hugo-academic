@@ -42,13 +42,13 @@ sections:
     content:
       title: News
       subtitle: <br>
-      count: 5
+      count: 10
       filters:
         folders:
           - event
           - post
     design:
-      view: masonry
+      view: grid
       columns: '3'
       #flip_alt_rows: false
 
