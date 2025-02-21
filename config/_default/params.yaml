@@ -112,4 +112,4 @@ security:
   allow_frame: true
 
 css:
- - 'scss/wowchemy/widgets/_people.scss'
+ - 'scss/wowchemy/widgets/_news.scss'
