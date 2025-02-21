@@ -48,7 +48,7 @@ sections:
           - event
           - post
     design:
-      view: compact
+      view: mansory
       columns: '2'
 
    #   design:
