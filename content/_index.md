@@ -42,7 +42,7 @@ sections:
     content:
       title: News
       subtitle: <br>
-      count: 10
+      count: 5
       filters:
         folders:
           - event
