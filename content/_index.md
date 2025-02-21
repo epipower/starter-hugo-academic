@@ -48,8 +48,8 @@ sections:
           - event
           - post
     design:
-      view: grid
-      columns: '3'
+      view: carousel
+      #columns: '3'
       #flip_alt_rows: false
 
    #   design:
