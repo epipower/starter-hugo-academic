@@ -37,7 +37,7 @@ sections:
           icon_pack: fab
     design:
         columns: '2'
-  - block: collection
+  - block: portfolio
     id: news
     content:
       title: News
