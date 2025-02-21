@@ -155,8 +155,8 @@ sections:
     #     view: mansory
     #     # Choose single or dual column layout
     #     columns: '2'
-  - block: people
-    id: people
+  - block: team
+    id: team
     content: 
       title: Team
       subtitle: <br>
