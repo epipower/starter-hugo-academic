@@ -50,7 +50,7 @@ sections:
       archive:
         enable: false
     design:
-      view: masonry
+      view: mansory
       #columns: '1'
       #flip_alt_rows: false
 
