@@ -51,6 +51,7 @@ sections:
         enable: false
     design:
       view: masonry
+      width: 'full
       columns: '1'
       #flip_alt_rows: false
 
