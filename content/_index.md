@@ -47,6 +47,8 @@ sections:
         folders:
           - event
           - post
+      archive:
+        enable: false
     design:
       view: carousel
       #columns: '3'
@@ -64,7 +66,6 @@ sections:
     #     view: showcase
     #     # For Showcase view, flip alternate rows?
     #     flip_alt_rows: false
-
 
     # - block: collection
     #   id: events
