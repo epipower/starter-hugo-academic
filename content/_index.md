@@ -49,8 +49,8 @@ sections:
           - post
       archive:
         enable: false
-    #design:
-      #view: showcase
+    design:
+      view: showcase
       #columns: '1'
       #flip_alt_rows: false
 
