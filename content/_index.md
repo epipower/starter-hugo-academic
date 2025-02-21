@@ -50,7 +50,7 @@ sections:
       archive:
         enable: false
     design:
-      view: masonry
+      view: grid
       columns: 3
       #flip_alt_rows: false
 
