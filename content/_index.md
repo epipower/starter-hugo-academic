@@ -48,8 +48,9 @@ sections:
           - event
           - post
     design:
-      view: mansory
-      columns: '2'
+      view: showcase
+      columns: '1'
+      flip_alt_rows: false
 
    #   design:
     #     # Choose a listing view
