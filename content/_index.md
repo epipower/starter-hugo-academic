@@ -50,7 +50,7 @@ sections:
       archive:
         enable: false
     design:
-      view: grid
+      view: mansory
       #columns: '1'
       #flip_alt_rows: false
 
