@@ -54,7 +54,6 @@ sections:
     design:
       view: showcase
       columns: '1'
-      spacing: small
       #flip_alt_rows: false
 
     # - block: collection
