@@ -42,7 +42,7 @@ sections:
     content:
       title: News
       subtitle: <br>
-      count: 5
+      count: 10
       filters:
         folders:
           - event
@@ -50,7 +50,7 @@ sections:
       archive:
         enable: false
     design:
-      view: grid
+      view: showcase
       #flip_alt_rows: false
 
     # - block: collection
