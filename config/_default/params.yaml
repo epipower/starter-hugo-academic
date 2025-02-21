@@ -110,6 +110,3 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
-
-css:
- - 'scss/wowchemy/widgets/_news.scss'

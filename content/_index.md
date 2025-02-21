@@ -37,7 +37,7 @@ sections:
           icon_pack: fab
     design:
         columns: '2'
-  - block: collection
+  - block: portfolio
     id: news
     content:
       title: News
@@ -51,7 +51,7 @@ sections:
         enable: false
     design:
       view: masonry
-      #columns: '1'
+      columns: 3
       #flip_alt_rows: false
 
     # - block: collection
