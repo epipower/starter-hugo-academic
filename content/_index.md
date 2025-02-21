@@ -50,7 +50,7 @@ sections:
     design:
       view: showcase
       columns: '1'
-      flip_alt_rows: false
+      #flip_alt_rows: false
 
    #   design:
     #     # Choose a listing view
