@@ -54,7 +54,7 @@ Unsere Peers, die zur Beratung zur Verfügung stehen, sind durch Selbstbetroffen
 Die Vorteile einer Peer-to-Peer-Beratung liegen oft darin, dass sie weniger formell ist und eine hohe emotionale Unterstützung bieten kann, da die Peers aus eigener Erfahrung sprechen und oft besser nachvollziehen können, was der andere durchmacht.
 Es fördert das Gefühl der Gemeinschaft und des Verständnisses, da die Beratung auf einer gleichwertigen Ebene stattfindet.
 
-In Kürze könnt Ihr über einen Link hier Termine für die Beratung buchen.
+[**Hier könnt ihr eine Beratung buchen.**](https://outlook.office365.com/book/EpilepsieEmpowermentDeutschlandeV@Epipower.onmicrosoft.com/)
 
 Wichtige Information: Eine Peer-to-Peer-Beratung kann niemals den medizinischen Rat oder die Behandlung durch qualifizierte Fachkräfte ersetzen.
 Sie dient in der Regel als eine ergänzende Unterstützung, bei der Menschen mit ähnlichen Erfahrungen einander beraten, motivieren oder emotional unterstützen. 
