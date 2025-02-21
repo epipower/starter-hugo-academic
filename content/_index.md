@@ -49,8 +49,8 @@ sections:
           - post
       archive:
         enable: false
-    design:
-      view: carousel
+    #design:
+    #  view: carousel
       #columns: '3'
       #flip_alt_rows: false
 
