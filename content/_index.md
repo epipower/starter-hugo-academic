@@ -50,8 +50,8 @@ sections:
       archive:
         enable: false
     design:
-      view: publications
-      #columns: '1'
+      view: showcase
+      columns: '1'
       #flip_alt_rows: false
 
     # - block: collection
