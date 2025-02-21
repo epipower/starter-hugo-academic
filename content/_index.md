@@ -37,20 +37,20 @@ sections:
           icon_pack: fab
     design:
         columns: '2'
-  - block: portfolio
+  - block: collection
     id: news
     content:
       title: News
       subtitle: <br>
-      #count: 5
+      count: 5
       filters:
         folders:
           - event
           - post
-      #archive:
-      #  enable: false
-    #design:
-      #view: showcase
+      archive:
+        enable: false
+    design:
+      view: carousel
       #columns: '1'
       #flip_alt_rows: false
 
