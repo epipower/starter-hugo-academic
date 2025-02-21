@@ -49,23 +49,10 @@ sections:
           - post
       archive:
         enable: false
-    #design:
-    #  view: carousel
-      #columns: '3'
+    design:
+      view: showcase
+      columns: '1'
       #flip_alt_rows: false
-
-   #   design:
-    #     # Choose a listing view
-    #     view: mansory
-    #     # Choose single or dual column layout
-    #     columns: '2'
-
-    #design:
-    #     # Choose how many columns the section has. Valid values: '1' or '2'.
-    #     columns: '1'
-    #     view: showcase
-    #     # For Showcase view, flip alternate rows?
-    #     flip_alt_rows: false
 
     # - block: collection
     #   id: events
