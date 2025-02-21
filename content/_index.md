@@ -51,8 +51,7 @@ sections:
         enable: false
     design:
       view: masonry
-      width: 'full
-      columns: '1'
+      columns: 3
       #flip_alt_rows: false
 
     # - block: collection
