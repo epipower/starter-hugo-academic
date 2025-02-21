@@ -49,7 +49,7 @@ sections:
           - post
     design:
       view: masonry
-      #columns: '1'
+      columns: '3'
       #flip_alt_rows: false
 
    #   design:
