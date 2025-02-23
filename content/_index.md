@@ -52,7 +52,7 @@ sections:
         text: ALLE EVENTS 
         link: event/
     design:
-      view: showcase
+      view: grid
       columns: '1'
       #flip_alt_rows: false
 
