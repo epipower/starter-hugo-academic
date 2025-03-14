@@ -17,8 +17,8 @@ abstract: |-
 
   📽️ Aus Datenschutzgründen kann das Webinar nicht aufgezeichnet werden.
 location: ZOOM
-date: 2025-04-09T16:30:43.252Z
-date_end: 2025-04-09T18:00:11.510Z
+date: 2025-04-09T18:30:43.252Z
+date_end: 2025-04-09T20:00:11.510Z
 all_day: false
 event: "Webinar: Rechtliche Vorsorge & Patientenverfügung"
 event_url: mailto:info@epipower.de
