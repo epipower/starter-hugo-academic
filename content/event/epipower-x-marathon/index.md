@@ -8,9 +8,8 @@ abstract: >-
 
    📅 06.04.2025, in Hannover
 
-  💡 Es gibt verschiedene Disziplinen: Marathon, Halbmarathon, 10 km Lauf, 10 km Walk und 10 km Nordic Walking.
+  💡 Es gibt verschiedene Disziplinen: Marathon, Halbmarathon, 10 km Lauf, Halbamarathon Nordic-Walking.
 
-   
 
   ❗️ Aktuell haben wir eine begrenzte Anzahl an Plätzen, die von uns übernommen werden. Es gilt: “Wer zuerst kommt, malt zuerst.” 
 
