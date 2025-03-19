@@ -28,9 +28,7 @@ abstract: >-
   💜 Wir laden nicht nur Betroffene ein. Auch medizinisches Fachpersonal, Angehörige, Freunde, usw. 
 
 
-  Zur Anmeldung:
-
-  https://www.survio.com/survey/d/L2Q7B6W5M0K9Y1U0T
+  [19.03.2025] Anmeldung geschlossen.
 location: Hannover
 date: 2025-04-06T07:00:58.016Z
 date_end: 2025-04-06T17:30:11.510Z
