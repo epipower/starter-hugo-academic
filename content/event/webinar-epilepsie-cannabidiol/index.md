@@ -16,8 +16,8 @@ abstract: |-
 
   📽️ Aus Datenschutzgründen kann das Webinar nicht aufgezeichnet werden.
 location: ZOOM
-date: 2025-05-21T15:00:33.107Z
-date_end: 2024-05-21T17:00:11.510Z
+date: 2025-05-21T18:30:33.107Z
+date_end: 2024-05-21T20:00:11.510Z
 all_day: false
 event: "Webinar: Epilepsie & Cannabidiol"
 event_url: mailto:info@epipower.de
