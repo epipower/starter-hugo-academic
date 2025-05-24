@@ -16,8 +16,8 @@ abstract: |-
 
   📽️ Aus Datenschutzgründen kann das Webinar nicht aufgezeichnet werden.
 location: ZOOM
-date: 2025-05-24T09:22:21.671Z
-date_end: 2025-05-21T20:00:11.510Z
+date: 2025-06-10T18:30:21.671Z
+date_end: 2025-06-10T20:00:11.510Z
 all_day: false
 event: "Webinar: Neudiagnose Epilepsie"
 event_url: mailto:info@epipower.de
