@@ -12,7 +12,7 @@ abstract: |-
 
   ⏰ Beginn: 18:30 Uhr bis ca. 20:00 Uhr
 
-   🔏 Anmeldung: https://zoom.us/meeting/register/qGce0rBMS1-jgnLM_gppRQ 
+   🔏 Anmeldung: beendet
 
   📽️ Aus Datenschutzgründen kann das Webinar nicht aufgezeichnet werden.
 location: ZOOM
