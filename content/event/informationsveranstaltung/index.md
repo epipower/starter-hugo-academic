@@ -1,5 +1,5 @@
 ---
-title: Informationsveranstaltung
+title: "Informationsveranstaltung: Epilepsie-Botschafter"
 abstract: >-
   📢 Infoveranstaltung: Epilepsie Botschafter:innen gesucht
 
@@ -15,7 +15,7 @@ abstract: >-
   Epilepsie besser integriert werden.
 
 
-  💜 Hilf mit, Vorurteile abzubauen & für Epilepsie zu sensibilisieren!
+  💜 Hilf mit, Vorurteile abzubauen & für Epilepsie zu sensibilisieren! Mehr Infos auf Instagram.
 
 
   🚀 Du hast Interesse? Dann nimm Teil an unserer Informationsveranstaltung.
@@ -28,10 +28,10 @@ abstract: >-
   🔗 Zoom Link: https://zoom.us/j/93348022882?pwd=RwxoekDVQzTJFmabYXFJxjrEkanN0V.1 
 
 
-  📮 Keine Anmeldung nötig.
+  📮 Keine Anmeldung nötig. 
 location: Zoom
-date: 2025-07-02T17:00:25.834Z
-date_end: 2025-07-02T18:00:11.510Z
+date: 2025-07-02T19:00:25.834Z
+date_end: 2025-07-02T20:00:11.510Z
 all_day: false
 event: Informationsveranstaltung
 event_url: mailto:info@epipower.de
