@@ -30,5 +30,5 @@ publishDate: 2025-06-30T16:07:42.236Z
 draft: false
 featured: false
 image:
-  filename: 22ad0047-dd70-4563-83b3-d5be6ad47e21-1-.png
+  filename: ""
 ---
