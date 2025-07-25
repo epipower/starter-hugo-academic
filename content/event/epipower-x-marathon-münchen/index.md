@@ -18,6 +18,7 @@ abstract: >
 
    
 
+
   💸 Wir werden die Anmeldegebühr und ein Trikot sowie andere Kleinigkeiten für Euch übernehmen. Wir wollen gemeinsam als Epipower dort auftreten. Es fallen somit für Euch keine Eventkosten, sondern nur Reise- und ggf. Übernachtungskosten, an. 
 
    
@@ -29,7 +30,7 @@ abstract: >
 
   💜 Wir laden nicht nur Betroffene ein. Auch medizinisches Fachpersonal, Angehörige, Freunde, usw. 
 location: München
-date: 2025-10-12T05:00:35.291Z
+date: 2025-10-12T07:00:35.291Z
 date_end: 2025-10-12T17:30:11.510Z
 all_day: false
 event: Epipower x Marathon München
