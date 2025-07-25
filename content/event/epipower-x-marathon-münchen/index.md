@@ -21,11 +21,13 @@ abstract: >
 
   💸 Wir werden die Anmeldegebühr und ein Trikot sowie andere Kleinigkeiten für Euch übernehmen. Wir wollen gemeinsam als Epipower dort auftreten. Es fallen somit für Euch keine Eventkosten, sondern nur Reise- und ggf. Übernachtungskosten, an. 
 
+
    
 
   ⛑️ Bitte beachtet, dass ein Lauf über eine gewisse Distanz sehr anstrengend sein kann. Kennt dabei Euer eigenes Limit und besprecht es ggf. mit eurem Neurologen.
 
   Gerne könnt Ihr natürlich auch einfach zur Unterstützung vorbeikommen.
+
 
 
   💜 Wir laden nicht nur Betroffene ein. Auch medizinisches Fachpersonal, Angehörige, Freunde, usw. 
