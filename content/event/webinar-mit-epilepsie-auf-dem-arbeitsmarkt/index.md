@@ -20,11 +20,10 @@ abstract: >
 
 
   ⏰ Beginn: 18:30 Uhr
-
    🔏 Anmeldung: https://zoom.us/meeting/register/Q_0PcnlSSmiHzOq5v2GXZg 
 location: ZOOM
-date: 2025-09-30T16:30:22.909Z
-date_end: 2025-09-30T18:00:25.221Z
+date: 2025-09-30T18:30:22.909Z
+date_end: 2025-09-30T20:00:25.221Z
 all_day: false
 event: "Webinar: Mit Epilepsie auf dem Arbeitsmarkt"
 event_url: mailto:info@epipower.de
