@@ -11,7 +11,9 @@ abstract: >
 
   Caroline Prignitz, Reha-Coach
 
+
   Frederieke Köver, Reha-Coach
+
 
   JobMe – Berufliche Rehabilitation bei Epilepsie, alsterarbeit gemeinnützige GmbH
 
