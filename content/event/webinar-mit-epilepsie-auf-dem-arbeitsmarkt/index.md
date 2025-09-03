@@ -20,6 +20,7 @@ abstract: >
 
 
   ⏰ Beginn: 18:30 Uhr
+
    🔏 Anmeldung: https://zoom.us/meeting/register/Q_0PcnlSSmiHzOq5v2GXZg 
 location: ZOOM
 date: 2025-09-30T18:30:22.909Z
