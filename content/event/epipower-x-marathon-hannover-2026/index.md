@@ -47,11 +47,11 @@ location: Hannover
 date: 2026-04-12T05:00:30.780Z
 date_end: 2026-04-12T17:30:11.510Z
 all_day: false
-event: Epipower x Marathon Hannover
+event: Epipower x Marathon Hannover 2026
 event_url: mailto:info@epipower.de
 publishDate: 2025-12-01T09:55:30.797Z
 draft: false
 featured: false
 image:
-  filename: ""
+  filename: gemeinsam-laufen-für-mehr-epilepsie-bewusstsein-.png
 ---
