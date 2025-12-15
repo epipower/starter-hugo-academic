@@ -22,7 +22,7 @@ abstract: >-
 
   Anmeldung für Nicht-Vereinsmitglieder:
 
-  [Anmeldelink ab 16.12.2025 hier]
+  https://www.survio.com/survey/d/S9B7W9A9A6X5T1W3W 
 
    
 
