@@ -12,17 +12,18 @@ abstract: >-
 
   💡 Es gibt verschiedene Disziplinen: Marathon, Halbmarathon, 21 km Nordic Walking und 10 km Lauf. 
 
+
    
 
   ❗️ Vereinsmitglieder haben bereits im Vorfeld die Chance, sich anzumelden.
 
   Aktuell haben wir eine begrenzte Anzahl an Plätzen, die von uns übernommen werden. Es gilt: “Wer zuerst kommt, malt zuerst.” 
 
-  Anmeldung für Vereinsmitglieder: Schaut in Eure Mails. 
-
-  Anmeldung für Nicht-Vereinsmitglieder:
+   
+  Anmeldung:
 
   https://www.survio.com/survey/d/S9B7W9A9A6X5T1W3W 
+
 
    
 
