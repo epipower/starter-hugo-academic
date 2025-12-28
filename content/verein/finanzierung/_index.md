@@ -45,8 +45,9 @@ Die Förderer (Pharmaunternehmen, etc.) haben keinerlei Einfluss auf den Inhalt 
 
 - [**Selbstauskunft Finanzen 2023**](/uploads/Selbstauskunft_Finanzen_2023.pdf)
 - [**Selbstauskunft Finanzen 2024**](/uploads/Selbstauskunft_Finanzen_2024.pdf)
+- [**Selbstauskunft Finanzen 2025**](/uploads/Selbstauskunft_Finanzen_2025.pdf)
 
 ### Krankenkassenförderung
 Die Förderer (Krankenkassen, GKV, etc.) haben keinerlei Einfluss auf den Inhalt und die Ergebnisse von Projekten, Dokumenten und dem Vereinsgeschehen. Auf dem § 20 SGB V basiert die Selbsthilfeförderung der Krankenkassen, welche sich in Pauschalförderung (GKV) und die kassenindividuelle Förderung (projektbezogen) unterteilt.
 
-- [**Förderung durch Krankenkassen**](/uploads/Förderung_durch_Krankenkassen.pdf)
+- [**Förderung durch Krankenkassen**](/uploads/2025_Förderung_durch_Krankenkassen.pdf)
