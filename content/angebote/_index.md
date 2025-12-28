@@ -62,3 +62,12 @@ Sie dient in der Regel als eine ergänzende Unterstützung, bei der Menschen mit
 Es ist wichtig zu betonen, dass medizinische Diagnosen, Behandlungen und Therapien nur von ärztlichem Fachpersonal durchgeführt werden sollten.
 Peer-to-Peer-Beratung kann nicht die Kompetenz und das Fachwissen eines Arztes, Psychologen oder anderen Gesundheitsexperten ersetzen.
 Sie kann jedoch den Zugang zu Informationen erleichtern, das Gefühl von Isolation verringern und dazu beitragen, die eigene Situation besser zu verstehen und zu bewältigen.
+
+## Downloads
+
+### Publikationen
+
+### Für Betroffene
+
+- [**Notfallplan (docx)**](/uploads/Notfallplan_kurz.docx)
+- [**Notfallplan (pdf)**](/uploads/Notfallplan_kurz.pdf)

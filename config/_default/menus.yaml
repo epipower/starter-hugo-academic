@@ -42,13 +42,9 @@ main:
     parent: verein
     url: '#team'
     weight: 40
-  #- name: Kontakt
-  #  parent: verein
-  #  url: '#contact'
-  #  weight: 50
-  - name: Downloads
+  - name: Kontakt
     parent: verein
-    url: '/verein/downloads'
+    url: '#contact'
     weight: 50
   
 
