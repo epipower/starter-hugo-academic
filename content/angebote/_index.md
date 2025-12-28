@@ -65,9 +65,9 @@ Sie kann jedoch den Zugang zu Informationen erleichtern, das Gefühl von Isolati
 
 ## Downloads
 
-### Publikationen
+<ins>Publikationen</ins>
 
-### Für Betroffene
+<ins>Für Betroffene</ins>
 
 - [**Notfallplan (docx)**](/uploads/Notfallplan_kurz.docx)
 - [**Notfallplan (pdf)**](/uploads/Notfallplan_kurz.pdf)
