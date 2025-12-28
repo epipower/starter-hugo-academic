@@ -67,7 +67,10 @@ Sie kann jedoch den Zugang zu Informationen erleichtern, das Gefühl von Isolati
 
 <ins>Publikationen</ins>
 
+- [**Berufliche Teilhabe von Menschen mit Epilepsie**](/uploads/Berufliche_Teilhabe_von_Menschen_mit_Epilepsie.pdf)
+
 <ins>Für Betroffene</ins>
 
 - [**Notfallplan (docx)**](/uploads/Notfallplan_kurz.docx)
 - [**Notfallplan (pdf)**](/uploads/Notfallplan_kurz.pdf)
+- [**Erste Hilfe**](/uploads/Erste_Hilfe.pdf)
