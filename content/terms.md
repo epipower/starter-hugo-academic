@@ -41,7 +41,7 @@ Gesetzliche Bestimmungen und Entwicklungen in der Medizin sind ständigen Verän
 
 Alle innerhalb dieser Webseite genannten und gegebenenfalls durch Dritte geschützten Marken- und Warenzeichen unterliegen uneingeschränkt den Bestimmungen des jeweils gültigen Kennzeichnungsrechts und den Besitzrechten der jeweiligen eingetragenen Eigentümer. Die bloße Nennung lässt nicht den Schluss zu, dass Markenzeichen nicht durch Rechte Dritter geschützt sind.
 
-© Epilepsie Empowerment Deutschland e.V., März 2023. Alle Rechte vorbehalten.
+© Epilepsie Empowerment Deutschland e.V., März 2026. Alle Rechte vorbehalten.
 
 
 
