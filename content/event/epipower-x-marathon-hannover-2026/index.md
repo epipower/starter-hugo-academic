@@ -10,7 +10,7 @@ abstract: >-
   📅 12.04.2026, in Hannover
 
 
-  💡 Es gibt verschiedene Disziplinen: Marathon, Halbmarathon, 21 km Nordic Walking und 10 km Lauf. 
+  💡 Es gibt verschiedene Disziplinen: Marathon, Marathon-Staffel (2-6 Personen), 21 km Nordic Walking und 10 km Lauf. 
 
 
    
@@ -33,7 +33,7 @@ abstract: >-
 
   10 km - 5 €
 
-  Halbmarathon & Nordic Walking - 10 €
+  Staffel & Nordic Walking - 10 €
 
   Marathon - 15 €
 
