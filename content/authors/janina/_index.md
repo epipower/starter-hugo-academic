@@ -2,8 +2,9 @@
 title: Janina Haase
 role: Kassenwartin
 # avatar_filename: avatar
-website: https://https://epipower.de/verein/finanzierung/
-# social: []
+social:
+ - icon: link
+   link: https://https://epipower.de/verein/finanzierung/
 # superuser: false
 user_groups:
   - leaderboard
