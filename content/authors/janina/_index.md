@@ -4,7 +4,7 @@ role: Kassenwartin
 # avatar_filename: avatar
 social:
  - icon: link
-   link: https://https://epipower.de/verein/finanzierung/
+   link: https://epipower.de/verein/finanzierung/
 # superuser: false
 user_groups:
   - leaderboard
