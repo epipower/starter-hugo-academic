@@ -1,6 +1,6 @@
 ---
-title: Mareike
-role: Zweite Beisitzerin
+title: Mareike Kiene
+role: Zweite Beisitzerin (Kassenprüfung)
 avatar_filename: avatar
 social: []
 superuser: false

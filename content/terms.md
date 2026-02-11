@@ -11,12 +11,10 @@ share: false
 Gemeinnütziger Verein<br> 
 Vereinssitz: Elmenhorst<br> 
 Verwaltungssitz: Untere Turmgasse 5/1, 74206 Bad Wimpfen<br> 
-Vereinsregister: Amtsgericht Lübeck VR 4631 HL<br> 
-Steuernummer: 30/299/85256<br> 
-Finanzamt: Stormarn <br> 
-Postfach: Kaiserstraße 217, 76133 Karlsruhe<br> 
+Vereinsregister: Amtsgericht Lübeck VR 4631 HL<br>
+Finanzamt: Stormarn <br>
 Vorsitzende: Sina Lang, Karoline Hartmann, Lynna Held<br>
-Schriftführerin: Leonie Wolllscheid<br>
+Schriftführerin: Leonie Wollscheid<br>
 Kassenwartin: Janina Haase<br>
 
 

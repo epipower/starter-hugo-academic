@@ -1,5 +1,5 @@
 ---
-title: Sina
+title: Sina Lang
 role: Vorsitzende
 avatar_filename: avatar
 social: []

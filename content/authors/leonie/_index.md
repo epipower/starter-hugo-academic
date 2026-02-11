@@ -1,5 +1,5 @@
 ---
-title: Leonie
+title: Leonie Wollscheid
 role: Schriftführerin
 avatar_filename: avatar
 social: []

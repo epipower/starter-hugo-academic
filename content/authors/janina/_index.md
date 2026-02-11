@@ -1,5 +1,5 @@
 ---
-title: Janina
+title: Janina Haase
 role: Kassenwartin
 avatar_filename: avatar
 social: []

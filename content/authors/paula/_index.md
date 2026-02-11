@@ -1,6 +1,6 @@
 ---
-title: Paula
-role: Erste Beisitzerin
+title: Paula Bach
+role: Erste Beisitzerin (Kassenprüfung)
 avatar_filename: paula.jpg
 social: []
 superuser: false

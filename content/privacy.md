@@ -12,8 +12,7 @@ editable: false
 Epilepsie Empowerment Deutschland e.V. (Epipower)<br> 
 Vereinssitz: Elmenhorst<br> 
 Verwaltungssitz: Untere Turmgasse 5/1, 74206 Bad Wimpfen<br> 
-Kontakt: info@epipower.de<br> 
-Postfach: Kaiserstraße 217, 76133 Karlsruhe<br> 
+Kontakt: info@epipower.de<br>
 
 ### Datenschutzbeauftrager
 Eine/n Datenschutzbeauftragte/n muss Epilepsie Empowerment Deutschland e.V. nicht stellen, da keine 10 Personen Zugriff auf Daten der Mitglieder haben.

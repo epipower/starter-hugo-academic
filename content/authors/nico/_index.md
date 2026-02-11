@@ -1,5 +1,5 @@
 ---
-title: Nico
+title: Nicolas Zabler
 role: Kassenprüfer
 avatar_filename: img_0744.jpg
 social: []

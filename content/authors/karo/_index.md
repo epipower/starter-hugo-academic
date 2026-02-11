@@ -1,5 +1,5 @@
 ---
-title: Karo
+title: Karoline Hartmann
 role: Vorsitzende
 avatar_filename: avatar
 social: []
