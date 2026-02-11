@@ -1,9 +1,10 @@
 ---
 title: Karoline Hartmann
 role: Vorsitzende
-avatar_filename: avatar
-social: []
-superuser: false
+# social:
+#  - icon: user
+#    icon_pack: fas
+#    link: https://epipower.de/verein/finanzierung/
 user_groups:
   - leaderboard
 ---

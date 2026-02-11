@@ -1,9 +1,10 @@
 ---
 title: Nicolas Zabler
 role: Kassenprüfer
-avatar_filename: img_0744.jpg
-social: []
-superuser: false
+# social:
+#  - icon: user
+#    icon_pack: fas
+#    link: https://epipower.de/verein/finanzierung/
 user_groups:
   - leaderboard
 ---
