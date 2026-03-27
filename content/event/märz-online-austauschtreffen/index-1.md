@@ -26,7 +26,7 @@ date_end: 2026-03-02T20:30:53.308Z
 all_day: false
 event: "März: ZOOM Online Austauschtreffen "
 event_url: mailto:info@epipower.de
-publishDate: 2026-03-27T10:50:17.930Z
+publishDate: 2026-03-27T10:55:55.653Z
 draft: false
 featured: false
 image:
