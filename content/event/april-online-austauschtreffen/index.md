@@ -1,5 +1,5 @@
 ---
-title: "Dezember: Online Austauschtreffen "
+title: "April: Online Austauschtreffen "
 abstract: >-
   Wann? Jeden 1. Dienstag im Monat ab 18.30 Uhr bis ca. 21.30 Uhr 
 
@@ -21,14 +21,14 @@ abstract: >-
 
   Die Daten für das Jahr sind nach der Registrierung einsehbar.
 location: ZOOM
-date: 2025-12-02T18:30:58.189Z
-date_end: 2025-12-02T21:30:59.040Z
+date: 2026-04-07T16:30:42.721Z
+date_end: 2026-04-07T20:30:39.169Z
 all_day: false
-event: "Dezember: ZOOM Online Austauschtreffen "
+event: "April: ZOOM Online Austauschtreffen "
 event_url: mailto:info@epipower.de
-publishDate: 2025-11-02T11:07:04.353Z
+publishDate: 2026-03-27T10:55:44.219Z
 draft: false
 featured: false
 image:
-  filename: 22ad0047-dd70-4563-83b3-d5be6ad47e21.png
+  filename: 22ad0047-dd70-4563-83b3-d5be6ad47e21-1-.png
 ---
