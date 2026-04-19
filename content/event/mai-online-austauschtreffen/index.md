@@ -21,7 +21,7 @@ abstract: >-
 
   Die Daten für das Jahr sind nach der Registrierung einsehbar.
 location: ZOOM
-date: 2025-05-06T18:30:26.691Z
+date: 2026-03-03T19:30:26.691Z
 date_end: 2025-05-06T21:30:11.510Z
 all_day: false
 event: "Mai: ZOOM Online Austauschtreffen "
