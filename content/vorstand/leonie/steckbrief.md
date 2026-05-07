@@ -5,6 +5,10 @@ draft: false
 share: false
 commentable: false
 editable: false
+image:
+  filename: Picture1.png
+  focal_point: Smart
+  preview_only: false
 
 ---
 
