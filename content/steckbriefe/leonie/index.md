@@ -11,8 +11,6 @@ image:
   preview_only: false
 ---
 
-![Leonie Wollscheid](Picture1.png)
-
 - Jahrgang: 1999
 - Position: Schriftführerin (Vorstand), Gründungsmitglied 
 - Beruf: Ingenieurin, M.Eng. 
