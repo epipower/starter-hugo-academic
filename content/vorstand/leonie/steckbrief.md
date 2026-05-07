@@ -20,6 +20,19 @@ editable: false
   - Events, Marketing, Social Media 
   - Ressourcen (Finanzen & Personal)
 
+English:
+- Year of birth: 1999  
+- Position: Secretary (Board Member), Founding Member  
+- Occupation: Engineer, M.Eng.  
+- Lives with epilepsy  
+- Active in advocacy work since 2018, nationally and internationally  
+- Co-author of various posters and publications (primarily international, in English)  
+- Speaker (national & international)  
+- Responsibilities within the association:  
+  - Project management/projects  
+  - Events, marketing, social media  
+  - Resources (finance & human resources) 
+
 ### Publikationen/Publications & Engagement: 
 
 https://www.ibe-epilepsy.org/citizen-journalist/ 
