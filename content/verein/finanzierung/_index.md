@@ -16,22 +16,7 @@ view: 2
 
 ## Ihre Spende hilft!
 Sie möchten unsere Arbeit für Menschen mit Epilepsie, sowie ihre Angehörigen unterstützen? 
-Dann spenden Sie jetzt über folgenden Button:
-
-<div style="text-align: center;">
-    <link href="https://plugin.whydonate.com/wdplugin-style.css" rel="stylesheet" type="text/css">
-    <div id="share-widget-unterstutzen-sie-epilepsie-empowerment-deutschland-ev" class="share-widget" 
-        data-slug="unterstutzen-sie-epilepsie-empowerment-deutschland-ev" 
-        data-lang="de" 
-        data-success_url="" 
-        data-fail_url="" 
-        data-card="hide" 
-        data-form_mode="donation-widget">
-    </div>
-    <script src="https://plugin.whydonate.com/wp_styling.js" type="text/javascript"></script>
-</div>
-
-oder per Banküberweisung auf folgendes Konto:
+Dann spenden Sie jetzt auf folgendes Konto:
 
 Epilepsie Empowerment Deutschland e.V. (Epipower)<br> 
 VR-Bank Altenburger Land eG<br> 
