@@ -18,4 +18,22 @@ editable: false
 - Aufgabengebiete im Verein: 
   - Projektleitung/Projekte 
   - Events, Marketing, Social Media 
-  - Ressourcen (Finanzen & Personal) 
+  - Ressourcen (Finanzen & Personal)
+
+### Publikationen/Publications & Engagement: 
+
+https://www.ibe-epilepsy.org/citizen-journalist/ 
+
+https://pubmed.ncbi.nlm.nih.gov/41984448/ 
+
+https://aesnet.org/abstractslisting/bridging-the-divide-enhancing-communication-and-care-between-people-living-with-epilepsy-and-their-healthcare-providers 
+
+https://www.ilae.org/congresses/webinars/living-with-epilepsy-conversation-between-a-patient-and-a-psychologist 
+
+https://womenandepilepsy.org/about/ 
+
+https://www.sciencedirect.com/science/article/pii/S1525505025004779 
+
+https://www.ilae.org/congresses/36th-international-epilepsy-congress/section/sectionid/1 -> Main session 4 
+
+https://epipower.de/uploads/Berufliche_Teilhabe_von_Menschen_mit_Epilepsie.pdf
