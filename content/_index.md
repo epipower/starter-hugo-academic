@@ -178,7 +178,7 @@ sections:
           name: epipower.de
           link: https://www.instagram.com/epipower.de/
       address:
-        street: Untere Turmgasse 51 #Postfach Kaiserstraße 217
+        street: Untere Turmgasse 5/1 #Postfach Kaiserstraße 217
         city: Bad Wimpfen #Karlsruhe
         postcode: '74206' #'76133'
         country: Germany
