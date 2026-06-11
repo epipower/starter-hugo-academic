@@ -68,6 +68,7 @@ Sie kann jedoch den Zugang zu Informationen erleichtern, das Gefühl von Isolati
 <ins>Publikationen</ins>
 
 - [**Berufliche Teilhabe von Menschen mit Epilepsie**](/uploads/Berufliche_Teilhabe_von_Menschen_mit_Epilepsie.pdf)
+- [**Arbeitsleben mit Epilepsie**](/uploads/Arbeitsleben_mit_Epilepsie.png)
 
 <ins>Für Betroffene</ins>
 
