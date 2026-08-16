@@ -30,5 +30,5 @@ publishDate: 2026-08-16T12:59:39.052Z
 draft: false
 featured: false
 image:
-  filename: ""
+  filename: austausch-treffen.png
 ---
