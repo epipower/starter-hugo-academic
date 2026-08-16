@@ -24,7 +24,7 @@ location: ZOOM
 date: 2026-10-06T16:30:00.000Z
 date_end: 2026-10-06T21:30:11.510Z
 all_day: false
-event: "August: ZOOM Online Austauschtreffen "
+event: "Oktober: ZOOM Online Austauschtreffen "
 event_url: mailto:info@epipower.de
 publishDate: 2026-08-16T13:03:53.415Z
 draft: false
