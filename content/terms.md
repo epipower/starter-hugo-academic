@@ -13,9 +13,12 @@ Vereinssitz: Elmenhorst<br>
 Verwaltungssitz: Untere Turmgasse 5/1, 74206 Bad Wimpfen<br> 
 Vereinsregister: Amtsgericht Lübeck VR 4631 HL<br>
 Finanzamt: Stormarn <br>
-Vorsitzende: Sina Lang, Karoline Hartmann, Lynna Held<br>
-Schriftführerin: Leonie Wollscheid<br>
-Kassenwartin: Janina Haase<br>
+Vorstandsvorsitzende: Leonie Wollscheid<br>
+Vorstand Finanzen: Mareike Kiene<br>
+Vorstand Event, Projekte, Marketing: Lynna Held<br>
+Vorstand IT: Karoline Hartmann<br>
+Kassenprüfer: Nicolas Zabler<br>
+Stellvertretende Kassenprüferin: Paula Bach<br>
 
 
 ### Website
@@ -23,7 +26,7 @@ Index: [www.epipower.de](https://www.epipower.de)<br>
 Design: Nicolas Zabler<br> 
 Programmierung: Nicolas Zabler<br> 
 Inhaltliche Gestaltung: Leonie Wollscheid<br> 
-Inhaltlich Verantwortlicher gem. § 10 Abs. 2 MDStV: Sina Lang (Vorsitzende)<br> 
+Inhaltlich Verantwortliche gem. § 10 Abs. 2 MDStV: Leonie Wollscheid (Vorsitzende)<br> 
 
 ### Datenschutz
 Beachten Sie bitte die Hinweise zum Datenschutz in unseren [Datenschutzrichtlinien](https://www.epipower.de/privacy).
