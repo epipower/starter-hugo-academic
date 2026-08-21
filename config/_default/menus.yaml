@@ -28,7 +28,7 @@ main:
     weight: 70
   - name: Mitglied werden
     parent: verein
-    url: https://easyverein.com/public/Epipower/applicationform/6424
+    url: https://epipower.de/temp/mitglied/ #https://easyverein.com/public/Epipower/applicationform/6424
     weight: 10
   - name: Satzung
     parent: verein

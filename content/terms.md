@@ -15,7 +15,7 @@ Vereinsregister: Amtsgericht Lübeck VR 4631 HL<br>
 Finanzamt: Stormarn <br>
 Vorstandsvorsitzende: Leonie Wollscheid<br>
 Vorstand Finanzen: Mareike Kiene<br>
-Vorstand Event, Projekte, Marketing: Lynna Held<br>
+Vorstand Event, Projekte & Marketing: Lynna Held<br>
 Vorstand IT: Karoline Hartmann<br>
 
 
