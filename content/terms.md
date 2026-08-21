@@ -17,8 +17,6 @@ Vorstandsvorsitzende: Leonie Wollscheid<br>
 Vorstand Finanzen: Mareike Kiene<br>
 Vorstand Event, Projekte, Marketing: Lynna Held<br>
 Vorstand IT: Karoline Hartmann<br>
-Kassenprüfer: Nicolas Zabler<br>
-Stellvertretende Kassenprüferin: Paula Bach<br>
 
 
 ### Website
