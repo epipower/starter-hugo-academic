@@ -12,7 +12,7 @@ image:
 ---
 
 - Jahrgang: 1999
-- Position: Schriftführerin (Vorstand), Gründungsmitglied 
+- Position: Vorstandsvorsitzende, Gründungsmitglied 
 - Beruf: Ingenieurin, M.Eng. 
 - Selbst betroffen von Epilepsie 
 - Aktiv in der Aufklärungsarbeit seit 2018, national & international 
