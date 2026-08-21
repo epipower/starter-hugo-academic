@@ -1,6 +1,6 @@
 ---
 title: Paula Bach
-role: Erste Beisitzerin (Kassenprüfung)
+role: Stellvertretende Kassenprüferin
 # social:
 #  - icon: user
 #    icon_pack: fas

@@ -1,6 +1,6 @@
 ---
 title: Lynna Held
-role: Vorsitzende
+role: Vorstand Event, Projekte, Marketing
 # social:
 #  - icon: user
 #    icon_pack: fas

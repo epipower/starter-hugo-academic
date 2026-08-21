@@ -1,6 +1,6 @@
 ---
 title: Mareike Kiene
-role: Zweite Beisitzerin (Kassenprüfung)
+role: Vorstand Finanzen
 # social:
 #  - icon: user
 #    icon_pack: fas

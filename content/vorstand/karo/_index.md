@@ -1,6 +1,6 @@
 ---
 title: Karoline Hartmann
-role: Vorsitzende
+role: Vorstand IT
 # social:
 #  - icon: user
 #    icon_pack: fas

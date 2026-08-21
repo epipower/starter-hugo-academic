@@ -1,6 +1,6 @@
 ---
 title: Leonie Wollscheid
-role: Schriftführerin
+role: Vorsitzende
 social:
  - icon: user
    icon_pack: fas
