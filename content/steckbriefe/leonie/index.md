@@ -25,7 +25,7 @@ image:
 
 English:
 - Year of birth: 1999  
-- Position: Secretary (Board Member), Founding Member  
+- Position: Head of the Board, Founding Member  
 - Occupation: Engineer, M.Eng.  
 - Lives with epilepsy  
 - Active in advocacy work since 2018, nationally and internationally  
