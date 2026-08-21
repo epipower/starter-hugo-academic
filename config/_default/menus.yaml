@@ -32,7 +32,7 @@ main:
     weight: 10
   - name: Satzung
     parent: verein
-    url: uploads/Satzung_03_23.pdf
+    url: uploads/Satzung_neu.pdf
     weight: 20
   - name: Finanzierung
     parent: verein
