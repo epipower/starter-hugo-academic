@@ -1,0 +1,93 @@
+{{ if .IsHome }}
+
+<div id="welcome-popup" class="welcome-popup" aria-hidden="true">
+  <div class="welcome-popup-content">
+
+    <button
+      type="button"
+      class="welcome-popup-close"
+      aria-label="Schließen"
+      onclick="closeWelcomePopup()">
+      &times;
+    </button>
+
+    <h2>Willkommen!</h2>
+
+    <p>
+      Hier kommt dein Text hin.
+    </p>
+
+    <button
+      type="button"
+      class="welcome-popup-button"
+      onclick="closeWelcomePopup()">
+      Schließen
+    </button>
+
+  </div>
+</div>
+
+<style>
+  .welcome-popup {
+    display: none;
+    position: fixed;
+    inset: 0;
+    z-index: 99999;
+
+    align-items: center;
+    justify-content: center;
+
+    background: rgba(0, 0, 0, 0.6);
+  }
+
+  .welcome-popup-content {
+    position: relative;
+
+    width: min(500px, calc(100% - 40px));
+    padding: 2rem;
+
+    background: #fff;
+    border-radius: 12px;
+
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+  }
+
+  .welcome-popup-close {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+
+    border: none;
+    background: transparent;
+
+    font-size: 28px;
+    line-height: 1;
+    cursor: pointer;
+  }
+
+  .welcome-popup-button {
+    cursor: pointer;
+  }
+</style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const popup = document.getElementById("welcome-popup");
+
+    if (popup) {
+      popup.style.display = "flex";
+      popup.setAttribute("aria-hidden", "false");
+    }
+  });
+
+  function closeWelcomePopup() {
+    const popup = document.getElementById("welcome-popup");
+
+    if (popup) {
+      popup.style.display = "none";
+      popup.setAttribute("aria-hidden", "true");
+    }
+  }
+</script>
+
+{{ end }}
