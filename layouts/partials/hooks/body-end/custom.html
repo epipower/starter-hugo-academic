@@ -1,4 +1,3 @@
-```html
 <div id="test-popup" class="custom-popup" style="display: none;">
   <div class="custom-popup-content">
 
@@ -17,20 +16,25 @@
     <!-- Text -->
     <div class="custom-popup-text">
       <h2>Zukunft der Selbsthilfe – eine Kampagne der AG Epilepsie-Selbsthilfeverbände D</h2>
+
       <p>
         Bei allen Selbsthilfeverbänden, die sich für Menschen mit Epilepsie, deren Angehörige und Familien einsetzen, landen eine Flut an Anfragen sowie Bitten um Informationsmaterial, Beratung und Unterstützung.
       </p>
+
       <p>
-      Trotz Internetsuchmaschinen und KI bleibt die Zahl derjenigen, die uns kontaktieren und auf unsere Angebote zurückgreifen, beständig hoch bzw. steigt sogar noch an. Gleichzeitig verringert sich die Anzahl derer, die bereit sind, sich ehrenamtlich zu engagieren und Verantwortung zu übernehmen. Das bedeutet: Immer weniger Schultern müssen immer mehr Aufgaben übernehmen. Viele Organisationen haben seit Jahren Probleme, Nachwuchs für Vorstand und sonstige Posten zu finden.
+        Trotz Internetsuchmaschinen und KI bleibt die Zahl derjenigen, die uns kontaktieren und auf unsere Angebote zurückgreifen, beständig hoch bzw. steigt sogar noch an. Gleichzeitig verringert sich die Anzahl derer, die bereit sind, sich ehrenamtlich zu engagieren und Verantwortung zu übernehmen. Das bedeutet: Immer weniger Schultern müssen immer mehr Aufgaben übernehmen. Viele Organisationen haben seit Jahren Probleme, Nachwuchs für Vorstand und sonstige Posten zu finden.
       </p>
+
       <p>
-      Unsere gemeinsame Kampagne soll darauf aufmerksam machen, wie es aussieht, wenn es „still“ wird in der Selbsthilfe und unsere Angebote nicht mehr zur Verfügung stehen können, weil niemand mehr da ist, diese aufrechtzuerhalten.
+        Unsere gemeinsame Kampagne soll darauf aufmerksam machen, wie es aussieht, wenn es „still“ wird in der Selbsthilfe und unsere Angebote nicht mehr zur Verfügung stehen können, weil niemand mehr da ist, diese aufrechtzuerhalten.
       </p>
+
       <p>
-      Was bringt euch euer Engagement? Interessante Einblicke in die neuesten Entwicklungen in Medizin, Wissenschaft und Forschung, die Möglichkeit zum Besuch von Fachtagungen und -seminaren, interessante Kontakte zu Verantwortlichen in der „Epilepsie-Welt“. Und: Anderen zu helfen, kann bereichernd sein!
+        Was bringt euch euer Engagement? Interessante Einblicke in die neuesten Entwicklungen in Medizin, Wissenschaft und Forschung, die Möglichkeit zum Besuch von Fachtagungen und -seminaren, interessante Kontakte zu Verantwortlichen in der „Epilepsie-Welt“. Und: Anderen zu helfen, kann bereichernd sein!
       </p>
+
       <p>
-      Deshalb: Beteiligt euch, sprecht uns an und wir überlegen gemeinsam, wie ihr euch am besten einbringen könnt – werdet Teil unseres Selbsthilfe-Engagements!
+        Deshalb: Beteiligt euch, sprecht uns an und wir überlegen gemeinsam, wie ihr euch am besten einbringen könnt – werdet Teil unseres Selbsthilfe-Engagements!
       </p>
     </div>
 
@@ -54,13 +58,13 @@
     box-sizing: border-box;
   }
 
-  /* Eigentliche Popup-Box */
+  /* Popup-Box */
   .custom-popup-content {
     position: relative;
 
     width: 100%;
     max-width: 600px;
-    min-height: 600px;
+
     background: #ffffff;
     border-radius: 18px;
     overflow: hidden;
@@ -74,31 +78,31 @@
   .custom-popup-image {
     display: block;
 
-    width: 50%;
-    height: 200px;
-    margin:0 auto;
-    object-fit: cover;
+    width: 70%;
+    height: auto;
+
+    margin: 0 auto;
   }
 
   /* Text */
   .custom-popup-text {
-    padding: 20px 35px 15px;
+    padding: 15px 35px 10px;
     text-align: center;
   }
 
   .custom-popup-text h2 {
     margin: 0 0 10px;
 
-    font-size: 10px;
-    line-height: 1.2;
+    font-size: 22px;
+    line-height: 1.3;
     color: #222;
   }
 
   .custom-popup-text p {
     margin: 0 0 10px;
 
-    font-size: 8px;
-    line-height: 1.6;
+    font-size: 15px;
+    line-height: 1.5;
     color: #666;
   }
 
@@ -154,6 +158,7 @@
 
   /* Mobile */
   @media (max-width: 600px) {
+
     .custom-popup {
       padding: 15px;
     }
@@ -161,22 +166,26 @@
     .custom-popup-content {
       max-width: 100%;
       border-radius: 15px;
+      max-height: 90vh;
+      overflow-y: auto;
     }
 
     .custom-popup-image {
-      max-height: 280px;
+      width: 85%;
+      height: auto;
     }
 
     .custom-popup-text {
-      padding: 24px 20px 26px;
+      padding: 20px 20px 15px;
     }
 
     .custom-popup-text h2 {
-      font-size: 24px;
+      font-size: 20px;
     }
 
     .custom-popup-text p {
-      font-size: 16px;
+      font-size: 14px;
+      line-height: 1.5;
     }
   }
 </style>
@@ -191,11 +200,11 @@
       return;
     }
 
-    // Popup nach 3 Sekunden anzeigen
+    // Popup nach 1 Sekunde anzeigen
     setTimeout(function () {
       popup.style.display = 'flex';
 
-      // Erst jetzt als angezeigt markieren
+      // Als angezeigt markieren
       sessionStorage.setItem('testPopupShown', 'true');
     }, 1000);
 
@@ -212,4 +221,3 @@
     });
   })();
 </script>
-```
