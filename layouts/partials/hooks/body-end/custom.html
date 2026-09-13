@@ -1,51 +1,206 @@
 ```html
-<div id="test-popup" style="
-  position: fixed;
-  top: 20px;
-  right: 20px;
-  z-index: 999999;
-  background: red;
-  color: white;
-  padding: 30px;
-  font-size: 30px;
-  box-shadow: 0 4px 20px rgba(0,0,0,0.3);
-">
-  <button id="test-popup-close" style="
-    position: absolute;
-    top: 5px;
-    right: 8px;
-    background: none;
-    border: none;
-    color: white;
-    font-size: 24px;
-    line-height: 1;
-    cursor: pointer;
-  " aria-label="Popup schließen">
-    ×
-  </button>
+<div id="test-popup" class="custom-popup">
+  <div class="custom-popup-content">
 
-  <img src="/uploads/test.jpeg" alt="Test" style="width: 200px; display: block;">
+    <!-- Schließen -->
+    <button id="test-popup-close" class="custom-popup-close" aria-label="Popup schließen">
+      &times;
+    </button>
 
-  TEST BODY-END
+    <!-- Bild -->
+    <img
+      src="/uploads/test.jpeg"
+      alt="Test"
+      class="custom-popup-image"
+    >
+
+    <!-- Text -->
+    <div class="custom-popup-text">
+      <h2>Willkommen!</h2>
+      <p>
+        Hier kann dein Text stehen.
+      </p>
+    </div>
+
+  </div>
 </div>
+
+<style>
+  /* Hintergrund / Overlay */
+  .custom-popup {
+    position: fixed;
+    inset: 0;
+    z-index: 999999;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background: rgba(0, 0, 0, 0.45);
+
+    padding: 20px;
+
+    box-sizing: border-box;
+  }
+
+  /* Eigentliche Popup-Box */
+  .custom-popup-content {
+    position: relative;
+
+    width: 100%;
+    max-width: 500px;
+
+    background: #ffffff;
+    border-radius: 18px;
+
+    overflow: hidden;
+
+    box-shadow:
+      0 20px 60px rgba(0, 0, 0, 0.20);
+
+    animation: popup-appear 0.25s ease-out;
+  }
+
+  /* Bild */
+  .custom-popup-image {
+    display: block;
+
+    width: 100%;
+    height: auto;
+
+    max-height: 350px;
+
+    object-fit: cover;
+  }
+
+  /* Textbereich */
+  .custom-popup-text {
+    padding: 28px 30px 30px;
+
+    text-align: center;
+  }
+
+  .custom-popup-text h2 {
+    margin: 0 0 10px;
+
+    font-size: 28px;
+    line-height: 1.2;
+
+    color: #222;
+  }
+
+  .custom-popup-text p {
+    margin: 0;
+
+    font-size: 17px;
+    line-height: 1.6;
+
+    color: #666;
+  }
+
+  /* Schließen-Button */
+  .custom-popup-close {
+    position: absolute;
+
+    top: 12px;
+    right: 12px;
+
+    width: 38px;
+    height: 38px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border: none;
+    border-radius: 50%;
+
+    background: rgba(255, 255, 255, 0.92);
+    color: #333;
+
+    font-size: 25px;
+    line-height: 1;
+
+    cursor: pointer;
+
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.12);
+
+    transition:
+      background 0.2s ease,
+      transform 0.2s ease;
+  }
+
+  .custom-popup-close:hover {
+    background: #ffffff;
+    transform: scale(1.08);
+  }
+
+  /* Animation beim Öffnen */
+  @keyframes popup-appear {
+    from {
+      opacity: 0;
+      transform: scale(0.95) translateY(10px);
+    }
+
+    to {
+      opacity: 1;
+      transform: scale(1) translateY(0);
+    }
+  }
+
+  /* Mobile */
+  @media (max-width: 600px) {
+    .custom-popup {
+      padding: 15px;
+    }
+
+    .custom-popup-content {
+      max-width: 100%;
+      border-radius: 15px;
+    }
+
+    .custom-popup-image {
+      max-height: 280px;
+    }
+
+    .custom-popup-text {
+      padding: 24px 20px 26px;
+    }
+
+    .custom-popup-text h2 {
+      font-size: 24px;
+    }
+
+    .custom-popup-text p {
+      font-size: 16px;
+    }
+  }
+</style>
 
 <script>
   (function () {
     const popup = document.getElementById('test-popup');
     const closeButton = document.getElementById('test-popup-close');
 
-    // Wurde das Popup in dieser Browser-Session bereits angezeigt?
+    // Bereits in dieser Browser-Session angezeigt?
     if (sessionStorage.getItem('testPopupShown') === 'true') {
       popup.style.display = 'none';
       return;
     }
 
-    // Popup als angezeigt markieren
+    // Als angezeigt markieren
     sessionStorage.setItem('testPopupShown', 'true');
 
     // Popup schließen
     closeButton.addEventListener('click', function () {
       popup.style.display = 'none';
+    });
+
+    // Optional: Schließen mit ESC
+    document.addEventListener('keydown', function (event) {
+      if (event.key === 'Escape') {
+        popup.style.display = 'none';
+      }
     });
   })();
 </script>
