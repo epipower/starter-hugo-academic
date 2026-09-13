@@ -1,5 +1,5 @@
 ```html
-<div id="test-popup" class="custom-popup">
+<div id="test-popup" class="custom-popup" style="display: none;">
   <div class="custom-popup-content">
 
     <!-- Schließen -->
@@ -39,7 +39,6 @@
     background: rgba(0, 0, 0, 0.45);
 
     padding: 20px;
-
     box-sizing: border-box;
   }
 
@@ -52,11 +51,9 @@
 
     background: #ffffff;
     border-radius: 18px;
-
     overflow: hidden;
 
-    box-shadow:
-      0 20px 60px rgba(0, 0, 0, 0.20);
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.20);
 
     animation: popup-appear 0.25s ease-out;
   }
@@ -67,16 +64,14 @@
 
     width: 100%;
     height: auto;
-
     max-height: 350px;
 
     object-fit: cover;
   }
 
-  /* Textbereich */
+  /* Text */
   .custom-popup-text {
     padding: 28px 30px 30px;
-
     text-align: center;
   }
 
@@ -85,7 +80,6 @@
 
     font-size: 28px;
     line-height: 1.2;
-
     color: #222;
   }
 
@@ -94,7 +88,6 @@
 
     font-size: 17px;
     line-height: 1.6;
-
     color: #666;
   }
 
@@ -135,7 +128,7 @@
     transform: scale(1.08);
   }
 
-  /* Animation beim Öffnen */
+  /* Öffnungsanimation */
   @keyframes popup-appear {
     from {
       opacity: 0;
@@ -182,21 +175,25 @@
     const popup = document.getElementById('test-popup');
     const closeButton = document.getElementById('test-popup-close');
 
-    // Bereits in dieser Browser-Session angezeigt?
+    // Wurde das Popup in dieser Browser-Session bereits angezeigt?
     if (sessionStorage.getItem('testPopupShown') === 'true') {
-      popup.style.display = 'none';
       return;
     }
 
-    // Als angezeigt markieren
-    sessionStorage.setItem('testPopupShown', 'true');
+    // Popup nach 3 Sekunden anzeigen
+    setTimeout(function () {
+      popup.style.display = 'flex';
+
+      // Erst jetzt als angezeigt markieren
+      sessionStorage.setItem('testPopupShown', 'true');
+    }, 3000);
 
     // Popup schließen
     closeButton.addEventListener('click', function () {
       popup.style.display = 'none';
     });
 
-    // Optional: Schließen mit ESC
+    // Popup auch mit ESC schließen
     document.addEventListener('keydown', function (event) {
       if (event.key === 'Escape') {
         popup.style.display = 'none';
