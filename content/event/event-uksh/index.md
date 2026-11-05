@@ -6,7 +6,9 @@ abstract: |
 
 
   **Termin:** 14. November 2026, 10:00–14:00 Uhr
+
   **Ort:** UKSH Gesundheitsforum, CITTI-PARK Kiel und online
+  
   **Teilnahme:** Kostenfrei (Hybrid-Veranstaltung)
 
 
