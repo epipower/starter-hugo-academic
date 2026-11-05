@@ -12,7 +12,7 @@ abstract: |
 
   **Weitere Informationen und Anmeldung:**  
   https://www.uksh.de/gesundheitsforum/Veranstaltungen+Kiel/2026/Epilepsie+im+Berufsleben+und+am+Steuer+%28Hybrid_Vortrag%29-p-20647.html
-location: ZOOM
+location: Hybrid
 date: 2026-11-14T10:00:00.000Z
 date_end: 2026-11-14T14:00:00.000Z
 all_day: false
