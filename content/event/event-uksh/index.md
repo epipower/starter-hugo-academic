@@ -11,8 +11,8 @@ abstract: >
   **Weitere Informationen und Anmeldung:**  
   https://www.uksh.de/gesundheitsforum/Veranstaltungen+Kiel/2026/Epilepsie+im+Berufsleben+und+am+Steuer+%28Hybrid_Vortrag%29-p-20647.html
 location: ZOOM
-date: 2026-04-07T16:30:42.721Z
-date_end: 2026-04-07T20:30:39.169Z
+date: 2026-11-14T16:30:42.721Z
+date_end: 2026-11-14T20:30:39.169Z
 all_day: false
 event: "Epilepsie im Berufsleben und am Steuer (Hybrid-Vortrag)"
 publishDate: 2026-03-27T10:55:44.219Z
