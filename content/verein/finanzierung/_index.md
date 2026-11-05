@@ -36,3 +36,7 @@ Die Förderer (Pharmaunternehmen, etc.) haben keinerlei Einfluss auf den Inhalt 
 Die Förderer (Krankenkassen, GKV, etc.) haben keinerlei Einfluss auf den Inhalt und die Ergebnisse von Projekten, Dokumenten und dem Vereinsgeschehen. Auf dem § 20 SGB V basiert die Selbsthilfeförderung der Krankenkassen, welche sich in Pauschalförderung (GKV) und die kassenindividuelle Förderung (projektbezogen) unterteilt.
 
 - [**Förderung durch Krankenkassen**](/uploads/2025_Förderung_durch_Krankenkassen.pdf)
+
+### Leitsätze der Selbsthilfe
+
+- [**Leitsätze der Selbsthilfe**](/uploads/Leitsaetze_2022.pdf)
